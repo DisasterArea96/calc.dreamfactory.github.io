@@ -1,1 +1,23490 @@
-var SETDEX_ADV = {"Sunkern":{"Sunkern-1 [1]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mega Drain","Helping Hand","Sunny Day","Light Screen"],"nature":"Relaxed","isCustomSet":true}},"Azurill":{"Azurill-1 [2]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Water Pulse","Attract","Sing","Charm"],"nature":"Rash","item":"Cheri Berry","isCustomSet":true}},"Caterpie":{"Caterpie-1 [3]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Tackle","String Shot","---","---"],"nature":"Quirky","item":"Focus Band","isCustomSet":true}},"Weedle":{"Weedle-1 [4]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Poison Sting","String Shot","---","---"],"nature":"Quirky","item":"Focus Band","isCustomSet":true}},"Wurmple":{"Wurmple-1 [5]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Tackle","String Shot","Poison Sting","---"],"nature":"Quirky","isCustomSet":true}},"Ralts":{"Ralts-1 [6]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Confusion","Imprison","Double Team","Light Screen"],"nature":"Docile","item":"Twisted Spoon","isCustomSet":true}},"Magikarp":{"Magikarp-1 [7]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Flail","---","---","---"],"nature":"Hardy","item":"Focus Band","isCustomSet":true}},"Feebas":{"Feebas-1 [8]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Flail","Mirror Coat","---","---"],"nature":"Lonely","item":"Focus Band","isCustomSet":true}},"Metapod":{"Metapod-1 [9]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Harden","---","---","---"],"nature":"Bashful","isCustomSet":true}},"Kakuna":{"Kakuna-1 [10]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Harden","---","---","---"],"nature":"Bashful","isCustomSet":true}},"Pichu":{"Pichu-1 [11]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Sweet Kiss","Thunder Wave","Attract","Shock Wave"],"nature":"Rash","item":"Sitrus Berry","isCustomSet":true}},"Silcoon":{"Silcoon-1 [12]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Harden","---","---","---"],"nature":"Bashful","isCustomSet":true}},"Cascoon":{"Cascoon-1 [13]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Harden","---","---","---"],"nature":"Bashful","isCustomSet":true}},"Igglybuff":{"Igglybuff-1 [14]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sweet Kiss","Sing","Attract","Seismic Toss"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Wooper":{"Wooper-1 [15]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Yawn","Dig","Water Pulse","Rain Dance"],"nature":"Docile","item":"Sitrus Berry","isCustomSet":true}},"Tyrogue":{"Tyrogue-1 [16]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Mach Punch","Protect","Double Team","Facade"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Sentret":{"Sentret-1 [17]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Quick Attack","Follow Me","Helping Hand","Assist"],"nature":"Docile","item":"King's Rock","isCustomSet":true}},"Cleffa":{"Cleffa-1 [18]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Sweet Kiss","Sing","Attract","Metronome"],"nature":"Serious","isCustomSet":true}},"Seedot":{"Seedot-1 [19]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Bullet Seed","Bide","Defense Curl","Rollout"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Lotad":{"Lotad-1 [20]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Rain Dance","Water Pulse","Sunny Day","Mega Drain"],"nature":"Docile","isCustomSet":true}},"Poochyena":{"Poochyena-1 [21]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Crunch","Swagger","Roar","Sand-Attack"],"nature":"Relaxed","item":"Petaya Berry","isCustomSet":true}},"Shedinja":{"Shedinja-1 [22]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Shadow Ball","Confuse Ray","Silver Wind","Grudge"],"nature":"Naive","isCustomSet":true},"Shedinja-Boss [Greta Silver]":{"level":100,"evs":{"hp":0,"at":252,"df":6,"sa":0,"sd":0,"sp":252},"moves":["Shadow Ball","Return","Confuse Ray","Aerial Ace"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true}},"Makuhita":{"Makuhita-1 [23]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Fake Out","Seismic Toss","Detect","Whirlwind"],"nature":"Docile","isCustomSet":true}},"Whismur":{"Whismur-1 [24]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Uproar","Swagger","Body Slam","Smelling Salt"],"nature":"Relaxed","item":"Cheri Berry","isCustomSet":true}},"Zigzagoon":{"Zigzagoon-1 [25]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Headbutt","Pin Missile","Swift","Sand-Attack"],"nature":"Timid","item":"Silk Scarf","isCustomSet":true}},"Zubat":{"Zubat-1 [26]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Poison Fang","Whirlwind","Confuse Ray","Aerial Ace"],"nature":"Sassy","item":"Cheri Berry","isCustomSet":true}},"Togepi":{"Togepi-1 [27]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Return","Yawn","Wish","Sweet Kiss"],"nature":"Relaxed","isCustomSet":true}},"Spinarak":{"Spinarak-1 [28]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Signal Beam","Night Shade","Spider Web","Scary Face"],"nature":"Quirky","item":"Liechi Berry","isCustomSet":true}},"Marill":{"Marill-1 [29]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Water Pulse","Rain Dance","Light Screen","Return"],"nature":"Gentle","item":"Mystic Water","isCustomSet":true}},"Hoppip":{"Hoppip-1 [30]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Mega Drain","Leech Seed","Sleep Powder","Stun Spore"],"nature":"Lax","isCustomSet":true}},"Slugma":{"Slugma-1 [31]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Ember","Rock Slide","Yawn","Body Slam"],"nature":"Sassy","item":"Sitrus Berry","isCustomSet":true}},"Swinub":{"Swinub-1 [32]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Icy Wind","Dig","Rock Tomb","Endure"],"nature":"Gentle","item":"Sitrus Berry","isCustomSet":true}},"Smeargle":{"Smeargle-1 [33]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Extreme Speed","Fake Out","Quick Attack","Mach Punch"],"nature":"Hardy","item":"King's Rock","isCustomSet":true}},"Pidgey":{"Pidgey-1 [34]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Gust","Sand-Attack","Whirlwind","Quick Attack"],"nature":"Lonely","item":"Sharp Beak","isCustomSet":true}},"Rattata":{"Rattata-1 [35]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Hyper Fang","Pursuit","Quick Attack","Swagger"],"nature":"Docile","item":"King's Rock","isCustomSet":true}},"Wynaut":{"Wynaut-1 [36]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Encore","Counter","Mirror Coat","Charm"],"nature":"Jolly","isCustomSet":true}},"Skitty":{"Skitty-1 [37]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sing","Attract","Charm","Double Slap"],"nature":"Docile","item":"Bright Powder","isCustomSet":true}},"Spearow":{"Spearow-1 [38]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Fury Attack","Pursuit","Mirror Move","Protect"],"nature":"Docile","item":"Liechi Berry","isCustomSet":true}},"Hoothoot":{"Hoothoot-1 [39]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Confusion","Hypnosis","Supersonic","Reflect"],"nature":"Quirky","item":"Persim Berry","isCustomSet":true}},"Diglett":{"Diglett-1 [40]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Magnitude","Slash","Rock Tomb","Sand-Attack"],"nature":"Naive","item":"King's Rock","isCustomSet":true}},"Ledyba":{"Ledyba-1 [41]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psybeam","Agility","Baton Pass","Light Screen"],"nature":"Bashful","item":"Sitrus Berry","isCustomSet":true}},"Nincada":{"Nincada-1 [42]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Mud-Slap","Dig","Toxic","Protect"],"nature":"Calm","item":"Pecha Berry","isCustomSet":true}},"Surskit":{"Surskit-1 [43]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Bubble Beam","Rain Dance","Sweet Scent","Quick Attack"],"nature":"Relaxed","item":"Mystic Water","isCustomSet":true}},"Jigglypuff":{"Jigglypuff-1 [44]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Sing","Wish","Mimic","Double Slap"],"nature":"Relaxed","isCustomSet":true}},"Taillow":{"Taillow-1 [45]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":0,"sp":170},"moves":["Fly","Quick Attack","Endeavor","Focus Energy"],"nature":"Gentle","item":"Salac Berry","isCustomSet":true}},"Wingull":{"Wingull-1 [46]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Water Pulse","Fly","Quick Attack","Steel Wing"],"nature":"Hardy","item":"Persim Berry","isCustomSet":true}},"Nidoran-M":{"Nidoran-M-1 [47]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double Kick","Poison Sting","Disable","Helping Hand"],"nature":"Quirky","item":"Sitrus Berry","isCustomSet":true}},"Nidoran-F":{"Nidoran-F-1 [48]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Crunch","Double Kick","Flatter","Helping Hand"],"nature":"Quirky","item":"Sitrus Berry","isCustomSet":true}},"Kirlia":{"Kirlia-1 [49]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Confusion","Will-O-Wisp","Future Sight","Light Screen"],"nature":"Docile","item":"White Herb","isCustomSet":true}},"Mareep":{"Mareep-1 [50]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Shock Wave","Flash","Reflect","Cotton Spore"],"nature":"Relaxed","item":"Cheri Berry","isCustomSet":true}},"Meditite":{"Meditite-1 [51]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["High Jump Kick","Meditate","Swagger","Psych Up"],"nature":"Naughty","item":"Mental Herb","isCustomSet":true}},"Slakoth":{"Slakoth-1 [52]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Yawn","Scratch","Encore","Counter"],"nature":"Quirky","item":"Leftovers","isCustomSet":true}},"Paras":{"Paras-1 [53]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Spore","Leech Life","Slash","Light Screen"],"nature":"Relaxed","item":"Sitrus Berry","isCustomSet":true}},"Ekans":{"Ekans-1 [54]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Acid","Dig","Screech","Torment"],"nature":"Docile","item":"Poison Barb","isCustomSet":true}},"Ditto":{"Ditto-1 [55]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Transform","---","---","---"],"nature":"Hardy","item":"Metal Powder","isCustomSet":true}},"Barboach":{"Barboach-1 [56]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Magnitude","Water Pulse","Spark","Future Sight"],"nature":"Bashful","item":"Focus Band","isCustomSet":true}},"Meowth":{"Meowth-1 [57]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Slash","Bite","Screech","Fake Out"],"nature":"Quirky","item":"Persim Berry","isCustomSet":true}},"Pineco":{"Pineco-1 [58]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Selfdestruct","Take Down","Reflect","Light Screen"],"nature":"Quirky","item":"Focus Band","isCustomSet":true}},"Trapinch":{"Trapinch-1 [59]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Toxic","Dig","Sandstorm","Sand-Attack"],"nature":"Serious","isCustomSet":true}},"Spheal":{"Spheal-1 [60]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Ball","Water Pulse","Hail","Mud-Slap"],"nature":"Docile","isCustomSet":true}},"Horsea":{"Horsea-1 [61]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Water Gun","Agility","Icy Wind","Twister"],"nature":"Relaxed","item":"Petaya Berry","isCustomSet":true}},"Shroomish":{"Shroomish-1 [62]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Spore","Bullet Seed","Leech Seed","Headbutt"],"nature":"Relaxed","item":"Miracle Seed","isCustomSet":true}},"Shuppet":{"Shuppet-1 [63]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Will-O-Wisp","Night Shade","Grudge","Knock Off"],"nature":"Rash","item":"Rawst Berry","isCustomSet":true}},"Duskull":{"Duskull-1 [64]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Skill Swap","Night Shade","Disable","Confuse Ray"],"nature":"Quirky","item":"Persim Berry","isCustomSet":true}},"Electrike":{"Electrike-1 [65]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Spark","Thunder Wave","Roar","Quick Attack"],"nature":"Docile","item":"Cheri Berry","isCustomSet":true}},"Vulpix":{"Vulpix-1 [66]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Will-O-Wisp","Confuse Ray","Fire Spin","Quick Attack"],"nature":"Docile","item":"Rawst Berry","isCustomSet":true}},"Pikachu":{"Pikachu-1 [67]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Thunder Punch","Thunder Wave","Double Team","Quick Attack"],"nature":"Docile","item":"Light Ball","isCustomSet":true}},"Sandshrew":{"Sandshrew-1 [68]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Dig","Rock Tomb","Sandstorm","Sand-Attack"],"nature":"Docile","item":"Soft Sand","isCustomSet":true}},"Poliwag":{"Poliwag-1 [69]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Hypnosis","Icy Wind","Water Gun","Rain Dance"],"nature":"Relaxed","item":"Mystic Water","isCustomSet":true}},"Bellsprout":{"Bellsprout-1 [70]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Razor Leaf","Acid","Stun Spore","Wrap"],"nature":"Lax","item":"Sitrus Berry","isCustomSet":true}},"Geodude":{"Geodude-1 [71]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Magnitude","Rock Blast","Strength","Protect"],"nature":"Brave","item":"Focus Band","isCustomSet":true}},"Dratini":{"Dratini-1 [72]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Outrage","Thunder Wave","Supersonic","Water Pulse"],"nature":"Docile","item":"Persim Berry","isCustomSet":true}},"Snubbull":{"Snubbull-1 [73]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Bite","Charm","Swagger","Scary Face"],"nature":"Relaxed","isCustomSet":true}},"Remoraid":{"Remoraid-1 [74]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Bubble Beam","Aurora Beam","Psybeam","Protect"],"nature":"Quirky","item":"Petaya Berry","isCustomSet":true}},"Larvitar":{"Larvitar-1 [75]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Thrash","Rock Slide","Dig","Dragon Dance"],"nature":"Naughty","item":"Persim Berry","isCustomSet":true}},"Baltoy":{"Baltoy-1 [76]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psybeam","Ancient Power","Light Screen","Mud-Slap"],"nature":"Naughty","item":"Persim Berry","isCustomSet":true}},"Snorunt":{"Snorunt-1 [77]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Icy Wind","Headbutt","Leer","Bite"],"nature":"Brave","item":"Persim Berry","isCustomSet":true}},"Bagon":{"Bagon-1 [78]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Dragon Breath","Headbutt","Brick Break","Scary Face"],"nature":"Naughty","item":"Liechi Berry","isCustomSet":true}},"Beldum":{"Beldum-1 [79]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Take Down","---","---","---"],"nature":"Hardy","item":"Choice Band","isCustomSet":true}},"Gulpin":{"Gulpin-1 [80]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Toxic","Yawn","Pain Split","Attract"],"nature":"Serious","isCustomSet":true}},"Venonat":{"Venonat-1 [81]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psybeam","Supersonic","Stun Spore","Skill Swap"],"nature":"Relaxed","item":"Sitrus Berry","isCustomSet":true}},"Mankey":{"Mankey-1 [82]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Karate Chop","Low Kick","Screech","Swagger"],"nature":"Naughty","item":"Black Belt","isCustomSet":true}},"Machop":{"Machop-1 [83]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Seismic Toss","Revenge","Rock Tomb","Scary Face"],"nature":"Adamant","isCustomSet":true}},"Shellder":{"Shellder-1 [84]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Icicle Spear","Supersonic","Clamp","Withdraw"],"nature":"Relaxed","item":"Cheri Berry","isCustomSet":true}},"Smoochum":{"Smoochum-1 [85]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sweet Kiss","Sing","Mud-Slap","Fake Out"],"nature":"Docile","item":"Bright Powder","isCustomSet":true}},"Numel":{"Numel-1 [86]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Ember","Magnitude","Rock Tomb","Sandstorm"],"nature":"Hardy","isCustomSet":true}},"Carvanha":{"Carvanha-1 [87]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Bite","Screech","Scary Face","Swagger"],"nature":"Quiet","isCustomSet":true}},"Corphish":{"Corphish-1 [88]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Crabhammer","Water Pulse","Mud-Slap","Protect"],"nature":"Brave","item":"Mystic Water","isCustomSet":true}},"Charmander":{"Charmander-1 [89]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Fire Spin","Metal Claw","Smoke Screen","Scary Face"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Cyndaquil":{"Cyndaquil-1 [90]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ember","Swift","Quick Attack","Smoke Screen"],"nature":"Docile","item":"Sitrus Berry","isCustomSet":true}},"Abra":{"Abra-1 [91]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Mimic","Metronome","Flash","Seismic Toss"],"nature":"Lonely","item":"Twisted Spoon","isCustomSet":true}},"Doduo":{"Doduo-1 [92]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Fury Attack","Uproar","Mud-Slap","Feint Attack"],"nature":"Lonely","item":"Liechi Berry","isCustomSet":true}},"Gastly":{"Gastly-1 [93]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Dream Eater","Hypnosis","Night Shade","Confuse Ray"],"nature":"Lonely","isCustomSet":true}},"Swablu":{"Swablu-1 [94]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Take Down","Dream Eater","Sing","Attract"],"nature":"Lonely","item":"Mental Herb","isCustomSet":true}},"Treecko":{"Treecko-1 [95]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Bullet Seed","Aerial Ace","Quick Attack","Double Team"],"nature":"Lonely","isCustomSet":true}},"Torchic":{"Torchic-1 [96]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Fire Spin","Quick Attack","Sand-Attack","Double Team"],"nature":"Lonely","item":"Bright Powder","isCustomSet":true}},"Mudkip":{"Mudkip-1 [97]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Whirlpool","Endeavor","Mud Sport","Mud-Slap"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Squirtle":{"Squirtle-1 [98]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Water Pulse","Bite","Withdraw","Protect"],"nature":"Docile","item":"Sitrus Berry","isCustomSet":true}},"Totodile":{"Totodile-1 [99]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Slash","Water Pulse","Screech","Icy Wind"],"nature":"Docile","isCustomSet":true}},"Slowpoke":{"Slowpoke-1 [100]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Confusion","Disable","Water Pulse","Yawn"],"nature":"Brave","item":"Sitrus Berry","isCustomSet":true}},"Bulbasaur":{"Bulbasaur-1 [101]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Razor Leaf","Sweet Scent","Sleep Powder","Light Screen"],"nature":"Relaxed","item":"Bright Powder","isCustomSet":true}},"Chikorita":{"Chikorita-1 [102]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Secret Power","Bullet Seed","Mud-Slap","Light Screen"],"nature":"Relaxed","item":"Bright Powder","isCustomSet":true}},"Oddish":{"Oddish-1 [103]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Acid","Stun Spore","Sweet Scent","Moonlight"],"nature":"Relaxed","item":"Pecha Berry","isCustomSet":true}},"Psyduck":{"Psyduck-1 [104]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Confusion","Fury Swipes","Aerial Ace","Disable"],"nature":"Hasty","item":"Persim Berry","isCustomSet":true}},"Cubone":{"Cubone-1 [105]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Bone Club","Headbutt","Brick Break","Aerial Ace"],"nature":"Hardy","item":"Soft Sand","isCustomSet":true}},"Goldeen":{"Goldeen-1 [106]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Waterfall","Fury Attack","Agility","Psybeam"],"nature":"Docile","item":"Petaya Berry","isCustomSet":true}},"Natu":{"Natu-1 [107]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Night Shade","Future Sight","Confuse Ray","Flash"],"nature":"Relaxed","item":"Twisted Spoon","isCustomSet":true}},"Clefairy":{"Clefairy-1 [108]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Follow Me","Return","Encore","Sing"],"nature":"Lonely","isCustomSet":true}},"Magnemite":{"Magnemite-1 [109]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Shock Wave","Supersonic","Metal Sound","Reflect"],"nature":"Gentle","item":"Rawst Berry","isCustomSet":true}},"Seel":{"Seel-1 [110]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Aurora Beam","Dive","Body Slam","Fake Out"],"nature":"Hardy","item":"Aspear Berry","isCustomSet":true}},"Grimer":{"Grimer-1 [111]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Sludge","Rock Tomb","Acid Armor","Minimize"],"nature":"Quirky","item":"Pecha Berry","isCustomSet":true}},"Krabby":{"Krabby-1 [112]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Crabhammer","Mud Shot","Flail","Knock Off"],"nature":"Hardy","item":"Focus Band","isCustomSet":true}},"Exeggcute":{"Exeggcute-1 [113]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Confusion","Ancient Power","Leech Seed","Light Screen"],"nature":"Naughty","item":"Persim Berry","isCustomSet":true}},"Eevee":{"Eevee-1 [114]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Charm","Attract","Flail","Endure"],"nature":"Docile","item":"Salac Berry","isCustomSet":true}},"Drowzee":{"Drowzee-1 [115]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Confusion","Headbutt","Disable","Barrier"],"nature":"Quirky","item":"Sitrus Berry","isCustomSet":true}},"Voltorb":{"Voltorb-1 [116]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Spark","Screech","Rollout","Light Screen"],"nature":"Docile","isCustomSet":true}},"Chinchou":{"Chinchou-1 [117]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Spark","Dive","Confuse Ray","Take Down"],"nature":"Hardy","isCustomSet":true}},"Teddiursa":{"Teddiursa-1 [118]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Secret Power","Fake Tears","Feint Attack","Rest"],"nature":"Relaxed","item":"Chesto Berry","isCustomSet":true}},"Delibird":{"Delibird-1 [119]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Present","Ice Ball","Aerial Ace","Hail"],"nature":"Docile","isCustomSet":true}},"Houndour":{"Houndour-1 [120]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Crunch","Ember","Roar","Protect"],"nature":"Docile","item":"Charcoal","isCustomSet":true}},"Phanpy":{"Phanpy-1 [121]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Rollout","Defense Curl","Rock Tomb","Sandstorm"],"nature":"Naughty","isCustomSet":true}},"Spoink":{"Spoink-1 [122]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psywave","Bounce","Magic Coat","Confuse Ray"],"nature":"Relaxed","item":"Sitrus Berry","isCustomSet":true}},"Aron":{"Aron-1 [123]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Metal Claw","Aerial Ace","Metal Sound","Roar"],"nature":"Docile","item":"Persim Berry","isCustomSet":true}},"Luvdisc":{"Luvdisc-1 [124]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Sweet Kiss","Attract","Dive","Rain Dance"],"nature":"Relaxed","isCustomSet":true}},"Tentacool":{"Tentacool-1 [125]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Bubble Beam","Acid","Barrier","Wrap"],"nature":"Hardy","item":"Pecha Berry","isCustomSet":true}},"Cacnea":{"Cacnea-1 [126]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Needle Arm","Feint Attack","Cotton Spore","Sand-Attack"],"nature":"Quirky","item":"Sitrus Berry","isCustomSet":true}},"Unown":{"Unown-1 [127]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Hidden Power","---","---","---"],"nature":"Hardy","isCustomSet":true}},"Koffing":{"Koffing-1 [128]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sludge","Smoke Screen","Torment","Haze"],"nature":"Quirky","item":"Poison Barb","isCustomSet":true}},"Staryu":{"Staryu-1 [129]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Bubble Beam","Minimize","Swift","Light Screen"],"nature":"Quirky","isCustomSet":true}},"Skiploom":{"Skiploom-1 [130]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mega Drain","Confusion","Cotton Spore","Synthesis"],"nature":"Docile","item":"Persim Berry","isCustomSet":true}},"Nuzleaf":{"Nuzleaf-1 [131]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Extrasensory","Fake Out","Razor Wind","Feint Attack"],"nature":"Hardy","item":"Sitrus Berry","isCustomSet":true}},"Lombre":{"Lombre-1 [132]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Water Pulse","Fake Out","Brick Break","Absorb"],"nature":"Quirky","isCustomSet":true}},"Vibrava":{"Vibrava-1 [133]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Dragon Breath","Dig","Screech","Rock Tomb"],"nature":"Quirky","item":"Cheri Berry","isCustomSet":true}},"Rhyhorn":{"Rhyhorn-1 [134]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Rock Blast","Dig","Scary Face","Roar"],"nature":"Hardy","item":"Focus Band","isCustomSet":true}},"Clamperl":{"Clamperl-1 [135]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Dive","Toxic","Iron Defense","Double Team"],"nature":"Docile","item":"Deep Sea Scale","isCustomSet":true}},"Pidgeotto":{"Pidgeotto-1 [136]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Aerial Ace","Quick Attack","Feather Dance","Sand-Attack"],"nature":"Quirky","item":"White Herb","isCustomSet":true}},"Growlithe":{"Growlithe-1 [137]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Flame Wheel","Bite","Roar","Agility"],"nature":"Docile","item":"Rawst Berry","isCustomSet":true}},"Farfetch'd":{"Farfetch'd-1 [138]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Slash","Knock Off","Swords Dance","Agility"],"nature":"Relaxed","item":"Stick","isCustomSet":true}},"Omanyte":{"Omanyte-1 [139]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Mud Shot","Water Gun","Ancient Power","Tickle"],"nature":"Quirky","item":"Sitrus Berry","isCustomSet":true}},"Kabuto":{"Kabuto-1 [140]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mega Drain","Ancient Power","Sand-Attack","Protect"],"nature":"Hardy","item":"Sitrus Berry","isCustomSet":true}},"Lileep":{"Lileep-1 [141]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Ancient Power","Acid","Ingrain","Confuse Ray"],"nature":"Docile","isCustomSet":true}},"Anorith":{"Anorith-1 [142]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Metal Claw","Fury Cutter","Ancient Power","Water Gun"],"nature":"Hardy","isCustomSet":true}},"Aipom":{"Aipom-1 [143]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Fury Swipes","Sand-Attack","Baton Pass","Agility"],"nature":"Relaxed","item":"Silk Scarf","isCustomSet":true}},"Elekid":{"Elekid-1 [144]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunder Punch","Quick Attack","Swift","Light Screen"],"nature":"Naive","item":"Cheri Berry","isCustomSet":true}},"Loudred":{"Loudred-1 [145]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Stomp","Howl","Astonish","Supersonic"],"nature":"Relaxed","item":"Focus Band","isCustomSet":true}},"Spinda":{"Spinda-1 [146]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Dizzy Punch","Teeter Dance","Psybeam","Feint Attack"],"nature":"Relaxed","item":"Sitrus Berry","isCustomSet":true}},"Nidorina":{"Nidorina-1 [147]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double Kick","Bite","Aerial Ace","Flatter"],"nature":"Quirky","item":"Focus Band","isCustomSet":true}},"Nidorino":{"Nidorino-1 [148]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double Kick","Water Pulse","Mud-Slap","Flatter"],"nature":"Quirky","item":"Focus Band","isCustomSet":true}},"Flaaffy":{"Flaaffy-1 [149]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Shock Wave","Thunder Wave","Cotton Spore","Light Screen"],"nature":"Mild","item":"Magnet","isCustomSet":true}},"Magby":{"Magby-1 [150]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Fire Punch","Smoke Screen","Confuse Ray","Smog"],"nature":"Docile","isCustomSet":true}},"Nosepass":{"Nosepass-1 [151]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Rock Slide","Shock Wave","Thunder Wave","Sandstorm"],"nature":"Sassy","item":"Hard Stone","isCustomSet":true}},"Corsola":{"Corsola-1 [152]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Bubble Beam","Mirror Coat","Attract","Ancient Power"],"nature":"Impish","item":"Sitrus Berry","isCustomSet":true}},"Mawile":{"Mawile-1 [153]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Crunch","Fake Tears","Iron Defense","Baton Pass"],"nature":"Docile","item":"Bright Powder","isCustomSet":true}},"Butterfree":{"Butterfree-1 [154]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Silver Wind","Psybeam","Toxic","Whirlwind"],"nature":"Quirky","item":"Pecha Berry","isCustomSet":true}},"Beedrill":{"Beedrill-1 [155]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Twineedle","Pursuit","Endeavor","Agility"],"nature":"Naughty","isCustomSet":true}},"Poliwhirl":{"Poliwhirl-1 [156]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Water Pulse","Double Slap","Icy Wind","Rain Dance"],"nature":"Quirky","item":"Petaya Berry","isCustomSet":true}},"Onix":{"Onix-1 [157]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Rock Slide","Bind","Dragon Breath","Sandstorm"],"nature":"Hardy","item":"Sitrus Berry","isCustomSet":true}},"Beautifly":{"Beautifly-1 [158]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Silver Wind","Mega Drain","Attract","Whirlwind"],"nature":"Docile","item":"Mental Herb","isCustomSet":true}},"Dustox":{"Dustox-1 [159]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Silver Wind","Toxic","Psybeam","Whirlwind"],"nature":"Docile","item":"Silver Powder","isCustomSet":true}},"Ledian":{"Ledian-1 [160]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Comet Punch","Baton Pass","Swords Dance","Agility"],"nature":"Bashful","item":"Focus Band","isCustomSet":true}},"Ariados":{"Ariados-1 [161]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Signal Beam","Spider Web","Night Shade","Toxic"],"nature":"Serious","isCustomSet":true}},"Yanma":{"Yanma-1 [162]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Signal Beam","Aerial Ace","Double Team","Detect"],"nature":"Relaxed","isCustomSet":true}},"Delcatty":{"Delcatty-1 [163]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Secret Power","Feint Attack","Double Team","Heal Bell"],"nature":"Lonely","item":"Sitrus Berry","isCustomSet":true},"Delcatty-2 [268]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fake Tears","Sing","Thunderbolt","Ice Beam"],"nature":"Modest","isCustomSet":true}},"Sableye":{"Sableye-1 [164]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Feint Attack","Confuse Ray","Knock Off","Fake Out"],"nature":"Lonely","item":"Black Glasses","isCustomSet":true},"Sableye-2 [269]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Shadow Ball","Feint Attack","Confuse Ray","Recover"],"nature":"Quirky","isCustomSet":true}},"Lickitung":{"Lickitung-1 [165]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Slam","Brick Break","Lick","Mud-Slap"],"nature":"Quirky","item":"Sitrus Berry","isCustomSet":true},"Lickitung-2 [270]":{"level":100,"evs":{"hp":0,"at":170,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Body Slam","Shadow Ball","Rock Slide"],"nature":"Adamant","item":"Cheri Berry","isCustomSet":true}},"Weepinbell":{"Weepinbell-1 [166]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Razor Leaf","Acid","Wrap","Sweet Scent"],"nature":"Quiet","isCustomSet":true},"Weepinbell-2 [271]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Sludge Bomb","Razor Leaf","Sleep Powder","Reflect"],"nature":"Quirky","isCustomSet":true}},"Graveler":{"Graveler-1 [167]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Magnitude","Rock Throw","Defense Curl","Brick Break"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Graveler-2 [272]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Rock Slide","Brick Break","Counter"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Gloom":{"Gloom-1 [168]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Petal Dance","Acid","Stun Spore","Moonlight"],"nature":"Quirky","item":"Persim Berry","isCustomSet":true},"Gloom-2 [273]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Sunny Day","Sludge Bomb","Moonlight"],"nature":"Quirky","item":"Pecha Berry","isCustomSet":true}},"Porygon":{"Porygon-1 [169]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psybeam","Icy Wind","Recycle","Agility"],"nature":"Relaxed","item":"Sitrus Berry","isCustomSet":true},"Porygon-2 [274]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Tri Attack","Psychic","Thunder Wave","Recover"],"nature":"Quiet","item":"Cheri Berry","isCustomSet":true}},"Kadabra":{"Kadabra-1 [170]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Confusion","Role Play","Future Sight","Disable"],"nature":"Impish","item":"Twisted Spoon","isCustomSet":true},"Kadabra-2 [275]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Psychic","Thunder Wave","Reflect","Recover"],"nature":"Modest","item":"Twisted Spoon","isCustomSet":true}},"Wailmer":{"Wailmer-1 [171]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Whirlpool","Roar","Defense Curl","Rollout"],"nature":"Docile","isCustomSet":true},"Wailmer-2 [276]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Water Spout","Earthquake","Body Slam","Rest"],"nature":"Docile","item":"Chesto Berry","isCustomSet":true}},"Roselia":{"Roselia-1 [172]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Magical Leaf","Toxic","Grass Whistle","Cotton Spore"],"nature":"Docile","item":"Pecha Berry","isCustomSet":true},"Roselia-2 [277]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Giga Drain","Sludge Bomb","Grass Whistle","Synthesis"],"nature":"Docile","isCustomSet":true}},"Volbeat":{"Volbeat-1 [173]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Silver Wind","Confuse Ray","Quick Attack","Helping Hand"],"nature":"Quirky","item":"Liechi Berry","isCustomSet":true},"Volbeat-2 [278]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Signal Beam","Thunderbolt","Ice Punch","Tail Glow"],"nature":"Quirky","item":"Petaya Berry","isCustomSet":true}},"Illumise":{"Illumise-1 [174]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Silver Wind","Wish","Quick Attack","Helping Hand"],"nature":"Quirky","item":"Liechi Berry","isCustomSet":true},"Illumise-2 [279]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Silver Wind","Thunderbolt","Ice Punch","Giga Drain"],"nature":"Quirky","item":"Petaya Berry","isCustomSet":true}},"Ivysaur":{"Ivysaur-1 [175]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Petal Dance","Growth","Sweet Scent","Fury Cutter"],"nature":"Gentle","item":"Persim Berry","isCustomSet":true},"Ivysaur-2 [280]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Giga Drain","Sludge Bomb","Sleep Powder","Leech Seed"],"nature":"Quirky","item":"Bright Powder","isCustomSet":true}},"Charmeleon":{"Charmeleon-1 [176]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Slash","Fire Spin","Swords Dance","Aerial Ace"],"nature":"Naughty","isCustomSet":true},"Charmeleon-2 [281]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Flamethrower","Slash","Ancient Power","Dragon Rage"],"nature":"Hardy","isCustomSet":true}},"Wartortle":{"Wartortle-1 [177]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Water Pulse","Bite","Mud-Slap","Yawn"],"nature":"Docile","item":"Focus Band","isCustomSet":true},"Wartortle-2 [282]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Ice Beam","Rapid Spin","Protect"],"nature":"Docile","isCustomSet":true}},"Parasect":{"Parasect-1 [178]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Slash","Psybeam","Stun Spore","Flash"],"nature":"Rash","item":"Sitrus Berry","isCustomSet":true},"Parasect-2 [283]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Spore","Giga Drain","Dig","Double Team"],"nature":"Calm","item":"Leftovers","isCustomSet":true}},"Machoke":{"Machoke-1 [179]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Low Kick","Rock Tomb","Foresight","Scary Face"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Machoke-2 [284]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Cross Chop","Rock Slide","Foresight","Scary Face"],"nature":"Adamant","isCustomSet":true}},"Haunter":{"Haunter-1 [180]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Shadow Punch","Confuse Ray","Spite","Grudge"],"nature":"Rash","item":"Persim Berry","isCustomSet":true},"Haunter-2 [285]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Psychic","Hypnosis","Nightmare","Confuse Ray"],"nature":"Relaxed","isCustomSet":true}},"Bayleef":{"Bayleef-1 [181]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Razor Leaf","Toxic","Safeguard","Light Screen"],"nature":"Docile","item":"Bright Powder","isCustomSet":true},"Bayleef-2 [286]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Giga Drain","Body Slam","Grass Whistle","Rest"],"nature":"Docile","item":"Chesto Berry","isCustomSet":true}},"Quilava":{"Quilava-1 [182]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Flame Wheel","Fury Swipes","Swift","Smoke Screen"],"nature":"Docile","item":"Focus Band","isCustomSet":true},"Quilava-2 [287]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Flamethrower","Crush Claw","Body Slam","Smoke Screen"],"nature":"Docile","item":"Bright Powder","isCustomSet":true}},"Croconaw":{"Croconaw-1 [183]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Slash","Water Pulse","Bite","Scary Face"],"nature":"Docile","isCustomSet":true},"Croconaw-2 [288]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Aerial Ace","Rock Slide","Dig"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Togetic":{"Togetic-1 [184]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Aerial Ace","Magical Leaf","Wish","Follow Me"],"nature":"Relaxed","isCustomSet":true},"Togetic-2 [289]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Return","Sweet Kiss","Aerial Ace","Yawn"],"nature":"Relaxed","isCustomSet":true}},"Murkrow":{"Murkrow-1 [185]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Feint Attack","Fly","Torment","Taunt"],"nature":"Quirky","isCustomSet":true},"Murkrow-2 [290]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Perish Song","Mean Look","Double Team","Thunder Wave"],"nature":"Quirky","item":"Bright Powder","isCustomSet":true}},"Wobbuffet":{"Wobbuffet-1 [186]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Counter","Mirror Coat","Charm","Safeguard"],"nature":"Careful","item":"Focus Band","isCustomSet":true},"Wobbuffet-2 [291]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Counter","Mirror Coat","Encore","Destiny Bond"],"nature":"Careful","item":"Focus Band","isCustomSet":true}},"Plusle":{"Plusle-1 [187]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Spark","Fake Tears","Quick Attack","Helping Hand"],"nature":"Docile","item":"Petaya Berry","isCustomSet":true},"Plusle-2 [292]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Thunder Wave","Seismic Toss","Wish"],"nature":"Docile","item":"Petaya Berry","isCustomSet":true}},"Minun":{"Minun-1 [188]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Spark","Charm","Encore","Helping Hand"],"nature":"Docile","item":"Salac Berry","isCustomSet":true},"Minun-2 [293]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Attract","Charm","Wish"],"nature":"Docile","item":"Salac Berry","isCustomSet":true}},"Grovyle":{"Grovyle-1 [189]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Fury Cutter","Endeavor","Brick Break","Double Team"],"nature":"Relaxed","item":"Bright Powder","isCustomSet":true},"Grovyle-2 [294]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Giga Drain","Crush Claw","Screech","Rock Tomb"],"nature":"Docile","isCustomSet":true}},"Combusken":{"Combusken-1 [190]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ember","Double Kick","Quick Attack","Sand-Attack"],"nature":"Docile","isCustomSet":true},"Combusken-2 [295]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Flamethrower","Sky Uppercut","Slash","Sand-Attack"],"nature":"Docile","isCustomSet":true}},"Marshtomp":{"Marshtomp-1 [191]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mud Shot","Water Gun","Rock Tomb","Mud-Slap"],"nature":"Hardy","item":"Focus Band","isCustomSet":true},"Marshtomp-2 [296]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Muddy Water","Earthquake","Mud-Slap","Protect"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Ponyta":{"Ponyta-1 [192]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Fire Spin","Bounce","Quick Attack","Tail Whip"],"nature":"Hardy","item":"Rawst Berry","isCustomSet":true},"Ponyta-2 [297]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Body Slam","Double Kick","Double Team"],"nature":"Quirky","item":"Sitrus Berry","isCustomSet":true}},"Azumarill":{"Azumarill-1 [193]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Bubble Beam","Facade","Dig","Protect"],"nature":"Docile","item":"Sitrus Berry","isCustomSet":true},"Azumarill-2 [298]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Mega Kick","Brick Break","Iron Tail","Dig"],"nature":"Adamant","isCustomSet":true}},"Sudowoodo":{"Sudowoodo-1 [194]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Rock Slide","Feint Attack","Sandstorm","Block"],"nature":"Hardy","item":"Hard Stone","isCustomSet":true},"Sudowoodo-2 [299]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Mega Kick","Earthquake","Low Kick","Selfdestruct"],"nature":"Hardy","item":"Focus Band","isCustomSet":true}},"Magcargo":{"Magcargo-1 [195]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Rock Slide","Ember","Acid Armor","Sandstorm"],"nature":"Gentle","isCustomSet":true},"Magcargo-2 [300]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Overheat","Earthquake","Rock Slide","Body Slam"],"nature":"Quiet","isCustomSet":true}},"Pupitar":{"Pupitar-1 [196]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Dig","Bite","Scary Face","Sandstorm"],"nature":"Hardy","item":"Soft Sand","isCustomSet":true},"Pupitar-2 [301]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Rock Slide","Crunch","Scary Face"],"nature":"Hardy","isCustomSet":true}},"Sealeo":{"Sealeo-1 [197]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Ice Ball","Hail","Snore","Rest"],"nature":"Quirky","item":"Persim Berry","isCustomSet":true},"Sealeo-2 [302]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Surf","Body Slam","Hail"],"nature":"Quiet","item":"Sitrus Berry","isCustomSet":true}},"Raticate":{"Raticate-1 [198]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":0,"sp":170},"moves":["Endeavor","Pursuit","Scary Face","Quick Attack"],"nature":"Naive","item":"Silk Scarf","isCustomSet":true},"Raticate-2 [303]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Super Fang","Hyper Fang","Shadow Ball","Scary Face"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Masquerain":{"Masquerain-1 [199]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Silver Wind","Aerial Ace","Icy Wind","Stun Spore"],"nature":"Relaxed","item":"Cheri Berry","isCustomSet":true},"Masquerain-2 [304]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Hydro Pump","Ice Beam","Giga Drain","Stun Spore"],"nature":"Quiet","isCustomSet":true}},"Furret":{"Furret-1 [200]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Slam","Protect","Helping Hand","Follow Me"],"nature":"Serious","item":"Liechi Berry","isCustomSet":true},"Furret-2 [305]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Trick","Frustration","Shadow Ball","Follow Me"],"nature":"Adamant","item":"Choice Band","isCustomSet":true}},"Dunsparce":{"Dunsparce-1 [201]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Headbutt","Glare","Defense Curl","Rollout"],"nature":"Docile","isCustomSet":true},"Dunsparce-2 [306]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Ice Beam","Rock Tomb","Bite","Shadow Ball"],"nature":"Quiet","isCustomSet":true}},"Dragonair":{"Dragonair-1 [202]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Dragon Breath","Leer","Wrap","Safeguard"],"nature":"Docile","item":"Cheri Berry","isCustomSet":true},"Dragonair-2 [307]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Return","Rest","Thunder Wave","Dragon Dance"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true}},"Mightyena":{"Mightyena-1 [203]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Bite","Poison Fang","Taunt","Roar"],"nature":"Timid","item":"Mental Herb","isCustomSet":true},"Mightyena-2 [308]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Crunch","Shadow Ball","Frustration","Scary Face"],"nature":"Quirky","item":"King's Rock","isCustomSet":true}},"Linoone":{"Linoone-1 [204]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Secret Power","Sand-Attack","Covet","Tickle"],"nature":"Adamant","item":"White Herb","isCustomSet":true},"Linoone-2 [309]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Trick","Frustration","Thunder Wave","Sand-Attack"],"nature":"Jolly","item":"Choice Band","isCustomSet":true}},"Castform":{"Castform-1 [205]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ember","Water Pulse","Shock Wave","Icy Wind"],"nature":"Hasty","item":"Petaya Berry","isCustomSet":true},"Castform-2 [310]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Flamethrower","Ice Beam","Water Pulse"],"nature":"Modest","isCustomSet":true}},"Shelgon":{"Shelgon-1 [206]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Headbutt","Dragon Breath","Protect","Scary Face"],"nature":"Hardy","item":"Cheri Berry","isCustomSet":true},"Shelgon-2 [311]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Frustration","Dragon Dance","Crunch","Scary Face"],"nature":"Hardy","item":"Focus Band","isCustomSet":true}},"Metang":{"Metang-1 [207]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Metal Claw","Confusion","Pursuit","Scary Face"],"nature":"Hardy","item":"Focus Band","isCustomSet":true},"Metang-2 [312]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Meteor Mash","Psychic","Body Slam","Scary Face"],"nature":"Quirky","item":"Focus Band","isCustomSet":true},"Metang-Boss [Noland Silver†]":{"level":100,"evs":{"hp":0,"at":252,"df":252,"sa":6,"sd":0,"sp":0},"moves":["Light Screen","Psychic","Reflect","Metal Claw"],"nature":"Brave","item":"Sitrus Berry","isCustomSet":true},"Metang-Boss [Noland Gold†]":{"level":100,"evs":{"hp":0,"at":252,"df":252,"sa":6,"sd":0,"sp":0},"moves":["Light Screen","Psychic","Reflect","Metal Claw"],"nature":"Brave","item":"Sitrus Berry","isCustomSet":true}},"Wigglytuff":{"Wigglytuff-1 [208]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Sing","Disable","Wish","Secret Power"],"nature":"Relaxed","item":"Silk Scarf","isCustomSet":true},"Wigglytuff-2 [313]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Fake Tears","Sing","Dream Eater","Brick Break"],"nature":"Docile","item":"Sitrus Berry","isCustomSet":true}},"Sunflora":{"Sunflora-1 [209]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Petal Dance","Ingrain","Leech Seed","Light Screen"],"nature":"Quirky","item":"Persim Berry","isCustomSet":true},"Sunflora-2 [314]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Giga Drain","Grass Whistle","Growth","Double Team"],"nature":"Quiet","item":"Leftovers","isCustomSet":true}},"Chimecho":{"Chimecho-1 [210]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psywave","Take Down","Heal Bell","Safeguard"],"nature":"Sassy","item":"Twisted Spoon","isCustomSet":true},"Chimecho-2 [315]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Psychic","Hypnosis","Dream Eater","Heal Bell"],"nature":"Quiet","item":"Twisted Spoon","isCustomSet":true}},"Gligar":{"Gligar-1 [211]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Metal Claw","Dig","Aerial Ace","Quick Attack"],"nature":"Hasty","isCustomSet":true},"Gligar-2 [316]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Aerial Ace","Guillotine","Screech"],"nature":"Adamant","isCustomSet":true}},"Qwilfish":{"Qwilfish-1 [212]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":255,"sp":0},"moves":["Bubble Beam","Pin Missile","Spikes","Minimize"],"nature":"Impish","item":"Cheri Berry","isCustomSet":true},"Qwilfish-2 [317]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Revenge","Sludge Bomb","Shadow Ball","Destiny Bond"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Sneasel":{"Sneasel-1 [213]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Feint Attack","Fake Out","Icy Wind","Quick Attack"],"nature":"Relaxed","item":"Persim Berry","isCustomSet":true},"Sneasel-2 [318]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":0,"sp":170},"moves":["Crush Claw","Brick Break","Aerial Ace","Screech"],"nature":"Jolly","item":"King's Rock","isCustomSet":true}},"Pelipper":{"Pelipper-1 [214]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Water Pulse","Aerial Ace","Stockpile","Swallow"],"nature":"Quiet","item":"Sitrus Berry","isCustomSet":true},"Pelipper-2 [319]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Surf","Blizzard","Aerial Ace","Protect"],"nature":"Quiet","isCustomSet":true}},"Swellow":{"Swellow-1 [215]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Fly","Endeavor","Facade","Quick Attack"],"nature":"Adamant","item":"King's Rock","isCustomSet":true},"Swellow-2 [320]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Facade","Aerial Ace","Pursuit","Double Team"],"nature":"Adamant","item":"King's Rock","isCustomSet":true}},"Lairon":{"Lairon-1 [216]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Metal Claw","Rock Tomb","Iron Defense","Protect"],"nature":"Sassy","item":"Metal Coat","isCustomSet":true},"Lairon-2 [321]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Iron Tail","Roar","Protect"],"nature":"Sassy","item":"Sitrus Berry","isCustomSet":true}},"Tangela":{"Tangela-1 [217]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Mega Drain","Slam","Toxic","Bind"],"nature":"Hardy","isCustomSet":true},"Tangela-2 [322]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Giga Drain","Stun Spore","Rest","Amnesia"],"nature":"Calm","item":"Chesto Berry","isCustomSet":true}},"Arbok":{"Arbok-1 [218]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Poison Fang","Dig","Bite","Glare"],"nature":"Adamant","item":"Persim Berry","isCustomSet":true},"Arbok-2 [323]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Earthquake","Iron Tail","Glare"],"nature":"Adamant","isCustomSet":true}},"Persian":{"Persian-1 [219]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Fake Out","Slash","Torment","Swagger"],"nature":"Quirky","item":"Silk Scarf","isCustomSet":true},"Persian-2 [324]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Frustration","Shadow Ball","Roar","Fake Out"],"nature":"Quirky","item":"Silk Scarf","isCustomSet":true}},"Seadra":{"Seadra-1 [220]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Aurora Beam","Smoke Screen","Water Gun","Rain Dance"],"nature":"Sassy","item":"Mystic Water","isCustomSet":true},"Seadra-2 [325]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Hydro Pump","Frustration","Dragon Breath","Dragon Dance"],"nature":"Docile","isCustomSet":true}},"Kecleon":{"Kecleon-1 [221]":{"level":100,"evs":{"hp":170,"at":170,"df":170,"sa":0,"sd":0,"sp":0},"moves":["Secret Power","Psybeam","Magic Coat","Seismic Toss"],"nature":"Naive","item":"Focus Band","isCustomSet":true},"Kecleon-2 [326]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Trick","Brick Break","Shadow Ball","Skill Swap"],"nature":"Docile","item":"Choice Band","isCustomSet":true}},"Vigoroth":{"Vigoroth-1 [222]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Slash","Counter","Encore","Uproar"],"nature":"Lonely","item":"Focus Band","isCustomSet":true},"Vigoroth-2 [327]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Crush Claw","Reversal","Endure","Shadow Ball"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true}},"Lunatone":{"Lunatone-1 [223]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Confusion","Cosmic Power","Light Screen","Sandstorm"],"nature":"Quiet","item":"Sitrus Berry","isCustomSet":true},"Lunatone-2 [328]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Psychic","Ice Beam","Cosmic Power","Calm Mind"],"nature":"Quiet","isCustomSet":true}},"Solrock":{"Solrock-1 [224]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Confusion","Fire Spin","Light Screen","Sandstorm"],"nature":"Quiet","item":"Sitrus Berry","isCustomSet":true},"Solrock-2 [329]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Rock Slide","Cosmic Power","Overheat"],"nature":"Hardy","item":"White Herb","isCustomSet":true}},"Noctowl":{"Noctowl-1 [225]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Confusion","Aerial Ace","Feint Attack","Reflect"],"nature":"Relaxed","item":"Persim Berry","isCustomSet":true},"Noctowl-2 [330]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Feint Attack","Aerial Ace","Reflect"],"nature":"Quiet","item":"Persim Berry","isCustomSet":true}},"Sandslash":{"Sandslash-1 [226]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Crush Claw","Rock Slide","Swift","Sandstorm"],"nature":"Adamant","item":"Sitrus Berry","isCustomSet":true},"Sandslash-2 [331]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Rock Slide","Crush Claw","Sandstorm"],"nature":"Adamant","isCustomSet":true}},"Venomoth":{"Venomoth-1 [227]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Silver Wind","Psybeam","Sleep Powder","Skill Swap"],"nature":"Quirky","item":"Persim Berry","isCustomSet":true},"Venomoth-2 [332]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Signal Beam","Psychic","Sludge Bomb","Giga Drain"],"nature":"Docile","isCustomSet":true}},"Chansey":{"Chansey-1 [228]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Metronome","Refresh","Defense Curl","Minimize"],"nature":"Relaxed","item":"Sitrus Berry","isCustomSet":true},"Chansey-2 [333]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Seismic Toss","Shadow Ball","Double Team","Softboiled"],"nature":"Relaxed","item":"Leftovers","isCustomSet":true}},"Seaking":{"Seaking-1 [229]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Water Pulse","Psybeam","Swift","Agility"],"nature":"Docile","item":"Sitrus Berry","isCustomSet":true},"Seaking-2 [334]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Horn Drill","Megahorn","Sleep Talk","Rest"],"nature":"Impish","isCustomSet":true}},"Jumpluff":{"Jumpluff-1 [230]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Aerial Ace","Swagger","Psych Up","Synthesis"],"nature":"Docile","isCustomSet":true},"Jumpluff-2 [335]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Leech Seed","Sleep Powder","Giga Drain","Double Team"],"nature":"Bold","item":"Leftovers","isCustomSet":true}},"Piloswine":{"Piloswine-1 [231]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Dig","Ancient Power","Hail","Light Screen"],"nature":"Quirky","item":"Soft Sand","isCustomSet":true},"Piloswine-2 [336]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Rock Slide","Body Slam","Roar"],"nature":"Adamant","isCustomSet":true}},"Golbat":{"Golbat-1 [232]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Air Cutter","Confuse Ray","Toxic","Steel Wing"],"nature":"Relaxed","isCustomSet":true},"Golbat-2 [337]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Shadow Ball","Confuse Ray","Air Cutter"],"nature":"Adamant","isCustomSet":true}},"Primeape":{"Primeape-1 [233]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Karate Chop","Counter","Swagger","Screech"],"nature":"Quirky","isCustomSet":true},"Primeape-2 [338]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Cross Chop","Rock Tomb","Overheat","Bulk Up"],"nature":"Quirky","isCustomSet":true}},"Hitmonlee":{"Hitmonlee-1 [234]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Rolling Kick","Brick Break","Focus Energy","Facade"],"nature":"Adamant","item":"Black Belt","isCustomSet":true},"Hitmonlee-2 [339]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Brick Break","Foresight","Rock Tomb"],"nature":"Adamant","isCustomSet":true}},"Hitmonchan":{"Hitmonchan-1 [235]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Mach Punch","Sky Uppercut","Detect","Counter"],"nature":"Adamant","item":"King's Rock","isCustomSet":true},"Hitmonchan-2 [340]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Dynamic Punch","Mach Punch","Detect","Counter"],"nature":"Adamant","item":"King's Rock","isCustomSet":true}},"Girafarig":{"Girafarig-1 [236]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psybeam","Stomp","Wish","Skill Swap"],"nature":"Quiet","item":"Petaya Berry","isCustomSet":true},"Girafarig-2 [341]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Psychic","Crunch","Baton Pass","Agility"],"nature":"Modest","isCustomSet":true}},"Hitmontop":{"Hitmontop-1 [237]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Triple Kick","Dig","Mach Punch","Quick Attack"],"nature":"Hardy","item":"Liechi Berry","isCustomSet":true},"Hitmontop-2 [342]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Seismic Toss","Rock Slide","Counter"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Banette":{"Banette-1 [238]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Night Shade","Will-O-Wisp","Spite","Knock Off"],"nature":"Sassy","item":"Rawst Berry","isCustomSet":true},"Banette-2 [343]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Shadow Ball","Frustration","Screech","Will-O-Wisp"],"nature":"Adamant","isCustomSet":true}},"Ninjask":{"Ninjask-1 [239]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Baton Pass","Swords Dance","Endure","Dig"],"nature":"Mild","item":"Petaya Berry","isCustomSet":true},"Ninjask-2 [344]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Slash","Shadow Ball","Swords Dance","Baton Pass"],"nature":"Quirky","item":"Focus Band","isCustomSet":true}},"Seviper":{"Seviper-1 [240]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Poison Tail","Bite","Glare","Screech"],"nature":"Hardy","isCustomSet":true},"Seviper-2 [345]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Sludge Bomb","Earthquake","Crunch","Giga Drain"],"nature":"Quirky","isCustomSet":true},"Seviper-Boss [Lucy Silver]":{"level":100,"evs":{"hp":252,"at":0,"df":252,"sa":6,"sd":0,"sp":0},"moves":["Swagger","Crunch","Poison Fang","Giga Drain"],"nature":"Brave","isCustomSet":true},"Seviper-Boss [Lucy Gold]":{"level":100,"evs":{"hp":252,"at":0,"df":0,"sa":252,"sd":6,"sp":0},"moves":["Swagger","Crunch","Sludge Bomb","Giga Drain"],"nature":"Bold","item":"Focus Band","isCustomSet":true}},"Zangoose":{"Zangoose-1 [241]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Slash","Double Kick","Roar","Quick Attack"],"nature":"Hardy","item":"Persim Berry","isCustomSet":true},"Zangoose-2 [346]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Crush Claw","Shadow Ball","Brick Break","Aerial Ace"],"nature":"Adamant","isCustomSet":true}},"Camerupt":{"Camerupt-1 [242]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Magnitude","Protect","Sandstorm","Rock Slide"],"nature":"Quirky","item":"Focus Band","isCustomSet":true},"Camerupt-2 [347]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Earthquake","Eruption","Body Slam","Scary Face"],"nature":"Quirky","isCustomSet":true}},"Sharpedo":{"Sharpedo-1 [243]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Slash","Bite","Water Pulse","Scary Face"],"nature":"Adamant","isCustomSet":true},"Sharpedo-2 [348]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Double-Edge","Crunch","Earthquake","Surf"],"nature":"Quirky","isCustomSet":true}},"Tropius":{"Tropius-1 [244]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Magical Leaf","Whirlwind","Aerial Ace","Steel Wing"],"nature":"Hardy","item":"Sitrus Berry","isCustomSet":true},"Tropius-2 [349]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Sunny Day","Synthesis","Body Slam"],"nature":"Quiet","item":"Focus Band","isCustomSet":true}},"Magneton":{"Magneton-1 [245]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Shock Wave","Sonic Boom","Thunder Wave","Supersonic"],"nature":"Lonely","item":"Cheri Berry","isCustomSet":true},"Magneton-2 [350]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Thunder","Rain Dance","Thunder Wave","Metal Sound"],"nature":"Hardy","isCustomSet":true}},"Mantine":{"Mantine-1 [246]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Bubble Beam","Aerial Ace","Rain Dance","Icy Wind"],"nature":"Docile","item":"Mystic Water","isCustomSet":true},"Mantine-2 [351]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Surf","Ice Beam","Rain Dance","Confuse Ray"],"nature":"Modest","isCustomSet":true}},"Stantler":{"Stantler-1 [247]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Extrasensory","Confuse Ray","Stomp","Sand-Attack"],"nature":"Gentle","item":"Twisted Spoon","isCustomSet":true},"Stantler-2 [352]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Frustration","Shadow Ball","Thunder Wave","Confuse Ray"],"nature":"Adamant","isCustomSet":true}},"Absol":{"Absol-1 [248]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Bite","Razor Wind","Future Sight","Quick Attack"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Absol-2 [353]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Double-Edge","Shadow Ball","Aerial Ace","Iron Tail"],"nature":"Adamant","item":"Choice Band","isCustomSet":true}},"Swalot":{"Swalot-1 [249]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Stockpile","Swallow","Spit Up","Sludge"],"nature":"Quirky","isCustomSet":true},"Swalot-2 [354]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Shadow Ball","Body Slam","Counter"],"nature":"Adamant","item":"Leftovers","isCustomSet":true}},"Crawdaunt":{"Crawdaunt-1 [250]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Bubble Beam","Vice Grip","Knock Off","Protect"],"nature":"Adamant","item":"Persim Berry","isCustomSet":true},"Crawdaunt-2 [355]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Guillotine","Frustration","Ancient Power","Aerial Ace"],"nature":"Adamant","isCustomSet":true}},"Pidgeot":{"Pidgeot-1 [251]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Aerial Ace","Feather Dance","Mud-Slap","Feint Attack"],"nature":"Hardy","item":"Sharp Beak","isCustomSet":true},"Pidgeot-2 [356]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Return","Aerial Ace","Steel Wing","Mud-Slap"],"nature":"Adamant","isCustomSet":true}},"Grumpig":{"Grumpig-1 [252]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psybeam","Confuse Ray","Future Sight","Magic Coat"],"nature":"Relaxed","item":"Petaya Berry","isCustomSet":true},"Grumpig-2 [357]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Ice Punch","Thunder Punch","Fire Punch"],"nature":"Modest","isCustomSet":true}},"Torkoal":{"Torkoal-1 [253]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Ember","Fire Spin","Smoke Screen","Amnesia"],"nature":"Relaxed","item":"Sitrus Berry","isCustomSet":true},"Torkoal-2 [358]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Overheat","Body Slam","Smoke Screen","Protect"],"nature":"Sassy","item":"White Herb","isCustomSet":true}},"Kingler":{"Kingler-1 [254]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Crabhammer","Metal Claw","Mud Shot","Protect"],"nature":"Hardy","isCustomSet":true},"Kingler-2 [359]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Guillotine","Rock Tomb","Flail","Endure"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true}},"Cacturne":{"Cacturne-1 [255]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Needle Arm","Feint Attack","Acid","Mega Punch"],"nature":"Hasty","isCustomSet":true},"Cacturne-2 [360]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Mega Kick","Teeter Dance","Feint Attack","Sandstorm"],"nature":"Hardy","item":"Persim Berry","isCustomSet":true}},"Bellossom":{"Bellossom-1 [256]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Petal Dance","Safeguard","Sunny Day","Synthesis"],"nature":"Quiet","item":"Persim Berry","isCustomSet":true},"Bellossom-2 [361]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Attract","Sunny Day","Synthesis"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Octillery":{"Octillery-1 [257]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Octazooka","Aurora Beam","Psybeam","Rock Blast"],"nature":"Hardy","isCustomSet":true},"Octillery-2 [362]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Octazooka","Fire Blast","Thunder Wave","Mud-Slap"],"nature":"Quirky","isCustomSet":true}},"Huntail":{"Huntail-1 [258]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Whirlpool","Scary Face","Mud-Slap","Bite"],"nature":"Quiet","item":"Persim Berry","isCustomSet":true},"Huntail-2 [363]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Surf","Rain Dance","Crunch","Body Slam"],"nature":"Quiet","isCustomSet":true}},"Gorebyss":{"Gorebyss-1 [259]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Whirlpool","Amnesia","Icy Wind","Confusion"],"nature":"Brave","item":"Persim Berry","isCustomSet":true},"Gorebyss-2 [364]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Surf","Rain Dance","Psychic","Body Slam"],"nature":"Quiet","isCustomSet":true}},"Relicanth":{"Relicanth-1 [260]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":170,"sd":170,"sp":0},"moves":["Ancient Power","Water Pulse","Harden","Amnesia"],"nature":"Sassy","item":"Liechi Berry","isCustomSet":true},"Relicanth-2 [365]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Rock Slide","Amnesia","Rest"],"nature":"Sassy","item":"Chesto Berry","isCustomSet":true}},"Omastar":{"Omastar-1 [261]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Bubble Beam","Spike Cannon","Tickle","Ancient Power"],"nature":"Quirky","isCustomSet":true},"Omastar-2 [366]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Hydro Pump","Rain Dance","Ice Beam","Protect"],"nature":"Modest","item":"Sitrus Berry","isCustomSet":true}},"Kabutops":{"Kabutops-1 [262]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Slash","Dig","Fury Cutter","Knock Off"],"nature":"Adamant","isCustomSet":true},"Kabutops-2 [367]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Slash","Rock Slide","Flail","Endure"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true}},"Poliwrath":{"Poliwrath-1 [263]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Submission","Dig","Rock Tomb","Bubble Beam"],"nature":"Adamant","item":"Black Belt","isCustomSet":true},"Poliwrath-2 [368]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Brick Break","Hypnosis","Rest","Belly Drum"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true}},"Scyther":{"Scyther-1 [264]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Fury Cutter","Aerial Ace","Light Screen","Double Team"],"nature":"Relaxed","item":"Liechi Berry","isCustomSet":true},"Scyther-2 [369]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Silver Wind","Aerial Ace","Swords Dance","Double Team"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true}},"Pinsir":{"Pinsir-1 [265]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Submission","Focus Energy","Swords Dance","Revenge"],"nature":"Naughty","item":"Black Belt","isCustomSet":true},"Pinsir-2 [370]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Guillotine","Swords Dance","Flail","Endure"],"nature":"Jolly","item":"Salac Berry","isCustomSet":true}},"Politoed":{"Politoed-1 [266]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Dive","Dig","Hypnosis","Swagger"],"nature":"Relaxed","isCustomSet":true},"Politoed-2 [371]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Surf","Psychic","Mud-Slap","Swagger"],"nature":"Modest","isCustomSet":true}},"Cloyster":{"Cloyster-1 [267]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Aurora Beam","Spike Cannon","Supersonic","Protect"],"nature":"Sassy","isCustomSet":true},"Cloyster-2 [372]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Dive","Toxic","Double Team","Protect"],"nature":"Careful","item":"Leftovers","isCustomSet":true}},"Dugtrio":{"Dugtrio-1 [373]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Tri Attack","Slash","Sand Tomb"],"nature":"Adamant","item":"Soft Sand","isCustomSet":true},"Dugtrio-2 [469]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Ancient Power","Aerial Ace","Tri Attack"],"nature":"Adamant","item":"King's Rock","isCustomSet":true},"Dugtrio-3 [565]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Double-Edge","Sludge Bomb","Fissure"],"nature":"Adamant","item":"King's Rock","isCustomSet":true},"Dugtrio-4 [661]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Double-Edge","Rock Slide","Fissure"],"nature":"Adamant","item":"King's Rock","isCustomSet":true}},"Medicham":{"Medicham-1 [374]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Psychic","High Jump Kick","Calm Mind","Baton Pass"],"nature":"Docile","item":"Focus Band","isCustomSet":true},"Medicham-2 [470]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Reversal","Endure","Psychic","Fake Out"],"nature":"Hardy","item":"Salac Berry","isCustomSet":true},"Medicham-3 [566]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Dynamic Punch","Thunder Punch","Ice Punch","Fire Punch"],"nature":"Hardy","isCustomSet":true},"Medicham-4 [662]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mega Kick","Psychic","Shadow Ball","Rock Slide"],"nature":"Hardy","isCustomSet":true}},"Misdreavus":{"Misdreavus-1 [375]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Pain Split","Shadow Ball","Confuse Ray","Thunder Wave"],"nature":"Impish","item":"Focus Band","isCustomSet":true},"Misdreavus-2 [473]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Attract","Thunder Wave","Confuse Ray"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Misdreavus-3 [567]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Perish Song","Mean Look","Thunder Wave","Confuse Ray"],"nature":"Bold","item":"Bright Powder","isCustomSet":true},"Misdreavus-4 [663]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Destiny Bond","Psychic","Shadow Ball","Thunderbolt"],"nature":"Timid","isCustomSet":true}},"Fearow":{"Fearow-1 [376]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Drill Peck","Tri Attack","Facade","Mud-Slap"],"nature":"Adamant","item":"Sharp Beak","isCustomSet":true},"Fearow-2 [474]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Drill Peck","Tri Attack","Attract","Pursuit"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Fearow-3 [568]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Drill Peck","Return","Steel Wing","Feint Attack"],"nature":"Hardy","isCustomSet":true},"Fearow-4 [664]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Drill Peck","Double-Edge","Steel Wing","Sky Attack"],"nature":"Hardy","isCustomSet":true}},"Granbull":{"Granbull-1 [377]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Smelling Salt","Thunder Wave","Roar"],"nature":"Adamant","item":"Cheri Berry","isCustomSet":true},"Granbull-2 [475]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":255,"sp":0},"moves":["Overheat","Thunderbolt","Ice Punch","Facade"],"nature":"Quiet","item":"White Herb","isCustomSet":true},"Granbull-3 [569]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Sludge Bomb","Rock Slide"],"nature":"Adamant","isCustomSet":true},"Granbull-4 [665]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mega Kick","Earthquake","Crunch","Shadow Ball"],"nature":"Brave","item":"Choice Band","isCustomSet":true}},"Jynx":{"Jynx-1 [378]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Fake Out","Lovely Kiss","Attract"],"nature":"Modest","isCustomSet":true},"Jynx-2 [476]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Perish Song","Mean Look","Lovely Kiss","Protect"],"nature":"Impish","item":"Bright Powder","isCustomSet":true},"Jynx-3 [570]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Dream Eater","Lovely Kiss","Attract","Substitute"],"nature":"Hardy","isCustomSet":true},"Jynx-4 [666]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Ice Beam","Lovely Kiss","Fake Tears"],"nature":"Modest","isCustomSet":true}},"Dusclops":{"Dusclops-1 [379]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Will-O-Wisp","Seismic Toss","Pain Split","Confuse Ray"],"nature":"Impish","item":"Leftovers","isCustomSet":true},"Dusclops-2 [477]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Toxic","Confuse Ray","Double Team","Protect"],"nature":"Impish","item":"Leftovers","isCustomSet":true},"Dusclops-3 [571]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Psych Up","Swagger","Shadow Ball","Earthquake"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Dusclops-4 [667]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Shadow Ball","Curse","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true}},"Dodrio":{"Dodrio-1 [380]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Drill Peck","Tri Attack","Sleep Talk","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Dodrio-2 [478]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Drill Peck","Double-Edge","Feint Attack","Protect"],"nature":"Adamant","item":"King's Rock","isCustomSet":true},"Dodrio-3 [572]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Double-Edge","Drill Peck","Steel Wing","Feint Attack"],"nature":"Adamant","isCustomSet":true},"Dodrio-4 [668]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Flail","Endure","Drill Peck","Facade"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true}},"Mr. Mime":{"Mr. Mime-1 [381]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Psychic","Magical Leaf","Fake Out","Reflect"],"nature":"Relaxed","item":"Leftovers","isCustomSet":true},"Mr. Mime-2 [479]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Baton Pass","Swagger","Psych Up","Psychic"],"nature":"Adamant","item":"Liechi Berry","isCustomSet":true},"Mr. Mime-3 [573]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Trick","Torment","Psychic","Thunderbolt"],"nature":"Modest","item":"Choice Band","isCustomSet":true},"Mr. Mime-4 [669]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunderbolt","Ice Punch","Fire Punch"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Lanturn":{"Lanturn-1 [382]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Surf","Confuse Ray","Attract","Thunder Wave"],"nature":"Quiet","item":"Cheri Berry","isCustomSet":true},"Lanturn-2 [480]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Flail","Endure","Thunderbolt","Surf"],"nature":"Docile","item":"Salac Berry","isCustomSet":true},"Lanturn-3 [574]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Hydro Pump","Thunder","Confuse Ray","Rain Dance"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Lanturn-4 [670]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Thunderbolt","Ice Beam","Confuse Ray"],"nature":"Modest","isCustomSet":true}},"Breloom":{"Breloom-1 [383]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Sky Uppercut","Mach Punch","Headbutt","Counter"],"nature":"Jolly","item":"King's Rock","isCustomSet":true},"Breloom-2 [481]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Giga Drain","Leech Seed","Focus Punch","Spore"],"nature":"Docile","item":"Bright Powder","isCustomSet":true},"Breloom-3 [575]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Iron Tail","Focus Punch","Attract","Spore"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Breloom-4 [671]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Focus Punch","Sludge Bomb","Spore","Double Team"],"nature":"Adamant","isCustomSet":true},"Breloom-Boss [Greta Gold]":{"level":100,"evs":{"hp":6,"at":252,"df":0,"sa":0,"sd":0,"sp":252},"moves":["Spore","Focus Punch","Giga Drain","Headbutt"],"nature":"Jolly","isCustomSet":true}},"Forretress":{"Forretress-1 [384]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Double-Edge","Rock Slide","Light Screen","Spikes"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Forretress-2 [482]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Double-Edge","Counter","Protect"],"nature":"Adamant","isCustomSet":true},"Forretress-3 [576]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":170,"sp":0},"moves":["Explosion","Earthquake","Giga Drain","Zap Cannon"],"nature":"Quiet","item":"Focus Band","isCustomSet":true},"Forretress-4 [672]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Explosion","Earthquake","Rock Slide","Double-Edge"],"nature":"Adamant","isCustomSet":true}},"Whiscash":{"Whiscash-1 [385]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Rock Slide","Amnesia","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Whiscash-2 [484]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Earthquake","Spark","Future Sight"],"nature":"Hardy","isCustomSet":true},"Whiscash-3 [577]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Sleep Talk","Rest","Surf","Fissure"],"nature":"Hardy","item":"Chesto Berry","isCustomSet":true},"Whiscash-4 [673]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Fissure","Surf","Earthquake","Ice Beam"],"nature":"Quiet","isCustomSet":true}},"Xatu":{"Xatu-1 [386]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Drill Peck","Night Shade","Wish","Future Sight"],"nature":"Hardy","item":"Sharp Beak","isCustomSet":true},"Xatu-2 [485]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Fly","Toxic","Confuse Ray","Attract"],"nature":"Impish","item":"Leftovers","isCustomSet":true},"Xatu-3 [578]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Drill Peck","Psychic","Giga Drain","Steel Wing"],"nature":"Jolly","item":"King's Rock","isCustomSet":true},"Xatu-4 [674]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Drill Peck","Shadow Ball","Confuse Ray"],"nature":"Docile","item":"Petaya Berry","isCustomSet":true}},"Skarmory":{"Skarmory-1 [387]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Steel Wing","Air Cutter","Counter","Agility"],"nature":"Adamant","isCustomSet":true},"Skarmory-2 [483]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Spikes","Roar","Drill Peck","Toxic"],"nature":"Careful","item":"Bright Powder","isCustomSet":true},"Skarmory-3 [579]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Toxic","Curse","Rest","Fly"],"nature":"Careful","item":"Chesto Berry","isCustomSet":true},"Skarmory-4 [675]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Drill Peck","Steel Wing","Counter","Rock Slide"],"nature":"Adamant","isCustomSet":true},"Skarmory-Boss [Noland Silver†]":{"level":100,"evs":{"hp":252,"at":0,"df":0,"sa":6,"sd":252,"sp":0},"moves":["Toxic","Aerial Ace","Protect","Steel Wing"],"nature":"Impish","item":"Sitrus Berry","isCustomSet":true},"Skarmory-Boss [Noland Gold†]":{"level":100,"evs":{"hp":252,"at":0,"df":0,"sa":6,"sd":252,"sp":0},"moves":["Toxic","Aerial Ace","Protect","Steel Wing"],"nature":"Impish","item":"Sitrus Berry","isCustomSet":true}},"Marowak":{"Marowak-1 [388]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Bonemerang","Rock Slide","Icy Wind","Headbutt"],"nature":"Adamant","item":"Thick Club","isCustomSet":true},"Marowak-2 [471]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Rock Slide","Swords Dance","Icy Wind"],"nature":"Adamant","item":"Thick Club","isCustomSet":true},"Marowak-3 [580]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Rock Slide","Swords Dance","Brick Break"],"nature":"Adamant","item":"Thick Club","isCustomSet":true},"Marowak-4 [676]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Rock Slide","Swords Dance","Mega Kick"],"nature":"Adamant","item":"Thick Club","isCustomSet":true}},"Quagsire":{"Quagsire-1 [389]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Brick Break","Counter","Mud-Slap"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Quagsire-2 [472]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Curse","Attract","Yawn","Ancient Power"],"nature":"Sassy","item":"Leftovers","isCustomSet":true},"Quagsire-3 [581]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Sludge Bomb","Double-Edge","Curse"],"nature":"Adamant","isCustomSet":true},"Quagsire-4 [677]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":170,"sp":0},"moves":["Surf","Earthquake","Ice Beam","Amnesia"],"nature":"Sassy","item":"Leftovers","isCustomSet":true}},"Clefable":{"Clefable-1 [390]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Metronome","Double Team","Reflect","Follow Me"],"nature":"Brave","item":"Leftovers","isCustomSet":true},"Clefable-2 [486]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Meteor Mash","Cosmic Power","Double Team","Follow Me"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Clefable-3 [582]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Ice Beam","Flamethrower","Magical Leaf"],"nature":"Modest","isCustomSet":true},"Clefable-4 [678]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Psychic","Shadow Ball","Softboiled"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Hariyama":{"Hariyama-1 [391]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Cross Chop","Rock Slide","Counter","Fake Out"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Hariyama-2 [487]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Cross Chop","Fire Punch","Ice Punch","Thunder Punch"],"nature":"Quiet","isCustomSet":true},"Hariyama-3 [583]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Cross Chop","Earthquake","Rock Slide","Facade"],"nature":"Adamant","isCustomSet":true},"Hariyama-4 [679]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Cross Chop","Earthquake","Rock Slide","Fake Out"],"nature":"Adamant","isCustomSet":true}},"Raichu":{"Raichu-1 [392]":{"level":100,"evs":{"hp":0,"at":0,"df":170,"sa":170,"sd":0,"sp":170},"moves":["Thunderbolt","Quick Attack","Light Screen","Double Team"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Raichu-2 [488]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Thunderbolt","Reversal","Endure","Agility"],"nature":"Adamant","isCustomSet":true},"Raichu-3 [584]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunder","Rain Dance","Iron Tail","Attract"],"nature":"Docile","item":"Cheri Berry","isCustomSet":true},"Raichu-4 [680]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Thunder Wave","Protect","Mega Kick"],"nature":"Docile","item":"Bright Powder","isCustomSet":true}},"Dewgong":{"Dewgong-1 [393]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Icy Wind","Headbutt","Fake Out"],"nature":"Quiet","isCustomSet":true},"Dewgong-2 [489]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Blizzard","Double-Edge","Encore","Disable"],"nature":"Docile","isCustomSet":true},"Dewgong-3 [585]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Horn Drill","Sheer Cold","Sleep Talk","Rest"],"nature":"Bold","item":"Chesto Berry","isCustomSet":true},"Dewgong-4 [681]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Sheer Cold","Ice Beam","Surf","Signal Beam"],"nature":"Docile","isCustomSet":true}},"Manectric":{"Manectric-1 [394]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Flash","Quick Attack","Roar"],"nature":"Modest","item":"Magnet","isCustomSet":true},"Manectric-2 [490]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunder","Rain Dance","Crunch","Roar"],"nature":"Modest","item":"Petaya Berry","isCustomSet":true},"Manectric-3 [586]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Iron Tail","Thunder Wave","Roar"],"nature":"Quirky","isCustomSet":true},"Manectric-4 [682]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Crunch","Thunder Wave","Roar"],"nature":"Modest","isCustomSet":true}},"Vileplume":{"Vileplume-1 [395]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Petal Dance","Moonlight","Aromatherapy"],"nature":"Impish","item":"Persim Berry","isCustomSet":true},"Vileplume-2 [491]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Ingrain","Double Team","Toxic","Giga Drain"],"nature":"Bold","item":"Bright Powder","isCustomSet":true},"Vileplume-3 [587]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Attract","Stun Spore","Sludge Bomb","Giga Drain"],"nature":"Quirky","item":"Leftovers","isCustomSet":true},"Vileplume-4 [683]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Sludge Bomb","Sunny Day","Synthesis"],"nature":"Quiet","isCustomSet":true}},"Victreebel":{"Victreebel-1 [396]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Giga Drain","Sleep Powder","Sweet Scent","Synthesis"],"nature":"Quiet","item":"Sitrus Berry","isCustomSet":true},"Victreebel-2 [492]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Giga Drain","Sludge Bomb","Sleep Powder","Attract"],"nature":"Serious","item":"Leftovers","isCustomSet":true},"Victreebel-3 [588]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Stun Spore","Ingrain","Giga Drain","Sludge Bomb"],"nature":"Quirky","item":"Bright Powder","isCustomSet":true},"Victreebel-4 [684]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Giga Drain","Double-Edge","Sludge Bomb","Synthesis"],"nature":"Quirky","item":"Bright Powder","isCustomSet":true}},"Electrode":{"Electrode-1 [397]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Swift","Light Screen","Protect"],"nature":"Quiet","item":"Focus Band","isCustomSet":true},"Electrode-2 [493]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Thunder","Rain Dance","Double Team","Swagger"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Electrode-3 [589]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Explosion","Thunderbolt","Thunder Wave","Endure"],"nature":"Naughty","item":"Liechi Berry","isCustomSet":true},"Electrode-4 [685]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Explosion","Thunderbolt","Thunder Wave","Mirror Coat"],"nature":"Naughty","isCustomSet":true}},"Exploud":{"Exploud-1 [398]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Hyper Voice","Shadow Ball","Sleep Talk","Rest"],"nature":"Impish","item":"Chesto Berry","isCustomSet":true},"Exploud-2 [494]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Sunny Day","Earthquake","Counter"],"nature":"Quirky","item":"Focus Band","isCustomSet":true},"Exploud-3 [590]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Overheat","Ice Beam","Thunder Punch","Extrasensory"],"nature":"Modest","item":"White Herb","isCustomSet":true},"Exploud-4 [686]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mega Kick","Earthquake","Shadow Ball","Overheat"],"nature":"Hardy","item":"White Herb","isCustomSet":true}},"Shiftry":{"Shiftry-1 [399]":{"level":100,"evs":{"hp":0,"at":0,"df":170,"sa":170,"sd":170,"sp":0},"moves":["Giga Drain","Feint Attack","Quick Attack","Fake Out"],"nature":"Quiet","item":"Miracle Seed","isCustomSet":true},"Shiftry-2 [495]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Leech Seed","Dig","Double Team","Rest"],"nature":"Impish","item":"Chesto Berry","isCustomSet":true},"Shiftry-3 [591]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Sunny Day","Explosion","Synthesis"],"nature":"Quirky","item":"Focus Band","isCustomSet":true},"Shiftry-4 [687]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Explosion","Giga Drain","Mega Kick","Fake Out"],"nature":"Hardy","item":"Focus Band","isCustomSet":true}},"Glalie":{"Glalie-1 [400]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Crunch","Hail","Protect"],"nature":"Modest","item":"Petaya Berry","isCustomSet":true},"Glalie-2 [496]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Explosion","Endure","Body Slam","Icy Wind"],"nature":"Quirky","item":"Salac Berry","isCustomSet":true},"Glalie-3 [592]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Blizzard","Earthquake","Double-Edge","Shadow Ball"],"nature":"Hardy","isCustomSet":true},"Glalie-4 [688]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Ice Beam","Earthquake","Crunch","Shadow Ball"],"nature":"Hardy","item":"Leftovers","isCustomSet":true}},"Ludicolo":{"Ludicolo-1 [401]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Surf","Rain Dance","Thunder Punch","Fire Punch"],"nature":"Quiet","isCustomSet":true},"Ludicolo-2 [497]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Ice Beam","Thunder Punch","Fire Punch"],"nature":"Modest","isCustomSet":true},"Ludicolo-3 [593]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Leech Seed","Rain Dance","Double Team","Giga Drain"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Ludicolo-4 [689]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Leech Seed","Rain Dance","Double Team","Toxic"],"nature":"Bold","item":"Leftovers","isCustomSet":true}},"Hypno":{"Hypno-1 [402]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Thunder Punch","Fire Punch","Ice Punch","Hypnosis"],"nature":"Quiet","item":"Twisted Spoon","isCustomSet":true},"Hypno-2 [498]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Hypnosis","Nightmare","Dream Eater","Psychic"],"nature":"Modest","item":"Twisted Spoon","isCustomSet":true},"Hypno-3 [594]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Psych Up","Swagger","Mega Kick","Shadow Ball"],"nature":"Adamant","isCustomSet":true},"Hypno-4 [690]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunder Punch","Fire Punch","Ice Punch"],"nature":"Modest","isCustomSet":true}},"Golem":{"Golem-1 [403]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Body Slam","Counter","Rock Tomb"],"nature":"Adamant","isCustomSet":true},"Golem-2 [499]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Focus Punch","Substitute","Double Team","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Golem-3 [595]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Explosion","Earthquake","Flamethrower","Brick Break"],"nature":"Adamant","isCustomSet":true},"Golem-4 [691]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Explosion","Earthquake","Rock Slide","Double-Edge"],"nature":"Adamant","isCustomSet":true}},"Rhydon":{"Rhydon-1 [404]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Rock Tomb","Scary Face","Brick Break"],"nature":"Adamant","isCustomSet":true},"Rhydon-2 [500]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Horn Drill","Rock Slide","Brick Break"],"nature":"Adamant","isCustomSet":true},"Rhydon-3 [596]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Megahorn","Crush Claw","Earthquake","Horn Drill"],"nature":"Adamant","isCustomSet":true},"Rhydon-4 [692]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Megahorn","Earthquake","Rock Slide","Horn Drill"],"nature":"Adamant","isCustomSet":true}},"Alakazam":{"Alakazam-1 [405]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Thunder Punch","Fire Punch","Ice Punch","Thunder Wave"],"nature":"Modest","item":"Focus Band","isCustomSet":true},"Alakazam-2 [501]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Calm Mind","Thunder Wave","Recover"],"nature":"Modest","isCustomSet":true},"Alakazam-3 [597]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Trick","Disable","Psychic","Skill Swap"],"nature":"Modest","item":"Choice Band","isCustomSet":true},"Alakazam-4 [693]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunder Punch","Fire Punch","Ice Punch"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Alakazam-Boss [Anabel Silver]":{"level":100,"evs":{"hp":106,"at":0,"df":152,"sa":100,"sd":0,"sp":152},"moves":["Thunder Punch","Fire Punch","Ice Punch","Disable"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Weezing":{"Weezing-1 [406]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Will-O-Wisp","Shadow Ball","Smoke Screen"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Weezing-2 [502]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Memento","Sludge Bomb","Facade","Destiny Bond"],"nature":"Adamant","item":"Sitrus Berry","isCustomSet":true},"Weezing-3 [598]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Explosion","Sludge Bomb","Flamethrower","Thunderbolt"],"nature":"Quirky","item":"Focus Band","isCustomSet":true},"Weezing-4 [694]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Explosion","Sludge Bomb","Frustration","Shadow Ball"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Kangaskhan":{"Kangaskhan-1 [407]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Dizzy Punch","Brick Break","Counter","Fake Out"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Kangaskhan-2 [503]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Crush Claw","Shadow Ball","Attract","Rest"],"nature":"Adamant","isCustomSet":true},"Kangaskhan-3 [599]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Reversal","Endure","Thunderbolt","Earthquake"],"nature":"Jolly","item":"Salac Berry","isCustomSet":true},"Kangaskhan-4 [695]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Mega Kick","Earthquake","Aerial Ace","Shadow Ball"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true}},"Electabuzz":{"Electabuzz-1 [408]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Thunderbolt","Thunder Wave","Brick Break","Light Screen"],"nature":"Relaxed","item":"Cheri Berry","isCustomSet":true},"Electabuzz-2 [504]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Thunder","Rain Dance","Attract","Focus Punch"],"nature":"Quirky","item":"Leftovers","isCustomSet":true},"Electabuzz-3 [600]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Punch","Ice Punch","Thunderbolt","Cross Chop"],"nature":"Quirky","isCustomSet":true},"Electabuzz-4 [696]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Psychic","Mega Kick","Cross Chop"],"nature":"Docile","isCustomSet":true}},"Tauros":{"Tauros-1 [409]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Thrash","Swagger","Facade"],"nature":"Adamant","item":"Persim Berry","isCustomSet":true},"Tauros-2 [505]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Double Team","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Tauros-3 [601]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Flamethrower","Ice Beam"],"nature":"Docile","item":"Leftovers","isCustomSet":true},"Tauros-4 [697]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Double-Edge","Rock Tomb","Thunderbolt","Surf"],"nature":"Docile","item":"Bright Powder","isCustomSet":true}},"Slowbro":{"Slowbro-1 [410]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Surf","Rain Dance","Headbutt","Ice Punch"],"nature":"Quiet","isCustomSet":true},"Slowbro-2 [506]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Surf","Ice Beam","Calm Mind","Yawn"],"nature":"Modest","item":"Leftovers","isCustomSet":true},"Slowbro-3 [602]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":255,"sp":0},"moves":["Surf","Psychic","Shadow Ball","Attract"],"nature":"Quiet","isCustomSet":true},"Slowbro-4 [698]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":255,"sp":0},"moves":["Psychic","Surf","Earthquake","Ice Beam"],"nature":"Sassy","isCustomSet":true}},"Slowking":{"Slowking-1 [411]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Psychic","Brick Break","Amnesia","Attract"],"nature":"Quiet","item":"Leftovers","isCustomSet":true},"Slowking-2 [507]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Yawn","Thunder Wave","Surf","Psychic"],"nature":"Modest","isCustomSet":true},"Slowking-3 [603]":{"level":100,"evs":{"hp":0,"at":170,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Psychic","Surf","Ice Beam","Earthquake"],"nature":"Quiet","isCustomSet":true},"Slowking-4 [699]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Surf","Ice Beam","Flamethrower"],"nature":"Modest","isCustomSet":true}},"Miltank":{"Miltank-1 [412]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Facade","Shadow Ball","Counter","Milk Drink"],"nature":"Careful","item":"Focus Band","isCustomSet":true},"Miltank-2 [508]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Focus Punch","Shadow Ball","Attract","Thunder Wave"],"nature":"Careful","item":"Leftovers","isCustomSet":true},"Miltank-3 [604]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Reversal","Endure","Earthquake","Shadow Ball"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true},"Miltank-4 [700]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Double-Edge","Curse","Double Team","Milk Drink"],"nature":"Adamant","isCustomSet":true}},"Altaria":{"Altaria-1 [413]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Dragon Claw","Aerial Ace","Refresh","Body Slam"],"nature":"Docile","item":"Cheri Berry","isCustomSet":true},"Altaria-2 [509]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Perish Song","Dragon Breath","Pursuit","Attract"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Altaria-3 [605]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sing","Dragon Dance","Earthquake","Aerial Ace"],"nature":"Adamant","isCustomSet":true},"Altaria-4 [701]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Dragon Claw","Earthquake","Flamethrower","Ice Beam"],"nature":"Docile","isCustomSet":true}},"Nidoqueen":{"Nidoqueen-1 [414]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Double Kick","Body Slam","Counter"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Nidoqueen-2 [510]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Aerial Ace","Rock Slide"],"nature":"Adamant","isCustomSet":true},"Nidoqueen-3 [606]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Flamethrower","Ice Beam","Crunch"],"nature":"Modest","isCustomSet":true},"Nidoqueen-4 [702]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Superpower","Sludge Bomb","Earthquake","Shadow Ball"],"nature":"Adamant","item":"White Herb","isCustomSet":true}},"Nidoking":{"Nidoking-1 [415]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Horn Drill","Double Kick","Body Slam","Counter"],"nature":"Adamant","isCustomSet":true},"Nidoking-2 [511]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Earthquake","Shadow Ball","Brick Break"],"nature":"Adamant","isCustomSet":true},"Nidoking-3 [607]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Horn Drill","Fire Blast","Blizzard","Surf"],"nature":"Modest","item":"Leppa Berry","isCustomSet":true},"Nidoking-4 [703]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Megahorn","Sludge Bomb","Earthquake","Thunder"],"nature":"Docile","isCustomSet":true}},"Magmar":{"Magmar-1 [416]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Flamethrower","Smoke Screen","Brick Break","Barrier"],"nature":"Relaxed","item":"Rawst Berry","isCustomSet":true},"Magmar-2 [512]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Smoke Screen","Thunder Punch","Confuse Ray"],"nature":"Modest","isCustomSet":true},"Magmar-3 [608]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Cross Chop","Iron Tail","Counter"],"nature":"Impish","isCustomSet":true},"Magmar-4 [704]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Flamethrower","Psychic","Cross Chop","Confuse Ray"],"nature":"Docile","isCustomSet":true}},"Cradily":{"Cradily-1 [417]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Giga Drain","Rock Slide","Barrier","Confuse Ray"],"nature":"Relaxed","item":"Leftovers","isCustomSet":true},"Cradily-2 [513]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Ancient Power","Swagger","Psych Up"],"nature":"Adamant","item":"Sitrus Berry","isCustomSet":true},"Cradily-3 [609]":{"level":100,"evs":{"hp":0,"at":0,"df":170,"sa":170,"sd":170,"sp":0},"moves":["Substitute","Solar Beam","Sunny Day","Recover"],"nature":"Modest","item":"Leftovers","isCustomSet":true},"Cradily-4 [705]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Toxic","Ingrain","Mirror Coat","Giga Drain"],"nature":"Bold","item":"Leftovers","isCustomSet":true}},"Armaldo":{"Armaldo-1 [418]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Slash","Aerial Ace","Ancient Power","Protect"],"nature":"Adamant","isCustomSet":true},"Armaldo-2 [514]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Iron Tail","Ancient Power","Brick Break","Knock Off"],"nature":"Adamant","isCustomSet":true},"Armaldo-3 [610]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Rock Slide","Brick Break","Swords Dance"],"nature":"Adamant","isCustomSet":true},"Armaldo-4 [706]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Aerial Ace","Rock Slide"],"nature":"Adamant","item":"Choice Band","isCustomSet":true}},"Golduck":{"Golduck-1 [419]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Hydro Pump","Dig","Brick Break","Light Screen"],"nature":"Quiet","isCustomSet":true},"Golduck-2 [515]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Cross Chop","Surf","Swagger","Psych Up"],"nature":"Quirky","isCustomSet":true},"Golduck-3 [611]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Hydro Pump","Cross Chop","Blizzard","Protect"],"nature":"Docile","isCustomSet":true},"Golduck-4 [707]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Surf","Cross Chop","Ice Beam","Aerial Ace"],"nature":"Docile","isCustomSet":true}},"Rapidash":{"Rapidash-1 [420]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Double Kick","Quick Attack","Protect"],"nature":"Quiet","item":"Charcoal","isCustomSet":true},"Rapidash-2 [516]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Fire Blast","Bounce","Double Team","Attract"],"nature":"Docile","item":"Leftovers","isCustomSet":true},"Rapidash-3 [612]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Overheat","Solar Beam","Sunny Day","Hypnosis"],"nature":"Modest","item":"White Herb","isCustomSet":true},"Rapidash-4 [708]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Overheat","Double-Edge","Iron Tail","Double Kick"],"nature":"Docile","item":"White Herb","isCustomSet":true}},"Muk":{"Muk-1 [421]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Body Slam","Screech","Minimize"],"nature":"Adamant","item":"Poison Barb","isCustomSet":true},"Muk-2 [517]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Curse","Rest","Sludge Bomb","Dynamic Punch"],"nature":"Hardy","item":"Chesto Berry","isCustomSet":true},"Muk-3 [613]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Sludge Bomb","Thunderbolt","Flamethrower","Ice Punch"],"nature":"Quiet","isCustomSet":true},"Muk-4 [709]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Brick Break","Giga Drain","Explosion"],"nature":"Brave","isCustomSet":true}},"Gengar":{"Gengar-1 [422]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Dream Eater","Hypnosis","Confuse Ray","Attract"],"nature":"Timid","item":"Leftovers","isCustomSet":true},"Gengar-2 [518]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Sludge Bomb","Shadow Ball","Confuse Ray","Will-O-Wisp"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Gengar-3 [614]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Thunderbolt","Giga Drain","Skill Swap"],"nature":"Modest","isCustomSet":true},"Gengar-4 [710]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Fire Punch","Ice Punch","Destiny Bond"],"nature":"Modest","isCustomSet":true},"Gengar-5 [801]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Shadow Ball","Thunderbolt","Fire Punch"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Gengar-6 [802]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Shadow Ball","Thunderbolt","Ice Punch"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Gengar-7 [803]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Thunderbolt","Fire Punch","Destiny Bond"],"nature":"Modest","isCustomSet":true},"Gengar-8 [804]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Thunderbolt","Ice Punch","Destiny Bond"],"nature":"Modest","isCustomSet":true},"Gengar-Boss [Greta Gold]":{"level":100,"evs":{"hp":252,"at":0,"df":252,"sa":6,"sd":0,"sp":0},"moves":["Psychic","Hypnosis","Dream Eater","Destiny Bond"],"nature":"Modest","item":"Leftovers","isCustomSet":true}},"Ampharos":{"Ampharos-1 [423]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunder","Rain Dance","Thunder Wave","Attract"],"nature":"Relaxed","item":"Magnet","isCustomSet":true},"Ampharos-2 [519]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunder Punch","Fire Punch","Focus Punch","Thunder Wave"],"nature":"Hardy","item":"Bright Powder","isCustomSet":true},"Ampharos-3 [615]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Mega Kick","Iron Tail","Brick Break"],"nature":"Hardy","item":"Focus Band","isCustomSet":true},"Ampharos-4 [711]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Fire Punch","Thunder Wave","Reflect"],"nature":"Modest","isCustomSet":true}},"Scizor":{"Scizor-1 [424]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Metal Claw","Aerial Ace","Counter","Quick Attack"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Scizor-2 [520]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Silver Wind","Steel Wing","Swords Dance","Light Screen"],"nature":"Adamant","isCustomSet":true},"Scizor-3 [616]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Reversal","Endure","Agility","Slash"],"nature":"Careful","item":"Focus Band","isCustomSet":true},"Scizor-4 [712]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Silver Wind","Swords Dance","Agility","Baton Pass"],"nature":"Careful","item":"Bright Powder","isCustomSet":true}},"Heracross":{"Heracross-1 [425]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Megahorn","Brick Break","Rock Tomb","Counter"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Heracross-2 [521]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Megahorn","Earthquake","Attract","Bulk Up"],"nature":"Jolly","isCustomSet":true},"Heracross-3 [617]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Megahorn","Earthquake","Rock Slide","Brick Break"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Heracross-4 [713]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Megahorn","Earthquake","Reversal","Endure"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true},"Heracross-Boss [Greta Silver]":{"level":100,"evs":{"hp":106,"at":152,"df":0,"sa":0,"sd":100,"sp":152},"moves":["Megahorn","Rock Tomb","Endure","Reversal"],"nature":"Jolly","item":"Salac Berry","isCustomSet":true}},"Ursaring":{"Ursaring-1 [426]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Mega Kick","Crunch","Aerial Ace","Counter"],"nature":"Docile","isCustomSet":true},"Ursaring-2 [522]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Brick Break","Counter"],"nature":"Adamant","isCustomSet":true},"Ursaring-3 [618]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Fire Punch","Thunder Punch","Ice Punch","Crunch"],"nature":"Modest","isCustomSet":true},"Ursaring-4 [714]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Rock Slide","Aerial Ace"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Ursaring-5 [805]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Aerial Ace","Rock Slide","Brick Break"],"nature":"Adamant","item":"Choice Band","isCustomSet":true},"Ursaring-6 [806]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Hyper Beam","Yawn","Swords Dance","Double Team"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Ursaring-7 [807]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Facade","Earthquake","Crunch","Bulk Up"],"nature":"Docile","isCustomSet":true},"Ursaring-8 [808]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Facade","Earthquake","Crunch","Brick Break"],"nature":"Docile","isCustomSet":true}},"Houndoom":{"Houndoom-1 [427]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Flamethrower","Shadow Ball","Counter","Will-O-Wisp"],"nature":"Quirky","item":"Focus Band","isCustomSet":true},"Houndoom-2 [523]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Crunch","Roar","Rest"],"nature":"Modest","isCustomSet":true},"Houndoom-3 [619]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Overheat","Shadow Ball","Sludge Bomb","Double-Edge"],"nature":"Quirky","item":"White Herb","isCustomSet":true},"Houndoom-4 [715]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Overheat","Solar Beam","Crunch","Sunny Day"],"nature":"Modest","item":"White Herb","isCustomSet":true}},"Donphan":{"Donphan-1 [428]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Ancient Power","Swagger","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Donphan-2 [524]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Flail","Endure","Earthquake","Rock Tomb"],"nature":"Jolly","isCustomSet":true},"Donphan-3 [620]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Fissure","Earthquake","Rock Slide","Secret Power"],"nature":"Adamant","isCustomSet":true},"Donphan-4 [716]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Fissure","Earthquake","Rock Slide","Iron Tail"],"nature":"Adamant","isCustomSet":true}},"Claydol":{"Claydol-1 [429]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Rock Slide","Swagger","Psych Up"],"nature":"Adamant","isCustomSet":true},"Claydol-2 [525]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Psychic","Earthquake","Double Team","Cosmic Power"],"nature":"Calm","item":"Leftovers","isCustomSet":true},"Claydol-3 [621]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Ice Beam","Solar Beam","Sunny Day"],"nature":"Modest","isCustomSet":true},"Claydol-4 [717]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Psychic","Earthquake","Shadow Ball","Explosion"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Wailord":{"Wailord-1 [430]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Icy Wind","Body Slam","Roar"],"nature":"Sassy","isCustomSet":true},"Wailord-2 [526]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Double-Edge","Rest","Curse","Amnesia"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Wailord-3 [622]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Hydro Pump","Fissure","Double Team","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Wailord-4 [718]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Ice Beam","Earthquake","Fissure"],"nature":"Hardy","isCustomSet":true}},"Ninetales":{"Ninetales-1 [431]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Roar","Confuse Ray","Will-O-Wisp"],"nature":"Modest","item":"Rawst Berry","isCustomSet":true},"Ninetales-2 [527]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Heat Wave","Body Slam","Grudge","Sunny Day"],"nature":"Quirky","isCustomSet":true},"Ninetales-3 [623]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Iron Tail","Confuse Ray","Attract"],"nature":"Quirky","item":"Bright Powder","isCustomSet":true},"Ninetales-4 [719]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Overheat","Double-Edge","Confuse Ray","Will-O-Wisp"],"nature":"Quirky","item":"White Herb","isCustomSet":true}},"Machamp":{"Machamp-1 [432]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Cross Chop","Rock Slide","Counter","Scary Face"],"nature":"Adamant","isCustomSet":true},"Machamp-2 [528]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Cross Chop","Earthquake","Bulk Up","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Machamp-3 [624]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Cross Chop","Fire Blast","Thunder Punch","Ice Punch"],"nature":"Hardy","isCustomSet":true},"Machamp-4 [720]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Cross Chop","Earthquake","Flamethrower","Rock Slide"],"nature":"Hardy","isCustomSet":true},"Machamp-5 [809]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Cross Chop","Double-Edge","Earthquake","Rock Slide"],"nature":"Adamant","isCustomSet":true},"Machamp-6 [810]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Cross Chop","Earthquake","Counter","Rock Tomb"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Machamp-7 [811]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Focus Punch","Substitute","Attract","Double Team"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Machamp-8 [812]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Revenge","Rock Slide","Facade","Counter"],"nature":"Adamant","item":"Focus Band","isCustomSet":true}},"Shuckle":{"Shuckle-1 [433]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Rollout","Defense Curl","Sleep Talk","Rest"],"nature":"Brave","item":"Chesto Berry","isCustomSet":true},"Shuckle-2 [529]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Sandstorm","Dig","Flash","Double Team"],"nature":"Careful","item":"Leftovers","isCustomSet":true},"Shuckle-3 [625]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Substitute","Attract","Toxic","Double Team"],"nature":"Careful","item":"Leftovers","isCustomSet":true},"Shuckle-4 [721]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Toxic","Double Team","Wrap","Rest"],"nature":"Careful","item":"Chesto Berry","isCustomSet":true},"Shuckle-Boss [Lucy Silver]":{"level":100,"evs":{"hp":252,"at":0,"df":0,"sa":106,"sd":252,"sp":0},"moves":["Toxic","Sandstorm","Protect","Rest"],"nature":"Bold","item":"Chesto Berry","isCustomSet":true}},"Steelix":{"Steelix-1 [434]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Dragon Breath","Rock Tomb","Roar"],"nature":"Adamant","item":"Sitrus Berry","isCustomSet":true},"Steelix-2 [530]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Dragon Breath","Sandstorm","Block"],"nature":"Hardy","item":"Leftovers","isCustomSet":true},"Steelix-3 [626]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Body Slam","Rock Slide","Explosion"],"nature":"Adamant","isCustomSet":true},"Steelix-4 [722]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Iron Tail","Double-Edge","Explosion"],"nature":"Adamant","isCustomSet":true},"Steelix-Boss [Lucy Gold]":{"level":100,"evs":{"hp":252,"at":0,"df":0,"sa":6,"sd":252,"sp":0},"moves":["Earthquake","Rock Slide","Explosion","Screech"],"nature":"Brave","item":"Bright Powder","isCustomSet":true}},"Tentacruel":{"Tentacruel-1 [435]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Sludge Bomb","Icy Wind","Barrier","Confuse Ray"],"nature":"Impish","item":"Persim Berry","isCustomSet":true},"Tentacruel-2 [531]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Toxic","Giga Drain","Confuse Ray","Surf"],"nature":"Hardy","item":"Leftovers","isCustomSet":true},"Tentacruel-3 [627]":{"level":100,"evs":{"hp":0,"at":0,"df":170,"sa":170,"sd":0,"sp":170},"moves":["Surf","Giga Drain","Ice Beam","Mirror Coat"],"nature":"Modest","isCustomSet":true},"Tentacruel-4 [723]":{"level":100,"evs":{"hp":0,"at":170,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Hydro Pump","Sludge Bomb","Ice Beam","Mirror Coat"],"nature":"Quirky","isCustomSet":true}},"Aerodactyl":{"Aerodactyl-1 [436]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":0,"sp":170},"moves":["Ancient Power","Dragon Breath","Aerial Ace","Roar"],"nature":"Adamant","item":"King's Rock","isCustomSet":true},"Aerodactyl-2 [532]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":0,"sp":170},"moves":["Hyper Beam","Earthquake","Aerial Ace","Ancient Power"],"nature":"Adamant","item":"Choice Band","isCustomSet":true},"Aerodactyl-3 [628]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Double-Edge","Rock Slide","Fire Blast","Dragon Claw"],"nature":"Hardy","item":"King's Rock","isCustomSet":true},"Aerodactyl-4 [724]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Fire Blast","Bite"],"nature":"Hardy","item":"King's Rock","isCustomSet":true}},"Porygon2":{"Porygon2-1 [437]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Tri Attack","Aerial Ace","Shadow Ball","Recover"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Porygon2-2 [533]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Sunny Day","Thunder Wave","Recover"],"nature":"Modest","isCustomSet":true},"Porygon2-3 [629]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Tri Attack","Thunder Wave","Recover"],"nature":"Modest","isCustomSet":true},"Porygon2-4 [725]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunderbolt","Ice Beam","Recover"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Gardevoir":{"Gardevoir-1 [438]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":0,"sp":170},"moves":["Dream Eater","Hypnosis","Magical Leaf","Reflect"],"nature":"Timid","item":"Leftovers","isCustomSet":true},"Gardevoir-2 [534]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Psychic","Calm Mind","Double Team","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Gardevoir-3 [630]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Ice Punch","Fire Punch","Magical Leaf"],"nature":"Modest","isCustomSet":true},"Gardevoir-4 [726]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Thunderbolt","Ice Punch","Fire Punch"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Gardevoir-5 [813]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":0,"sp":170},"moves":["Psychic","Shadow Ball","Endure","Destiny Bond"],"nature":"Docile","item":"Salac Berry","isCustomSet":true},"Gardevoir-6 [814]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Psychic","Thunderbolt","Will-O-Wisp","Destiny Bond"],"nature":"Timid","isCustomSet":true},"Gardevoir-7 [815]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Psychic","Calm Mind","Will-O-Wisp","Destiny Bond"],"nature":"Bold","isCustomSet":true},"Gardevoir-8 [816]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Magical Leaf","Attract","Double Team"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Exeggutor":{"Exeggutor-1 [439]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Solar Beam","Sunny Day","Synthesis","Light Screen"],"nature":"Quiet","isCustomSet":true},"Exeggutor-2 [535]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Return","Curse","Sleep Powder","Rest"],"nature":"Hardy","item":"Chesto Berry","isCustomSet":true},"Exeggutor-3 [631]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Leech Seed","Giga Drain","Toxic","Explosion"],"nature":"Hardy","item":"Leftovers","isCustomSet":true},"Exeggutor-4 [727]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Giga Drain","Sludge Bomb","Explosion"],"nature":"Hardy","item":"Bright Powder","isCustomSet":true}},"Starmie":{"Starmie-1 [440]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Confuse Ray","Thunder Wave","Recover"],"nature":"Modest","isCustomSet":true},"Starmie-2 [536]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Hydro Pump","Thunder","Rain Dance","Recover"],"nature":"Modest","isCustomSet":true},"Starmie-3 [632]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Psychic","Thunderbolt","Ice Beam"],"nature":"Modest","isCustomSet":true},"Starmie-4 [728]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Thunderbolt","Ice Beam","Recover"],"nature":"Modest","isCustomSet":true},"Starmie-5 [817]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Psychic","Recover","Light Screen"],"nature":"Modest","isCustomSet":true},"Starmie-6 [818]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Confuse Ray","Thunder Wave","Recover"],"nature":"Calm","item":"Leftovers","isCustomSet":true},"Starmie-7 [819]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Ice Beam","Cosmic Power","Recover"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Starmie-8 [820]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Thunderbolt","Cosmic Power","Recover"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Flygon":{"Flygon-1 [441]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Steel Wing","Feint Attack","Facade"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Flygon-2 [537]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Solar Beam","Fire Blast","Crunch","Sunny Day"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Flygon-3 [633]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Earthquake","Dragon Claw","Flamethrower","Giga Drain"],"nature":"Hardy","isCustomSet":true},"Flygon-4 [729]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Earthquake","Dragon Claw","Double-Edge","Crunch"],"nature":"Hardy","isCustomSet":true}},"Venusaur":{"Venusaur-1 [442]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Giga Drain","Sunny Day","Synthesis","Sleep Powder"],"nature":"Quiet","item":"Chesto Berry","isCustomSet":true},"Venusaur-2 [538]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Leech Seed","Giga Drain","Double Team","Light Screen"],"nature":"Bold","item":"Bright Powder","isCustomSet":true},"Venusaur-3 [634]":{"level":100,"evs":{"hp":0,"at":170,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Double-Edge","Sludge Bomb","Earthquake","Sleep Powder"],"nature":"Adamant","isCustomSet":true},"Venusaur-4 [730]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":170,"sp":0},"moves":["Solar Beam","Sludge Bomb","Sunny Day","Earthquake"],"nature":"Docile","isCustomSet":true}},"Vaporeon":{"Vaporeon-1 [443]":{"level":100,"evs":{"hp":0,"at":0,"df":170,"sa":170,"sd":170,"sp":0},"moves":["Surf","Roar","Bite","Quick Attack"],"nature":"Modest","item":"Mystic Water","isCustomSet":true},"Vaporeon-2 [539]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Ice Beam","Body Slam","Shadow Ball"],"nature":"Docile","isCustomSet":true},"Vaporeon-3 [635]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Ice Beam","Acid Armor","Baton Pass"],"nature":"Calm","isCustomSet":true},"Vaporeon-4 [731]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":170,"sd":170,"sp":0},"moves":["Surf","Ice Beam","Acid Armor","Rest"],"nature":"Calm","isCustomSet":true}},"Jolteon":{"Jolteon-1 [444]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Thunder Wave","Attract","Protect"],"nature":"Modest","item":"Cheri Berry","isCustomSet":true},"Jolteon-2 [540]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Dig","Double Kick","Roar"],"nature":"Hardy","isCustomSet":true},"Jolteon-3 [636]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Thunderbolt","Thunder Wave","Agility","Baton Pass"],"nature":"Bold","item":"Bright Powder","isCustomSet":true},"Jolteon-4 [732]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Thunder Wave","Bite","Shadow Ball"],"nature":"Timid","item":"King's Rock","isCustomSet":true}},"Flareon":{"Flareon-1 [445]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":255,"sd":0,"sp":0},"moves":["Flamethrower","Roar","Bite","Sand-Attack"],"nature":"Modest","item":"Sitrus Berry","isCustomSet":true},"Flareon-2 [541]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Curse","Attract","Double-Edge","Shadow Ball"],"nature":"Relaxed","isCustomSet":true},"Flareon-3 [637]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Shadow Ball","Flail","Endure","Overheat"],"nature":"Jolly","isCustomSet":true},"Flareon-4 [733]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Overheat","Sunny Day","Double-Edge","Shadow Ball"],"nature":"Quiet","isCustomSet":true}},"Meganium":{"Meganium-1 [446]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Solar Beam","Sunny Day","Light Screen","Synthesis"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Meganium-2 [542]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Leech Seed","Substitute","Double Team","Grass Whistle"],"nature":"Calm","item":"Leftovers","isCustomSet":true},"Meganium-3 [638]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Flail","Endure","Giga Drain"],"nature":"Jolly","item":"Salac Berry","isCustomSet":true},"Meganium-4 [734]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Giga Drain","Earthquake","Ancient Power","Body Slam"],"nature":"Hardy","item":"Bright Powder","isCustomSet":true}},"Espeon":{"Espeon-1 [447]":{"level":100,"evs":{"hp":0,"at":0,"df":170,"sa":0,"sd":170,"sp":170},"moves":["Psychic","Charm","Calm Mind","Baton Pass"],"nature":"Modest","isCustomSet":true},"Espeon-2 [543]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Psychic","Shadow Ball","Calm Mind","Rest"],"nature":"Docile","item":"Chesto Berry","isCustomSet":true},"Espeon-3 [639]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Bite","Wish","Reflect"],"nature":"Modest","isCustomSet":true},"Espeon-4 [735]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Psychic","Bite","Attract","Calm Mind"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Umbreon":{"Umbreon-1 [448]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Confuse Ray","Feint Attack","Double Team","Baton Pass"],"nature":"Bold","item":"Bright Powder","isCustomSet":true},"Umbreon-2 [544]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Curse","Screech","Double Team","Double-Edge"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Umbreon-3 [640]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Swagger","Psych Up","Attract","Shadow Ball"],"nature":"Bold","item":"Bright Powder","isCustomSet":true},"Umbreon-4 [736]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Confuse Ray","Toxic","Feint Attack","Double Team"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Umbreon-Boss [Greta Silver]":{"level":100,"evs":{"hp":152,"at":0,"df":100,"sa":152,"sd":106,"sp":0},"moves":["Body Slam","Confuse Ray","Psychic","Feint Attack"],"nature":"Calm","item":"Leftovers","isCustomSet":true},"Umbreon-Boss [Greta Gold]":{"level":100,"evs":{"hp":252,"at":0,"df":0,"sa":252,"sd":6,"sp":0},"moves":["Double-Edge","Confuse Ray","Rest","Psychic"],"nature":"Calm","item":"Chesto Berry","isCustomSet":true}},"Blastoise":{"Blastoise-1 [449]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Hydro Pump","Rain Dance","Bite","Seismic Toss"],"nature":"Modest","isCustomSet":true},"Blastoise-2 [545]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Hydro Pump","Mega Kick","Brick Break","Mirror Coat"],"nature":"Brave","isCustomSet":true},"Blastoise-3 [641]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Surf","Earthquake","Ice Beam","Counter"],"nature":"Docile","item":"Focus Band","isCustomSet":true},"Blastoise-4 [737]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Surf","Earthquake","Ice Beam","Mirror Coat"],"nature":"Docile","item":"Focus Band","isCustomSet":true}},"Feraligatr":{"Feraligatr-1 [450]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":170,"sd":170,"sp":0},"moves":["Surf","Rain Dance","Aerial Ace","Roar"],"nature":"Quiet","isCustomSet":true},"Feraligatr-2 [546]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":170,"sd":170,"sp":0},"moves":["Surf","Dragon Claw","Brick Break","Scary Face"],"nature":"Sassy","isCustomSet":true},"Feraligatr-3 [642]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Hydro Pump","Crunch","Earthquake","Rock Slide"],"nature":"Hardy","isCustomSet":true},"Feraligatr-4 [738]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Hydro Pump","Ice Beam","Earthquake","Aerial Ace"],"nature":"Hardy","isCustomSet":true}},"Aggron":{"Aggron-1 [451]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Iron Tail","Earthquake","Aerial Ace","Roar"],"nature":"Adamant","isCustomSet":true},"Aggron-2 [547]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Focus Punch","Earthquake","Rock Slide","Thunder Wave"],"nature":"Adamant","isCustomSet":true},"Aggron-3 [643]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Thunder","Fire Blast","Blizzard"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Aggron-4 [739]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Rock Slide","Aerial Ace"],"nature":"Adamant","isCustomSet":true},"Aggron-Boss [Noland Silver†]":{"level":100,"evs":{"hp":0,"at":252,"df":0,"sa":252,"sd":6,"sp":0},"moves":["Thunderbolt","Protect","Solar Beam","Dragon Claw"],"nature":"Adamant","item":"Sitrus Berry","isCustomSet":true},"Aggron-Boss [Noland Gold†]":{"level":100,"evs":{"hp":0,"at":252,"df":0,"sa":252,"sd":6,"sp":0},"moves":["Thunderbolt","Protect","Solar Beam","Dragon Claw"],"nature":"Adamant","item":"Sitrus Berry","isCustomSet":true}},"Blaziken":{"Blaziken-1 [452]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Flamethrower","Sunny Day","Double Kick","Roar"],"nature":"Docile","isCustomSet":true},"Blaziken-2 [548]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Blaze Kick","Mega Kick","Thunder Punch","Brick Break"],"nature":"Docile","isCustomSet":true},"Blaziken-3 [644]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Overheat","Earthquake","Endure","Reversal"],"nature":"Hardy","item":"Salac Berry","isCustomSet":true},"Blaziken-4 [740]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Overheat","Earthquake","Thunder Punch","Rock Slide"],"nature":"Hardy","item":"White Herb","isCustomSet":true}},"Walrein":{"Walrein-1 [453]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Blizzard","Hail","Yawn","Protect"],"nature":"Quiet","item":"Leftovers","isCustomSet":true},"Walrein-2 [549]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Ice Beam","Curse","Double Team"],"nature":"Quirky","item":"Focus Band","isCustomSet":true},"Walrein-3 [645]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Sheer Cold","Fissure","Surf","Attract"],"nature":"Hardy","isCustomSet":true},"Walrein-4 [741]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Ice Beam","Earthquake","Sheer Cold"],"nature":"Quiet","item":"Bright Powder","isCustomSet":true}},"Sceptile":{"Sceptile-1 [454]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Leaf Blade","Leech Seed","Aerial Ace","Detect"],"nature":"Modest","item":"Leftovers","isCustomSet":true},"Sceptile-2 [550]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Leaf Blade","Thunder Punch","Attract","Double Team"],"nature":"Modest","isCustomSet":true},"Sceptile-3 [646]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Leaf Blade","Earthquake","Crush Claw","Aerial Ace"],"nature":"Docile","isCustomSet":true},"Sceptile-4 [742]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Leaf Blade","Dragon Claw","Crunch","Thunder Punch"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Charizard":{"Charizard-1 [455]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Sunny Day","Roar","Scary Face"],"nature":"Modest","item":"Focus Band","isCustomSet":true},"Charizard-2 [551]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Aerial Ace","Dragon Dance","Smoke Screen"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Charizard-3 [647]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Dragon Claw","Bite","Brick Break"],"nature":"Modest","isCustomSet":true},"Charizard-4 [743]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Overheat","Earthquake","Aerial Ace","Rock Slide"],"nature":"Hardy","item":"White Herb","isCustomSet":true},"Charizard-Boss [Tucker Silver]":{"level":100,"evs":{"hp":100,"at":152,"df":106,"sa":0,"sd":0,"sp":152},"moves":["Overheat","Rock Slide","Aerial Ace","Earthquake"],"nature":"Quiet","item":"White Herb","isCustomSet":true}},"Typhlosion":{"Typhlosion-1 [456]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Sunny Day","Smoke Screen","Roar"],"nature":"Modest","item":"Focus Band","isCustomSet":true},"Typhlosion-2 [552]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Flamethrower","Thunder Punch","Aerial Ace","Rock Slide"],"nature":"Hardy","isCustomSet":true},"Typhlosion-3 [648]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Earthquake","Overheat","Endure","Reversal"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true},"Typhlosion-4 [744]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Overheat","Thunder Punch","Earthquake","Crush Claw"],"nature":"Hardy","item":"White Herb","isCustomSet":true}},"Lapras":{"Lapras-1 [457]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Surf","Attract","Confuse Ray","Sing"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Lapras-2 [553]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Ice Beam","Body Slam","Roar"],"nature":"Timid","isCustomSet":true},"Lapras-3 [649]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Double-Edge","Psychic","Confuse Ray","Dragon Dance"],"nature":"Docile","item":"Bright Powder","isCustomSet":true},"Lapras-4 [745]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Ice Beam","Thunderbolt","Psychic"],"nature":"Modest","isCustomSet":true},"Lapras-5 [821]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunderbolt","Iron Tail","Double-Edge"],"nature":"Docile","isCustomSet":true},"Lapras-6 [822]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Hydro Pump","Thunder","Rain Dance","Blizzard"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Lapras-7 [823]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Sheer Cold","Horn Drill","Rest","Sleep Talk"],"nature":"Calm","item":"Leppa Berry","isCustomSet":true},"Lapras-8 [824]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Sheer Cold","Horn Drill","Sing","Attract"],"nature":"Calm","isCustomSet":true},"Lapras-Boss [Spenser Silver]":{"level":100,"evs":{"hp":0,"at":0,"df":252,"sa":106,"sd":152,"sp":0},"moves":["Ice Beam","Horn Drill","Confuse Ray","Protect"],"nature":"Quiet","isCustomSet":true}},"Crobat":{"Crobat-1 [458]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Sludge Bomb","Bite","Astonish","Screech"],"nature":"Quirky","item":"King's Rock","isCustomSet":true},"Crobat-2 [554]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Toxic","Giga Drain","Confuse Ray","Double Team"],"nature":"Calm","item":"Leftovers","isCustomSet":true},"Crobat-3 [650]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Air Cutter","Double-Edge","Shadow Ball","Screech"],"nature":"Adamant","isCustomSet":true},"Crobat-4 [746]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Sludge Bomb","Aerial Ace","Shadow Ball","Confuse Ray"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Crobat-Boss [Spenser Silver]":{"level":100,"evs":{"hp":152,"at":0,"df":0,"sa":100,"sd":106,"sp":152},"moves":["Confuse Ray","Double Team","Toxic","Fly"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true}},"Swampert":{"Swampert-1 [459]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Counter","Rest","Curse"],"nature":"Adamant","isCustomSet":true},"Swampert-2 [555]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Earthquake","Counter","Mirror Coat"],"nature":"Docile","isCustomSet":true},"Swampert-3 [651]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Earthquake","Ice Beam","Counter"],"nature":"Brave","isCustomSet":true},"Swampert-4 [747]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Earthquake","Ice Beam","Mirror Coat"],"nature":"Quiet","isCustomSet":true},"Swampert-Boss [Tucker Silver]":{"level":100,"evs":{"hp":152,"at":152,"df":106,"sa":100,"sd":0,"sp":0},"moves":["Surf","Earthquake","Ice Beam","Counter"],"nature":"Brave","item":"Focus Band","isCustomSet":true},"Swampert-Boss [Tucker Gold]":{"level":100,"evs":{"hp":252,"at":252,"df":6,"sa":0,"sd":0,"sp":0},"moves":["Surf","Earthquake","Ice Beam","Mirror Coat"],"nature":"Brave","item":"Leftovers","isCustomSet":true}},"Gyarados":{"Gyarados-1 [460]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Return","Bite","Thunder Wave","Dragon Dance"],"nature":"Careful","isCustomSet":true},"Gyarados-2 [556]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Hydro Pump","Thunderbolt","Fire Blast","Blizzard"],"nature":"Modest","isCustomSet":true},"Gyarados-3 [652]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Thunder","Rain Dance","Earthquake"],"nature":"Quirky","isCustomSet":true},"Gyarados-4 [748]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Return","Earthquake","Dragon Dance","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Gyarados-Boss [Lucy Gold]":{"level":100,"evs":{"hp":252,"at":6,"df":0,"sa":0,"sd":252,"sp":0},"moves":["Dragon Dance","Return","Roar","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true}},"Snorlax":{"Snorlax-1 [461]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Facade","Shadow Ball","Attract","Double Team"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Snorlax-2 [557]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Rock Slide","Curse","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Snorlax-3 [653]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Mega Kick","Shadow Ball","Swagger","Psych Up"],"nature":"Adamant","isCustomSet":true},"Snorlax-4 [749]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Shadow Ball","Brick Break","Curse"],"nature":"Adamant","isCustomSet":true},"Snorlax-5 [825]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Mega Kick","Shadow Ball","Brick Break","Counter"],"nature":"Adamant","isCustomSet":true},"Snorlax-6 [826]":{"level":100,"evs":{"hp":0,"at":255,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Shadow Ball","Brick Break","Counter"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Snorlax-7 [827]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Hyper Beam","Shadow Ball","Earthquake","Curse"],"nature":"Adamant","isCustomSet":true},"Snorlax-8 [828]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Return","Shadow Ball","Belly Drum","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Snorlax-Boss [Anabel Silver]":{"level":100,"evs":{"hp":152,"at":152,"df":0,"sa":106,"sd":100,"sp":0},"moves":["Body Slam","Belly Drum","Yawn","Shadow Ball"],"nature":"Adamant","isCustomSet":true},"Snorlax-Boss [Anabel Gold]":{"level":100,"evs":{"hp":252,"at":252,"df":0,"sa":6,"sd":0,"sp":0},"moves":["Curse","Return","Rest","Shadow Ball"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true}},"Kingdra":{"Kingdra-1 [462]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Hydro Pump","Dragon Breath","Icy Wind","Attract"],"nature":"Modest","isCustomSet":true},"Kingdra-2 [558]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Ice Beam","Dragon Breath","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Kingdra-3 [654]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Flail","Hydro Pump","Dragon Dance","Endure"],"nature":"Adamant","item":"Salac Berry","isCustomSet":true},"Kingdra-4 [750]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Double-Edge","Ice Beam","Dragon Dance","Rest"],"nature":"Hardy","item":"Chesto Berry","isCustomSet":true}},"Blissey":{"Blissey-1 [463]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Toxic","Double Team","Sing","Softboiled"],"nature":"Bold","item":"Bright Powder","isCustomSet":true},"Blissey-2 [559]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Seismic Toss","Sing","Attract","Substitute"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Blissey-3 [655]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Fire Blast","Blizzard","Calm Mind","Softboiled"],"nature":"Bold","item":"Focus Band","isCustomSet":true},"Blissey-4 [751]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Ice Beam","Calm Mind","Counter","Softboiled"],"nature":"Bold","item":"Focus Band","isCustomSet":true}},"Milotic":{"Milotic-1 [464]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Hydro Pump","Icy Wind","Recover","Mirror Coat"],"nature":"Modest","isCustomSet":true},"Milotic-2 [560]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Ice Beam","Safeguard","Mirror Coat"],"nature":"Modest","item":"Focus Band","isCustomSet":true},"Milotic-3 [656]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Blizzard","Attract","Recover"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Milotic-4 [752]":{"level":100,"evs":{"hp":0,"at":0,"df":170,"sa":170,"sd":170,"sp":0},"moves":["Surf","Ice Beam","Recover","Mirror Coat"],"nature":"Modest","item":"Leftovers","isCustomSet":true},"Milotic-Boss [Lucy Silver]":{"level":100,"evs":{"hp":152,"at":0,"df":100,"sa":152,"sd":106,"sp":0},"moves":["Ice Beam","Mirror Coat","Surf","Recover"],"nature":"Modest","item":"Leftovers","isCustomSet":true}},"Arcanine":{"Arcanine-1 [465]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Flamethrower","Extreme Speed","Crunch","Body Slam"],"nature":"Adamant","item":"King's Rock","isCustomSet":true},"Arcanine-2 [561]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Sunny Day","Crunch","Roar"],"nature":"Docile","isCustomSet":true},"Arcanine-3 [657]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Overheat","Extreme Speed","Crunch","Aerial Ace"],"nature":"Modest","item":"White Herb","isCustomSet":true},"Arcanine-4 [753]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Overheat","Extreme Speed","Crunch","Double-Edge"],"nature":"Docile","item":"White Herb","isCustomSet":true},"Arcanine-Boss [Spenser Gold]":{"level":100,"evs":{"hp":6,"at":252,"df":252,"sa":0,"sd":0,"sp":0},"moves":["Overheat","Extreme Speed","Roar","Protect"],"nature":"Hasty","item":"White Herb","isCustomSet":true}},"Salamence":{"Salamence-1 [466]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Dragon Claw","Aerial Ace","Headbutt","Rock Slide"],"nature":"Hardy","item":"King's Rock","isCustomSet":true},"Salamence-2 [562]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Double-Edge","Crunch","Swagger","Protect"],"nature":"Hardy","item":"Leftovers","isCustomSet":true},"Salamence-3 [658]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Crunch","Endure"],"nature":"Hardy","item":"Salac Berry","isCustomSet":true},"Salamence-4 [754]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Double-Edge","Earthquake","Aerial Ace","Dragon Dance"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Salamence-5 [829]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Facade","Earthquake","Rock Slide","Dragon Dance"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Salamence-6 [830]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Headbutt","Aerial Ace","Crunch","Dragon Dance"],"nature":"Hardy","isCustomSet":true},"Salamence-7 [831]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Dragon Claw","Crunch","Brick Break"],"nature":"Modest","isCustomSet":true},"Salamence-8 [832]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Dragon Claw","Crunch","Attract"],"nature":"Modest","item":"Leftovers","isCustomSet":true},"Salamence-Boss [Tucker Silver]":{"level":100,"evs":{"hp":152,"at":152,"df":106,"sa":0,"sd":0,"sp":100},"moves":["Earthquake","Brick Break","Dragon Claw","Aerial Ace"],"nature":"Adamant","isCustomSet":true}},"Metagross":{"Metagross-1 [467]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":0,"sd":170,"sp":170},"moves":["Meteor Mash","Aerial Ace","Facade","Light Screen"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Metagross-2 [563]":{"level":100,"evs":{"hp":170,"at":0,"df":0,"sa":0,"sd":170,"sp":170},"moves":["Earthquake","Meteor Mash","Psych Up","Swagger"],"nature":"Adamant","isCustomSet":true},"Metagross-3 [659]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":0,"sp":170},"moves":["Earthquake","Meteor Mash","Double Team","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Metagross-4 [755]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Meteor Mash","Psychic","Earthquake","Shadow Ball"],"nature":"Hardy","isCustomSet":true},"Metagross-5 [833]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":0,"sp":170},"moves":["Explosion","Earthquake","Rock Slide","Brick Break"],"nature":"Jolly","isCustomSet":true},"Metagross-6 [834]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Meteor Mash","Psychic","Ice Punch","Thunder Punch"],"nature":"Hardy","item":"Bright Powder","isCustomSet":true},"Metagross-7 [835]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Earthquake","Shadow Ball","Ice Punch","Thunder Punch"],"nature":"Hardy","isCustomSet":true},"Metagross-8 [836]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":0,"sp":170},"moves":["Meteor Mash","Earthquake","Brick Break","Explosion"],"nature":"Adamant","isCustomSet":true},"Metagross-Boss [Tucker Gold]":{"level":100,"evs":{"hp":252,"at":252,"df":6,"sa":0,"sd":0,"sp":0},"moves":["Psychic","Meteor Mash","Earthquake","Protect"],"nature":"Brave","isCustomSet":true}},"Slaking":{"Slaking-1 [468]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Yawn","Bulk Up","Swagger","Aerial Ace"],"nature":"Adamant","isCustomSet":true},"Slaking-2 [564]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Mega Kick","Shadow Ball","Yawn","Amnesia"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Slaking-3 [660]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Earthquake","Shadow Ball","Aerial Ace","Brick Break"],"nature":"Adamant","item":"Choice Band","isCustomSet":true},"Slaking-4 [756]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":255,"sp":0},"moves":["Thunderbolt","Flamethrower","Ice Beam","Yawn"],"nature":"Modest","isCustomSet":true},"Slaking-Boss [Spenser Silver]":{"level":100,"evs":{"hp":152,"at":152,"df":0,"sa":100,"sd":0,"sp":106},"moves":["Earthquake","Swagger","Shadow Ball","Brick Break"],"nature":"Hardy","isCustomSet":true},"Slaking-Boss [Spenser Gold]":{"level":100,"evs":{"hp":6,"at":252,"df":0,"sa":0,"sd":0,"sp":252},"moves":["Hyper Beam","Earthquake","Shadow Ball","Yawn"],"nature":"Hardy","isCustomSet":true}},"Articuno":{"Articuno-1 [757]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Ice Beam","Water Pulse","Icy Wind","Roar"],"nature":"Modest","isCustomSet":true},"Articuno-2 [768]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Substitute","Toxic","Blizzard","Double Team"],"nature":"Impish","item":"Leftovers","isCustomSet":true},"Articuno-3 [779]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Facade","Aerial Ace","Protect"],"nature":"Docile","item":"Bright Powder","isCustomSet":true},"Articuno-4 [790]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Blizzard","Double-Edge","Rest","Reflect"],"nature":"Docile","item":"Chesto Berry","isCustomSet":true},"Articuno-5 [871]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Blizzard","Double-Edge","Agility","Swagger"],"nature":"Docile","item":"Focus Band","isCustomSet":true},"Articuno-6 [872]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Aerial Ace","Reflect","Rest"],"nature":"Docile","item":"Chesto Berry","isCustomSet":true}},"Zapdos":{"Zapdos-1 [758]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Drill Peck","Thunder Wave","Roar"],"nature":"Docile","isCustomSet":true},"Zapdos-2 [769]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Thunder","Rain Dance","Drill Peck","Double Team"],"nature":"Docile","item":"Bright Powder","isCustomSet":true},"Zapdos-3 [780]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Thunderbolt","Drill Peck","Thunder Wave","Substitute"],"nature":"Docile","item":"Leftovers","isCustomSet":true},"Zapdos-4 [791]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Drill Peck","Thunder Wave","Light Screen"],"nature":"Docile","isCustomSet":true},"Zapdos-5 [873]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunderbolt","Drill Peck","Double-Edge","Thunder Wave"],"nature":"Docile","isCustomSet":true},"Zapdos-6 [874]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Thunder","Drill Peck","Rain Dance","Double-Edge"],"nature":"Docile","isCustomSet":true}},"Moltres":{"Moltres-1 [759]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Flamethrower","Aerial Ace","Mud-Slap","Roar"],"nature":"Docile","isCustomSet":true},"Moltres-2 [770]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Overheat","Aerial Ace","Double Team","Protect"],"nature":"Hardy","item":"White Herb","isCustomSet":true},"Moltres-3 [781]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Sunny Day","Double Team","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Moltres-4 [792]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Overheat","Double-Edge","Steel Wing","Safeguard"],"nature":"Quiet","item":"White Herb","isCustomSet":true},"Moltres-5 [875]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Overheat","Sunny Day","Swagger","Facade"],"nature":"Docile","item":"White Herb","isCustomSet":true},"Moltres-6 [876]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Overheat","Double-Edge","Aerial Ace","Steel Wing"],"nature":"Docile","item":"White Herb","isCustomSet":true}},"Raikou":{"Raikou-1 [760]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Thunder Wave","Calm Mind","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Raikou-2 [771]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunder","Rain Dance","Double Team","Reflect"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Raikou-3 [782]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Thunder Wave","Quick Attack","Roar"],"nature":"Modest","item":"King's Rock","isCustomSet":true},"Raikou-4 [793]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Bite","Thunder Wave","Reflect"],"nature":"Modest","isCustomSet":true},"Raikou-5 [877]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Thunderbolt","Double-Edge","Roar","Reflect"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Raikou-6 [878]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Thunderbolt","Calm Mind","Substitute","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Raikou-Boss [Anabel Gold]":{"level":100,"evs":{"hp":158,"at":0,"df":252,"sa":0,"sd":0,"sp":100},"moves":["Thunderbolt","Calm Mind","Reflect","Rest"],"nature":"Modest","isCustomSet":true}},"Entei":{"Entei-1 [761]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Double Team","Calm Mind","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Entei-2 [772]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Fire Blast","Sunny Day","Solar Beam","Reflect"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Entei-3 [783]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":0,"sd":0,"sp":255},"moves":["Flamethrower","Double-Edge","Swagger","Psych Up"],"nature":"Docile","isCustomSet":true},"Entei-4 [794]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Flamethrower","Bite","Double Team","Reflect"],"nature":"Modest","item":"King's Rock","isCustomSet":true},"Entei-5 [879]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Fire Blast","Double-Edge","Endure","Reflect"],"nature":"Docile","item":"Salac Berry","isCustomSet":true},"Entei-6 [880]":{"level":100,"evs":{"hp":0,"at":0,"df":255,"sa":0,"sd":255,"sp":0},"moves":["Flamethrower","Calm Mind","Roar","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Entei-Boss [Anabel Silver]":{"level":100,"evs":{"hp":100,"at":152,"df":152,"sa":100,"sd":6,"sp":0},"moves":["Fire Blast","Calm Mind","Return","Roar"],"nature":"Lonely","isCustomSet":true}},"Suicune":{"Suicune-1 [762]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Double Team","Calm Mind","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Suicune-2 [773]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Toxic","Dive","Double Team","Protect"],"nature":"Calm","item":"Leftovers","isCustomSet":true},"Suicune-3 [784]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Ice Beam","Rain Dance","Roar"],"nature":"Modest","isCustomSet":true},"Suicune-4 [795]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Surf","Ice Beam","Bite","Reflect"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Suicune-5 [881]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Surf","Ice Beam","Calm Mind","Icy Wind"],"nature":"Modest","isCustomSet":true},"Suicune-6 [882]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Surf","Ice Beam","Calm Mind","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Suicune-Boss [Spenser Gold]":{"level":100,"evs":{"hp":252,"at":0,"df":252,"sa":0,"sd":0,"sp":6},"moves":["Blizzard","Surf","Bite","Calm Mind"],"nature":"Hasty","item":"King's Rock","isCustomSet":true}},"Regirock":{"Regirock-1 [763]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Superpower","Earthquake","Rock Slide","Explosion"],"nature":"Adamant","item":"White Herb","isCustomSet":true},"Regirock-2 [774]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Rock Slide","Counter","Explosion"],"nature":"Adamant","isCustomSet":true},"Regirock-3 [785]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Rock Slide","Earthquake","Curse","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Regirock-4 [796]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":0,"sd":170,"sp":0},"moves":["Rock Slide","Brick Break","Double Team","Thunder Wave"],"nature":"Careful","item":"Leftovers","isCustomSet":true},"Regirock-5 [837]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Hyper Beam","Focus Punch","Rock Slide","Double Team"],"nature":"Adamant","isCustomSet":true},"Regirock-6 [838]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":0,"sd":255,"sp":0},"moves":["Swagger","Psych Up","Rock Slide","Explosion"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Regirock-Boss [Brandon Silver]":{"level":100,"evs":{"hp":152,"at":152,"df":0,"sa":106,"sd":100,"sp":0},"moves":["Explosion","Superpower","Earthquake","Ancient Power"],"nature":"Adamant","isCustomSet":true}},"Regice":{"Regice-1 [764]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Thunderbolt","Amnesia","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Regice-2 [775]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunder","Rain Dance","Blizzard","Brick Break"],"nature":"Quiet","item":"Bright Powder","isCustomSet":true},"Regice-3 [786]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Thunderbolt","Thunder Wave","Explosion"],"nature":"Quiet","isCustomSet":true},"Regice-4 [797]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Ice Beam","Hail","Double Team","Thunder Wave"],"nature":"Bold","item":"Leftovers","isCustomSet":true},"Regice-5 [839]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":170,"sd":0,"sp":0},"moves":["Earthquake","Ice Beam","Curse","Counter"],"nature":"Brave","item":"Leftovers","isCustomSet":true},"Regice-6 [840]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Ice Beam","Thunderbolt","Sleep Talk","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true},"Regice-Boss [Brandon Silver]":{"level":100,"evs":{"hp":106,"at":0,"df":152,"sa":100,"sd":152,"sp":0},"moves":["Ice Beam","Amnesia","Thunder","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true}},"Registeel":{"Registeel-1 [765]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Metal Claw","Curse","Amnesia","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Registeel-2 [776]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Thunderbolt","Ice Punch","Earthquake","Aerial Ace"],"nature":"Quiet","item":"Bright Powder","isCustomSet":true},"Registeel-3 [787]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Ancient Power","Amnesia","Counter","Explosion"],"nature":"Adamant","isCustomSet":true},"Registeel-4 [798]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Ancient Power","Earthquake","Double Team","Thunder Wave"],"nature":"Impish","item":"Leftovers","isCustomSet":true},"Registeel-5 [841]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Focus Punch","Substitute","Toxic","Double Team"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Registeel-6 [842]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Superpower","Aerial Ace","Swagger","Psych Up"],"nature":"Adamant","item":"White Herb","isCustomSet":true},"Registeel-Boss [Brandon Silver]":{"level":100,"evs":{"hp":152,"at":152,"df":0,"sa":6,"sd":200,"sp":0},"moves":["Earthquake","Metal Claw","Toxic","Iron Defense"],"nature":"Adamant","item":"Leftovers","isCustomSet":true}},"Latias":{"Latias-1 [766]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunderbolt","Ice Beam","Dragon Claw"],"nature":"Modest","isCustomSet":true},"Latias-2 [777]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunderbolt","Ice Beam","Earthquake"],"nature":"Docile","isCustomSet":true},"Latias-3 [788]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Dragon Claw","Thunderbolt","Ice Beam","Earthquake"],"nature":"Docile","item":"Focus Band","isCustomSet":true},"Latias-4 [799]":{"level":100,"evs":{"hp":170,"at":170,"df":0,"sa":170,"sd":0,"sp":0},"moves":["Mist Ball","Shadow Ball","Charm","Reflect"],"nature":"Docile","item":"Leftovers","isCustomSet":true},"Latias-5 [843]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Dragon Claw","Thunder Wave","Calm Mind","Recover"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Latias-6 [844]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Mist Ball","Dragon Claw","Attract","Thunder Wave"],"nature":"Modest","isCustomSet":true},"Latias-7 [845]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Shadow Ball","Swagger","Psych Up"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Latias-8 [846]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Psychic","Shadow Ball","Earthquake","Aerial Ace"],"nature":"Docile","item":"King's Rock","isCustomSet":true},"Latias-Boss [Tucker Gold]":{"level":100,"evs":{"hp":252,"at":0,"df":252,"sa":0,"sd":0,"sp":6},"moves":["Thunderbolt","Psychic","Calm Mind","Rest"],"nature":"Modest","item":"Chesto Berry","isCustomSet":true}},"Latios":{"Latios-1 [767]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunderbolt","Ice Beam","Dragon Claw"],"nature":"Modest","isCustomSet":true},"Latios-2 [778]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Psychic","Thunderbolt","Ice Beam","Earthquake"],"nature":"Docile","isCustomSet":true},"Latios-3 [789]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Dragon Claw","Thunderbolt","Ice Beam","Earthquake"],"nature":"Docile","item":"Focus Band","isCustomSet":true},"Latios-4 [800]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Luster Purge","Thunderbolt","Ice Beam","Dragon Claw"],"nature":"Modest","isCustomSet":true},"Latios-5 [847]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Dragon Claw","Thunder Wave","Calm Mind","Recover"],"nature":"Modest","item":"Bright Powder","isCustomSet":true},"Latios-6 [848]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Luster Purge","Shadow Ball","Dragon Claw","Thunder Wave"],"nature":"Docile","isCustomSet":true},"Latios-7 [849]":{"level":100,"evs":{"hp":255,"at":0,"df":255,"sa":0,"sd":0,"sp":0},"moves":["Earthquake","Shadow Ball","Dragon Dance","Recover"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Latios-8 [850]":{"level":100,"evs":{"hp":0,"at":170,"df":0,"sa":170,"sd":0,"sp":170},"moves":["Psychic","Shadow Ball","Earthquake","Aerial Ace"],"nature":"Docile","item":"King's Rock","isCustomSet":true},"Latios-Boss [Anabel Gold]":{"level":100,"evs":{"hp":252,"at":0,"df":252,"sa":0,"sd":0,"sp":6},"moves":["Psychic","Calm Mind","Recover","Dragon Claw"],"nature":"Modest","item":"Bright Powder","isCustomSet":true}},"Dragonite":{"Dragonite-1 [851]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Aerial Ace","Brick Break","Dragon Dance"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Dragonite-2 [852]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Double-Edge","Aerial Ace","Dragon Dance"],"nature":"Adamant","item":"Bright Powder","isCustomSet":true},"Dragonite-3 [853]":{"level":100,"evs":{"hp":0,"at":170,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Hyper Beam","Attract","Double Team","Thunder Wave"],"nature":"Adamant","item":"Leftovers","isCustomSet":true},"Dragonite-4 [854]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Hyper Beam","Thunder Wave","Dragon Dance","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Dragonite-5 [855]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Outrage","Double-Edge","Thunder Wave","Roar"],"nature":"Docile","isCustomSet":true},"Dragonite-6 [856]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Dragon Claw","Thunderbolt","Surf","Flamethrower"],"nature":"Modest","isCustomSet":true},"Dragonite-7 [857]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Dragon Claw","Thunderbolt","Surf","Ice Beam"],"nature":"Modest","isCustomSet":true},"Dragonite-8 [858]":{"level":100,"evs":{"hp":0,"at":0,"df":0,"sa":255,"sd":0,"sp":255},"moves":["Dragon Claw","Flamethrower","Ice Beam","Brick Break"],"nature":"Modest","isCustomSet":true},"Dragonite-9 [859]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Thunder","Surf","Rain Dance","Earthquake"],"nature":"Docile","isCustomSet":true},"Dragonite-10 [860]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Fire Blast","Blizzard","Sunny Day","Earthquake"],"nature":"Docile","isCustomSet":true}},"Tyranitar":{"Tyranitar-1 [861]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Earthquake","Aerial Ace","Thunderbolt","Surf"],"nature":"Hardy","item":"Bright Powder","isCustomSet":true},"Tyranitar-2 [862]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Earthquake","Rock Slide","Crunch","Thunderbolt"],"nature":"Hardy","item":"Bright Powder","isCustomSet":true},"Tyranitar-3 [863]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Rock Slide","Counter","Dragon Dance"],"nature":"Adamant","item":"Focus Band","isCustomSet":true},"Tyranitar-4 [864]":{"level":100,"evs":{"hp":255,"at":0,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Crunch","Ice Beam","Thunderbolt","Flamethrower"],"nature":"Modest","isCustomSet":true},"Tyranitar-5 [865]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Rock Slide","Dragon Dance","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Tyranitar-6 [866]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Earthquake","Rock Slide","Curse","Rest"],"nature":"Adamant","item":"Chesto Berry","isCustomSet":true},"Tyranitar-7 [867]":{"level":100,"evs":{"hp":255,"at":255,"df":0,"sa":0,"sd":0,"sp":0},"moves":["Rock Slide","Aerial Ace","Brick Break","Curse"],"nature":"Adamant","isCustomSet":true},"Tyranitar-8 [868]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Rock Slide","Thunder Wave","Dragon Dance","Rest"],"nature":"Adamant","isCustomSet":true},"Tyranitar-9 [869]":{"level":100,"evs":{"hp":0,"at":255,"df":0,"sa":255,"sd":0,"sp":0},"moves":["Crunch","Earthquake","Aerial Ace","Attract"],"nature":"Hardy","isCustomSet":true},"Tyranitar-10 [870]":{"level":100,"evs":{"hp":170,"at":0,"df":170,"sa":0,"sd":170,"sp":0},"moves":["Double-Edge","Earthquake","Rock Slide","Dragon Dance"],"nature":"Adamant","isCustomSet":true}}}
+var SETDEX_ADV = 
+{
+    "Absol": {
+        "Absol1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Flamethrower",
+            "Shadow Ball",
+            "Protect"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Absol": {
+        "Absol2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Calm Mind",
+            "Fire Blast",
+            "Hidden Power",
+            "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Aipom": {
+        "Aipom1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Shadow Ball",
+            "Brick Break",
+            "Mega Kick"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Aipom": {
+        "Aipom2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Body Slam",
+            "Thunder Wave",
+            "Baton Pass",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        }
+    },
+    "Arbok": {
+        "Arbok1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Earthquake",
+            "Rock Slide",
+            "Sleep Talk"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Arbok": {
+        "Arbok2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Earthquake",
+            "Giga Drain",
+            "Glare"
+        ],
+        "nature": "Brave",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Ariados": {
+        "Ariados1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Scary Face",
+            "Sludge Bomb",
+            "Signal Beam",
+            "Giga Drain"
+        ],
+        "nature": "Relaxed",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ariados": {
+        "Ariados2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Body Slam",
+            "Sludge Bomb",
+            "Signal Beam",
+            "Dig"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Banette": {
+        "Banette1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Destiny Bond",
+            "Shadow Ball",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Banette": {
+        "Banette2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Destiny Bond",
+            "Shadow Ball",
+            "Will-o-Wisp"
+        ],
+        "nature": "Naive",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Bayleef": {
+        "Bayleef1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Razor Leaf",
+            "Leech Seed",
+            "Protect",
+            "Hidden Power"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Bayleef": {
+        "Bayleef2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Giga Drain",
+            "Leech Seed",
+            "Protect",
+            "Synthesis"
+        ],
+        "nature": "Calm",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Beautifly": {
+        "Beautifly1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Psychic",
+            "Giga Drain",
+            "Silver Wind"
+        ],
+        "nature": "Hasty",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Beautifly": {
+        "Beautifly2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Stun Spore",
+            "Morning Sun",
+            "Aerial Ace",
+            "Silver Wind"
+        ],
+        "nature": "Careful",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Beedrill": {
+        "Beedrill1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Endeavor",
+            "Brick Break",
+            "Sludge Bomb"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Beedrill": {
+        "Beedrill2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Protect",
+            "String Shot",
+            "Brick Break",
+            "Twineedle"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Bellossom": {
+        "Bellossom1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sunny Day",
+            "Solar Beam",
+            "Synthesis",
+            "Sleep Powder"
+        ],
+        "nature": "Calm",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Bellossom": {
+        "Bellossom2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Leech Seed",
+            "Magical Leaf",
+            "Protect",
+            "Sleep Powder"
+        ],
+        "nature": "Bold",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Butterfree": {
+        "Butterfree1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 255
+        },
+        "moves": [
+            "Sleep Powder",
+            "Dream Eater",
+            "Giga Drain",
+            "Nightmare"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Butterfree": {
+        "Butterfree2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Psychic",
+            "Giga Drain",
+            "Stun Spore"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Cacturne": {
+        "Cacturne1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Focus Punch",
+            "Hidden Power",
+            "Needle Arm"
+        ],
+        "nature": "Hasty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cacturne": {
+        "Cacturne2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Destiny Bond",
+            "Endure",
+            "Hidden Power",
+            "Needle Arm"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Castform": {
+        "Castform1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Weather Ball",
+            "Thunder",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Castform": {
+        "Castform2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sunny Day",
+            "Weather Ball",
+            "Fire Blast",
+            "Solar Beam"
+        ],
+        "nature": "Calm",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Charmeleon": {
+        "Charmeleon1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Overheat",
+            "Flamethrower",
+            "Dragon Claw",
+            "Brick Break"
+        ],
+        "nature": "Hasty",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Charmeleon": {
+        "Charmeleon2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Fire Blast",
+            "Mega Kick",
+            "Iron Tail"
+        ],
+        "nature": "Hasty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Chimecho": {
+        "Chimecho1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Nightmare",
+            "Shock Wave",
+            "Hypnosis",
+            "Dream Eater"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Chimecho": {
+        "Chimecho2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Shock Wave",
+            "Heal Bell",
+            "Psychic"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Clamperl": {
+        "Clamperl1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Blizzard",
+            "Hydro Pump"
+        ],
+        "nature": "Timid",
+        "item": "Deep Sea Tooth",
+        "isCustomSet": true
+        }
+    },
+    "Clamperl": {
+        "Clamperl2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Barrier",
+            "Mud Sport",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Deep Sea Scale",
+        "isCustomSet": true
+        }
+    },
+    "Combusken": {
+        "Combusken1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Reversal",
+            "Fire Blast",
+            "Focus Punch"
+        ],
+        "nature": "Naughty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Combusken": {
+        "Combusken2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Reversal",
+            "Fire Blast",
+            "Swords Dance"
+        ],
+        "nature": "Lonely",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Corsola": {
+        "Corsola1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Explosion",
+            "Rock Slide",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Corsola": {
+        "Corsola2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Refresh",
+            "Surf",
+            "Calm Mind"
+        ],
+        "nature": "Bold",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Crawdaunt": {
+        "Crawdaunt1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Sludge Bomb",
+            "Brick Break",
+            "Crabhammer"
+        ],
+        "nature": "Brave",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Crawdaunt": {
+        "Crawdaunt2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Endeavor",
+            "Crunch",
+            "Crabhammer"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cubone": {
+        "Cubone1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Bonemerang",
+            "Rock Slide",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Thick Club",
+        "isCustomSet": true
+        }
+    },
+    "Cubone": {
+        "Cubone2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Earthquake",
+            "Rock Slide",
+            "Blizzard"
+        ],
+        "nature": "Jolly",
+        "item": "Thick Club",
+        "isCustomSet": true
+        }
+    },
+    "Delcatty": {
+        "Delcatty1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Wish",
+            "Protect",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Delcatty": {
+        "Delcatty2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Assist",
+            "Dig",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Delibird": {
+        "Delibird1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Ice Beam",
+            "Water Pulse",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Delibird": {
+        "Delibird2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Present",
+            "Aerial Ace",
+            "Ice Beam",
+            "Quick Attack"
+        ],
+        "nature": "Lonely",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Dewgong": {
+        "Dewgong1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Perish Song",
+            "Encore",
+            "Ice Beam",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dewgong": {
+        "Dewgong2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Fake Out",
+            "Surf",
+            "Ice Beam",
+            "Thief"
+        ],
+        "nature": "Sassy",
+        "isCustomSet": true
+        }
+    },
+    "Doduo": {
+        "Doduo1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Quick Attack",
+            "Tri Attack",
+            "Steel Wing"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Doduo": {
+        "Doduo2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Agility",
+            "Double-Edge",
+            "Steel Wing"
+        ],
+        "nature": "Adamant",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Drowzee": {
+        "Drowzee1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Wish",
+            "Protect",
+            "Thunder Wave"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Drowzee": {
+        "Drowzee2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Ice Punch",
+            "Thunder Punch",
+            "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Dunsparce": {
+        "Dunsparce1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Headbutt",
+            "Thunder Wave",
+            "Rock Slide",
+            "Rock Smash"
+        ],
+        "nature": "Careful",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Dunsparce": {
+        "Dunsparce2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Body Slam",
+            "Curse",
+            "Iron Tail",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Duskull": {
+        "Duskull1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Will-o-Wisp",
+            "Pain Split",
+            "Night Shade"
+        ],
+        "nature": "Bold",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Duskull": {
+        "Duskull2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Will-o-Wisp",
+            "Pain Split",
+            "Night Shade"
+        ],
+        "nature": "Calm",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dustox": {
+        "Dustox1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sunny Day",
+            "Moonlight",
+            "Solar Beam",
+            "Psychic"
+        ],
+        "nature": "Careful",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Dustox": {
+        "Dustox2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Moonlight",
+            "Shadow Ball",
+            "Silver Wind"
+        ],
+        "nature": "Careful",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Elekid": {
+        "Elekid1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Ice Punch",
+            "Psychic",
+            "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Elekid": {
+        "Elekid2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Ice Punch",
+            "Psychic",
+            "Fire Punch"
+        ],
+        "nature": "Timid",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Farfetchd": {
+        "Farfetchd1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Aerial Ace",
+            "Steel Wing",
+            "Quick Attack"
+        ],
+        "nature": "Adamant",
+        "item": "Stick",
+        "isCustomSet": true
+        }
+    },
+    "Farfetchd": {
+        "Farfetchd2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Fly",
+            "Steel Wing",
+            "Wish"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Fearow": {
+        "Fearow1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Drill Peck",
+            "Hyper Beam",
+            "Substitute",
+            "Baton Pass"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Fearow": {
+        "Fearow2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Frustration",
+            "Steel Wing",
+            "Quick Attack"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flaaffy": {
+        "Flaaffy1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Thunder Wave",
+            "Fire Punch",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flaaffy": {
+        "Flaaffy2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Thunder Wave",
+            "Fire Punch",
+            "Cotton Spore"
+        ],
+        "nature": "Timid",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Flareon": {
+        "Flareon1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Frustration",
+            "Flamethrower",
+            "Rest"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flareon": {
+        "Flareon2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Protect",
+            "Flamethrower",
+            "Toxic"
+        ],
+        "nature": "Calm",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Furret": {
+        "Furret1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Trick",
+            "Quick Attack",
+            "Dig",
+            "Hyper Beam"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Furret": {
+        "Furret2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Trick",
+            "Quick Attack",
+            "Dynamic Punch",
+            "Double-Edge"
+        ],
+        "nature": "Adamant",
+        "item": "Macho Brace",
+        "isCustomSet": true
+        }
+    },
+    "Girafarig": {
+        "Girafarig1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Double-Edge",
+            "Psychic",
+            "Calm Mind",
+            "Magic Coat"
+        ],
+        "nature": "Mild",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Girafarig": {
+        "Girafarig2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Psychic",
+            "Calm Mind",
+            "Thunderbolt"
+        ],
+        "nature": "Bold",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Glalie": {
+        "Glalie1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ice Beam",
+            "Spikes",
+            "Endure",
+            "Explosion"
+        ],
+        "nature": "Naive",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Glalie": {
+        "Glalie2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Ice Beam",
+            "Sing",
+            "Earthquake",
+            "Explosion"
+        ],
+        "nature": "Hasty",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Golbat": {
+        "Golbat1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Double-Edge",
+            "Sludge Bomb",
+            "Air Cutter",
+            "Steel Wing"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Golbat": {
+        "Golbat2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Curse",
+            "Sludge Bomb",
+            "Wing Attack",
+            "Steel Wing"
+        ],
+        "nature": "Jolly",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Grovyle": {
+        "Grovyle1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Leech Seed",
+            "Leaf Blade",
+            "Crunch"
+        ],
+        "nature": "Timid",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Grovyle": {
+        "Grovyle2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Endeavor",
+            "Leaf Blade",
+            "Crunch"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Haunter": {
+        "Haunter1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Thunderbolt",
+            "Giga Drain",
+            "Destiny Bond"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Haunter": {
+        "Haunter2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Hidden Power",
+            "Psychic",
+            "Destiny Bond"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hitmonchan": {
+        "Hitmonchan1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Earthquake",
+            "Rock Slide",
+            "Mach Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Hitmonchan": {
+        "Hitmonchan2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Earthquake",
+            "Rock Slide",
+            "Bulk Up"
+        ],
+        "nature": "Adamant",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Hitmontop": {
+        "Hitmontop1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Rest",
+            "Brick Break",
+            "Rock Slide"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hitmontop": {
+        "Hitmontop2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Endeavor",
+            "Brick Break",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Huntail": {
+        "Huntail1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Mud Sport"
+        ],
+        "nature": "Modest",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Huntail": {
+        "Huntail2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Crunch"
+        ],
+        "nature": "Modest",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Illumise": {
+        "Illumise1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Thunder Wave",
+            "Encore",
+            "Thunderbolt",
+            "Ice Punch"
+        ],
+        "nature": "Timid",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Illumise": {
+        "Illumise2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Encore",
+            "Seismic Toss",
+            "Wish"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Kabutops": {
+        "Kabutops1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Rock Slide",
+            "Surf",
+            "Swords Dance"
+        ],
+        "nature": "Naive",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kabutops": {
+        "Kabutops2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Knock Off",
+            "Rock Slide",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kecleon": {
+        "Kecleon1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Frustration",
+            "Trick",
+            "Brick Break",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Kecleon": {
+        "Kecleon2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Trick",
+            "Dynamic Punch",
+            "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "item": "Macho Brace",
+        "isCustomSet": true
+        }
+    },
+    "Kingler": {
+        "Kingler1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Knock Off",
+            "Dive",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Kingler": {
+        "Kingler2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Harden",
+            "Amnesia",
+            "Metal Claw"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lairon": {
+        "Lairon1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Earthquake",
+            "Rock Slide",
+            "Double-Edge"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Lairon": {
+        "Lairon2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Earthquake",
+            "Protect",
+            "Toxic"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Ledian": {
+        "Ledian1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Reflect",
+            "Baton Pass",
+            "Light Screen",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ledian": {
+        "Ledian2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Giga Drain",
+            "Thunder Punch",
+            "Psybeam",
+            "Ice Punch"
+        ],
+        "nature": "Modest",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Lickitung": {
+        "Lickitung1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Dig",
+            "Body Slam",
+            "Swords Dance"
+        ],
+        "nature": "Careful",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Lickitung": {
+        "Lickitung2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Earthquake",
+            "Body Slam",
+            "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lileep": {
+        "Lileep1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Amnesia",
+            "Barrier",
+            "Rest",
+            "Ingrain"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lileep": {
+        "Lileep2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ancient Power",
+            "Giga Drain",
+            "Recover",
+            "Hidden Power"
+        ],
+        "nature": "Quiet",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Luvdisc": {
+        "Luvdisc1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Substitute",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Luvdisc": {
+        "Luvdisc2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rain Dance",
+            "Charm",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Magcargo": {
+        "Magcargo1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Acid Armor",
+            "Amnesia",
+            "Rest",
+            "Rollout"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Magcargo": {
+        "Magcargo2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Fire Blast",
+            "Self-Destruct",
+            "Body Slam",
+            "Protect"
+        ],
+        "nature": "Quiet",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Magnemite": {
+        "Magnemite1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Hidden Power",
+            "Thunder Wave",
+            "Reflect"
+        ],
+        "nature": "Bold",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Magnemite": {
+        "Magnemite2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Hidden Power",
+            "Thunder Wave",
+            "Protect"
+        ],
+        "nature": "Modest",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Marshtomp": {
+        "Marshtomp1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hydro Pump",
+            "Earthquake",
+            "Ice Beam",
+            "Counter"
+        ],
+        "nature": "Relaxed",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Marshtomp": {
+        "Marshtomp2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Earthquake",
+            "Ice Beam",
+            "Rest"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Masquerain": {
+        "Masquerain1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Hydro Pump",
+            "Ice Beam",
+            "Giga Drain"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Masquerain": {
+        "Masquerain2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Hydro Pump",
+            "Ice Beam",
+            "Stun Spore"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mawile": {
+        "Mawile1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Baton Pass",
+            "Focus Punch",
+            "Ancient Power"
+        ],
+        "nature": "Impish",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mawile": {
+        "Mawile2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Protect",
+            "Iron Defense",
+            "Rock Tomb"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Metang": {
+        "Metang1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Agility",
+            "Meteor Mash",
+            "Earthquake",
+            "Explosion"
+        ],
+        "nature": "Adamant",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Metang": {
+        "Metang2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Meteor Mash",
+            "Earthquake",
+            "Explosion"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Mightyena": {
+        "Mightyena1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Protect",
+            "Toxic",
+            "Heal Bell",
+            "Crunch"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Mightyena": {
+        "Mightyena2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Snatch",
+            "Roar",
+            "Crunch"
+        ],
+        "nature": "Modest",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Minun": {
+        "Minun1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Encore",
+            "Rain Dance",
+            "Thunder",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Minun": {
+        "Minun2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Baton Pass",
+            "Thunderbolt",
+            "Light Screen"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Murkrow": {
+        "Murkrow1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Drill Peck",
+            "Steel Wing",
+            "Mirror Move",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Murkrow": {
+        "Murkrow2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Drill Peck",
+            "Hidden Power",
+            "Mirror Move",
+            "Double-Edge"
+        ],
+        "nature": "Hasty",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Ninjask": {
+        "Ninjask1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Swords Dance",
+            "Silver Wind",
+            "Aerial Ace",
+            "Dig"
+        ],
+        "nature": "Adamant",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Ninjask": {
+        "Ninjask2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Swords Dance",
+            "Substitute",
+            "Aerial Ace",
+            "Dig"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Noctowl": {
+        "Noctowl1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Dream Eater",
+            "Hidden Power",
+            "Nightmare"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Noctowl": {
+        "Noctowl2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Hyper Beam",
+            "Sky Attack",
+            "Substitute"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Nosepass": {
+        "Nosepass1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Explosion",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Nosepass": {
+        "Nosepass2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Explosion",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Octillery": {
+        "Octillery1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Fire Blast",
+            "Octazooka",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Octillery": {
+        "Octillery2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rain Dance",
+            "Psychic",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Omanyte": {
+        "Omanyte1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Hydro Pump"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Omanyte": {
+        "Omanyte2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Spikes"
+        ],
+        "nature": "Bold",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Onix": {
+        "Onix1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Explosion",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Onix": {
+        "Onix2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Explosion",
+            "Roar"
+        ],
+        "nature": "Jolly",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Parasect": {
+        "Parasect1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Spore",
+            "Stun Spore",
+            "Giga Drain",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Parasect": {
+        "Parasect2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Stun Spore",
+            "Swords Dance",
+            "Giga Drain",
+            "Double-Edge"
+        ],
+        "nature": "Brave",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Pelipper": {
+        "Pelipper1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Sleep Talk",
+            "Surf",
+            "Toxic"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Pelipper": {
+        "Pelipper2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Agility",
+            "Ice Beam",
+            "Surf",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Pidgeot": {
+        "Pidgeot1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Aerial Ace",
+            "Hyper Beam",
+            "Steel Wing",
+            "Quick Attack"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Pidgeot": {
+        "Pidgeot2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sky Attack",
+            "Hyper Beam",
+            "Substitute",
+            "Mirror Move"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Pikachu": {
+        "Pikachu1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Volt Tackle",
+            "Hidden Power",
+            "Thunderbolt",
+            "Seismic Toss"
+        ],
+        "nature": "Timid",
+        "item": "Light Ball",
+        "isCustomSet": true
+        }
+    },
+    "Pikachu": {
+        "Pikachu2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunder",
+            "Surf",
+            "Thunderbolt",
+            "Encore"
+        ],
+        "nature": "Timid",
+        "item": "Light Ball",
+        "isCustomSet": true
+        }
+    },
+    "Piloswine": {
+        "Piloswine1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Earthquake",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Relaxed",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Piloswine": {
+        "Piloswine2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Earthquake",
+            "Roar",
+            "Rest"
+        ],
+        "nature": "Relaxed",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Plusle": {
+        "Plusle1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Encore",
+            "Charge",
+            "Thunderbolt",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Plusle": {
+        "Plusle2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Encore",
+            "Substitute",
+            "Thunderbolt",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ponyta": {
+        "Ponyta1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Fire Blast",
+            "Solar Beam",
+            "Sunny Day"
+        ],
+        "nature": "Timid",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ponyta": {
+        "Ponyta2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Overheat",
+            "Flamethrower",
+            "Solar Beam",
+            "Sunny Day"
+        ],
+        "nature": "Modest",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Porygon": {
+        "Porygon1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Ice Beam",
+            "Thunder",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Porygon": {
+        "Porygon2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Secret Power",
+            "Thunderbolt",
+            "Thunder Wave"
+        ],
+        "nature": "Sassy",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Primeape": {
+        "Primeape1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Reversal",
+            "Bulk Up",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Primeape": {
+        "Primeape2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Low Kick",
+            "Brick Break",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Pupitar": {
+        "Pupitar1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Ancient Power",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Pupitar": {
+        "Pupitar2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rock Slide",
+            "Earthquake",
+            "Frustration"
+        ],
+        "nature": "Jolly",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raticate": {
+        "Raticate1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Reversal",
+            "Endeavor",
+            "Hyper Beam"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raticate": {
+        "Raticate2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thief",
+            "Super Fang",
+            "Thunder Wave",
+            "Hyper Fang"
+        ],
+        "nature": "Careful",
+        "isCustomSet": true
+        }
+    },
+    "Relicanth": {
+        "Relicanth1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Rest",
+            "Rain Dance"
+        ],
+        "nature": "Jolly",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Relicanth": {
+        "Relicanth2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Ancient Power",
+            "Earthquake",
+            "Rest",
+            "Skull Bash"
+        ],
+        "nature": "Impish",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Roselia": {
+        "Roselia1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Magical Leaf",
+            "Leech Seed",
+            "Nightmare",
+            "Grass Whistle"
+        ],
+        "nature": "Calm",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Roselia": {
+        "Roselia2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Magical Leaf",
+            "Leech Seed",
+            "Stun Spore",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Sableye": {
+        "Sableye1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Hidden Power",
+            "Fire Punch",
+            "Calm Mind"
+        ],
+        "nature": "Bold",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Sableye": {
+        "Sableye2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Shadow Ball",
+            "Brick Break",
+            "Leer"
+        ],
+        "nature": "Impish",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Seadra": {
+        "Seadra1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Double-Edge",
+            "Ice Beam",
+            "Surf"
+        ],
+        "nature": "Naughty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Seadra": {
+        "Seadra2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Agility",
+            "Substitute",
+            "Ice Beam",
+            "Hydro Pump"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Seaking": {
+        "Seaking1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Psybeam"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Seaking": {
+        "Seaking2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Agility",
+            "Surf",
+            "Substitute",
+            "Megahorn"
+        ],
+        "nature": "Naughty",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Sealeo": {
+        "Sealeo1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Hail",
+            "Substitute",
+            "Dive"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Sealeo": {
+        "Sealeo2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Encore",
+            "Ice Beam",
+            "Surf"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Seviper": {
+        "Seviper1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Flamethrower",
+            "Earthquake",
+            "Protect"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Seviper": {
+        "Seviper2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Flamethrower",
+            "Earthquake",
+            "Giga Drain"
+        ],
+        "nature": "Brave",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Sharpedo": {
+        "Sharpedo1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Crunch",
+            "Surf",
+            "Earthquake",
+            "Endure"
+        ],
+        "nature": "Mild",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Sharpedo": {
+        "Sharpedo2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Crunch",
+            "Hydro Pump",
+            "Earthquake",
+            "Ice Beam"
+        ],
+        "nature": "Hasty",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Shelgon": {
+        "Shelgon1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Double-Edge",
+            "Brick Break",
+            "Rock Slide"
+        ],
+        "nature": "Impish",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shelgon": {
+        "Shelgon2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Double-Edge",
+            "Wish",
+            "Protect"
+        ],
+        "nature": "Impish",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Shuckle": {
+        "Shuckle1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Toxic",
+            "Defense Curl",
+            "Rollout"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shuckle": {
+        "Shuckle2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Protect",
+            "Toxic",
+            "Wrap",
+            "Encore"
+        ],
+        "nature": "Careful",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Trick",
+            "Explosion",
+            "Extreme Speed",
+            "Doom Desire"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Spore",
+            "Belly Drum",
+            "Extreme Speed",
+            "Doom Desire"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle3 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Spore",
+            "Belly Drum",
+            "Flail",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle4 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Spore",
+            "Leech Seed",
+            "Nightmare",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle5 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Tail Glow",
+            "Eruption",
+            "Water Spout",
+            "Encore"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle6 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Tail Glow",
+            "Sacred Fire",
+            "Volt Tackle",
+            "Encore"
+        ],
+        "nature": "Timid",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle7 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Superpower",
+            "Overheat",
+            "Volt Tackle",
+            "Psycho Boost"
+        ],
+        "nature": "Hasty",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle8 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Cosmic Power",
+            "Recover",
+            "Ingrain",
+            "Metal Claw"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle9 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Transform",
+            "Light Screen",
+            "Reflect",
+            "Encore"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle10 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Aeroblast",
+            "Bonemerang",
+            "Endure"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle11 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Shadow Ball",
+            "Explosion",
+            "Rolling Kick",
+            "Endure"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Smeargle": {
+        "Smeargle12 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Destiny Bond",
+            "Fake Out",
+            "Super Fang",
+            "Endure"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Sneasel": {
+        "Sneasel1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Double-Edge",
+            "Shadow Ball",
+            "Brick Break"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Sneasel": {
+        "Sneasel2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fake Out",
+            "Double-Edge",
+            "Shadow Ball",
+            "Brick Break"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Spinda": {
+        "Spinda1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Shadow Ball",
+            "Brick Break",
+            "Trick"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Spinda": {
+        "Spinda2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Encore",
+            "Toxic",
+            "Substitute",
+            "Seismic Toss"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Stantler": {
+        "Stantler1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Reflect",
+            "Double-Edge",
+            "Light Screen"
+        ],
+        "nature": "Jolly",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Stantler": {
+        "Stantler2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Calm Mind",
+            "Frustration",
+            "Dream Eater"
+        ],
+        "nature": "Naive",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Sudowoodo": {
+        "Sudowoodo1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Double-Edge",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Sudowoodo": {
+        "Sudowoodo2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Protect",
+            "Rock Slide"
+        ],
+        "nature": "Impish",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Sunflora": {
+        "Sunflora1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Light Screen",
+            "Razor Leaf",
+            "Leech Seed",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Sunflora": {
+        "Sunflora2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Solar Beam",
+            "Hidden Power",
+            "Encore"
+        ],
+        "nature": "Timid",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swalot": {
+        "Swalot1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sing",
+            "Stockpile",
+            "Spit Up",
+            "Encore"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Swalot": {
+        "Swalot2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Explosion",
+            "Counter",
+            "Pain Split"
+        ],
+        "nature": "Careful",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Tangela": {
+        "Tangela2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Sunny Day",
+            "Solar Beam",
+            "Confusion"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Tangela": {
+        "Tangela1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Sunny Day",
+            "Solar Beam",
+            "Morning Sun"
+        ],
+        "nature": "Bold",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Togetic": {
+        "Togetic1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Frustration",
+            "Aerial Ace",
+            "Brick Break",
+            "Hyper Beam"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Togetic": {
+        "Togetic2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fire Blast",
+            "Psychic",
+            "Magical Leaf",
+            "Water Pulse"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Torkoal": {
+        "Torkoal1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Eruption",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Torkoal": {
+        "Torkoal2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Toxic",
+            "Amnesia",
+            "Rest"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tropius": {
+        "Tropius1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sunny Day",
+            "Fly",
+            "Earthquake",
+            "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Tropius": {
+        "Tropius2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Magical Leaf",
+            "Aerial Ace",
+            "Earthquake",
+            "Swords Dance"
+        ],
+        "nature": "Naive",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Vibrava": {
+        "Vibrava1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Impish",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Vibrava": {
+        "Vibrava2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Steel Wing",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Vigoroth": {
+        "Vigoroth1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Encore",
+            "Slack Off",
+            "Earthquake",
+            "Crush Claw"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Vigoroth": {
+        "Vigoroth2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Shadow Ball",
+            "Taunt",
+            "Frustration"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Volbeat": {
+        "Volbeat2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Tail Glow",
+            "Thunderbolt",
+            "Ice Punch",
+            "Endure"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Volbeat": {
+        "Volbeat1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Signal Beam",
+            "Trick",
+            "Brick Break",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Voltorb": {
+        "Voltorb2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Rain Dance",
+            "Thunder"
+        ],
+        "nature": "Hasty",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Voltorb": {
+        "Voltorb1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Thunder Wave",
+            "Light Screen"
+        ],
+        "nature": "Naive",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Wailord": {
+        "Wailord1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Water Spout",
+            "Rest",
+            "Surf",
+            "Sleep Talk"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Wailord": {
+        "Wailord2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Rest",
+            "Earthquake",
+            "Curse"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Whiscash": {
+        "Whiscash1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Dive",
+            "Substitute",
+            "Toxic",
+            "Earthquake"
+        ],
+        "nature": "Gentle",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Whiscash": {
+        "Whiscash2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Blizzard",
+            "Rain Dance",
+            "Spark"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Wigglytuff": {
+        "Wigglytuff1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Sing",
+            "Flamethrower",
+            "Counter"
+        ],
+        "nature": "Relaxed",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Wigglytuff": {
+        "Wigglytuff2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Fake Tears",
+            "Ice Beam",
+            "Thunderbolt",
+            "Thunder Wave"
+        ],
+        "nature": "Quiet",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Yanma": {
+        "Yanma1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Hypnosis",
+            "Dream Eater",
+            "Signal Beam",
+            "Thief"
+        ],
+        "nature": "Rash",
+        "isCustomSet": true
+        }
+    },
+    "Yanma": {
+        "Yanma2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Reversal",
+            "Aerial Ace",
+            "Substitute"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Absol": {
+        "Absol3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Fire Blast",
+            "Endure",
+            "Frustration"
+        ],
+        "nature": "Lonely",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Absol": {
+        "Absol4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Fire Blast",
+            "Shadow Ball",
+            "Frustration"
+        ],
+        "nature": "Hasty",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Altaria": {
+        "Altaria1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Dragon Dance",
+            "Aerial Ace",
+            "Earthquake"
+        ],
+        "nature": "Careful",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Altaria": {
+        "Altaria2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Dragon Claw",
+            "Flamethrower",
+            "Sing"
+        ],
+        "nature": "Modest",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Ampharos": {
+        "Ampharos1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Fire Punch",
+            "Thunder Wave",
+            "Reflect"
+        ],
+        "nature": "Calm",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Ampharos": {
+        "Ampharos2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Fire Punch",
+            "Thunder Wave",
+            "Hidden Power"
+        ],
+        "nature": "Modest",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Azumarill": {
+        "Azumarill2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Encore",
+            "Iron Tail",
+            "Body Slam",
+            "Dynamic Punch"
+        ],
+        "nature": "Jolly",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Azumarill": {
+        "Azumarill1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Belly Drum",
+            "Frustration",
+            "Brick Break"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Banette": {
+        "Banette3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Knock Off",
+            "Destiny Bond",
+            "Shadow Ball",
+            "Will-o-Wisp"
+        ],
+        "nature": "Jolly",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Banette": {
+        "Banette4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Destiny Bond",
+            "Shadow Ball",
+            "Will-o-Wisp"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Blastoise": {
+        "Blastoise1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Toxic",
+            "Protect",
+            "Refresh"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Blastoise": {
+        "Blastoise2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Rapid Spin",
+            "Roar"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Camerupt": {
+        "Camerupt1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Overheat",
+            "Explosion",
+            "Rock Tomb"
+        ],
+        "nature": "Brave",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Camerupt": {
+        "Camerupt2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Magnitude",
+            "Flamethrower",
+            "Amnesia",
+            "Rest"
+        ],
+        "nature": "Relaxed",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cradily": {
+        "Cradily1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rest",
+            "Ingrain",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cradily": {
+        "Cradily2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Sunny Day",
+            "Solar Beam",
+            "Ancient Power"
+        ],
+        "nature": "Quiet",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Electabuzz": {
+        "Electabuzz1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Cross Chop",
+            "Meditate",
+            "Frustration"
+        ],
+        "nature": "Naive",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Electabuzz": {
+        "Electabuzz2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Cross Chop",
+            "Psychic",
+            "Ice Punch"
+        ],
+        "nature": "Hasty",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Exploud": {
+        "Exploud1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Taunt",
+            "Flamethrower",
+            "Frustration",
+            "Earthquake"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Exploud": {
+        "Exploud2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Howl",
+            "Substitute",
+            "Frustration",
+            "Earthquake"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Fearow": {
+        "Fearow3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Double-Edge",
+            "Steel Wing",
+            "Mirror Move"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Fearow": {
+        "Fearow4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Double-Edge",
+            "Steel Wing",
+            "Agility"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Feraligatr": {
+        "Feraligatr1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Rain Dance",
+            "Brick Break",
+            "Ice Beam"
+        ],
+        "nature": "Quiet",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Feraligatr": {
+        "Feraligatr2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Rain Dance",
+            "Substitute",
+            "Hydro Cannon"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flareon": {
+        "Flareon3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Shadow Ball",
+            "Double-Edge",
+            "Flamethrower",
+            "Quick Attack"
+        ],
+        "nature": "Hasty",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flareon": {
+        "Flareon4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Double-Edge",
+            "Fire Blast",
+            "Quick Attack"
+        ],
+        "nature": "Lonely",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Girafarig": {
+        "Girafarig3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Earthquake",
+            "Shadow Ball",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Girafarig": {
+        "Girafarig4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Psychic",
+            "Protect",
+            "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Gligar": {
+        "Gligar1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Aerial Ace",
+            "Earthquake",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Gligar": {
+        "Gligar2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Aerial Ace",
+            "Earthquake",
+            "Substitute"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Golduck": {
+        "Golduck1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Mud Sport",
+            "Surf",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Golduck": {
+        "Golduck2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Cross Chop",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Hasty",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Golem": {
+        "Golem1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Explosion",
+            "Rock Blast"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Golem": {
+        "Golem2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Explosion",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Gorebyss": {
+        "Gorebyss1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Psychic"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Gorebyss": {
+        "Gorebyss2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Hydro Pump"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Granbull": {
+        "Granbull1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Heal Bell",
+            "Frustration",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Granbull": {
+        "Granbull2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Crunch",
+            "Flamethrower",
+            "Frustration",
+            "Thunder Wave"
+        ],
+        "nature": "Quiet",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Grumpig": {
+        "Grumpig1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Extrasensory",
+            "Thunder Punch",
+            "Ice Punch",
+            "Trick"
+        ],
+        "nature": "Modest",
+        "item": "Macho Brace",
+        "isCustomSet": true
+        }
+    },
+    "Grumpig": {
+        "Grumpig2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Future Sight",
+            "Substitute",
+            "Bounce"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Hitmonlee": {
+        "Hitmonlee1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Focus Punch",
+            "Rock Slide",
+            "Reversal"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hitmonlee": {
+        "Hitmonlee2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Earthquake",
+            "Rock Slide",
+            "Bulk Up"
+        ],
+        "nature": "Careful",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jumpluff": {
+        "Jumpluff1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Leech Seed",
+            "Encore",
+            "Sleep Powder"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Jumpluff": {
+        "Jumpluff2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Leech Seed",
+            "Encore",
+            "Giga Drain"
+        ],
+        "nature": "Timid",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kabutops": {
+        "Kabutops3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Rock Slide",
+            "Surf",
+            "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Kabutops": {
+        "Kabutops4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Flail",
+            "Rock Slide",
+            "Endure",
+            "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kadabra": {
+        "Kadabra1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Encore",
+            "Psychic",
+            "Fire Punch",
+            "Recover"
+        ],
+        "nature": "Bold",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kadabra": {
+        "Kadabra2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Psychic",
+            "Fire Punch",
+            "Thunder Punch"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kangaskhan": {
+        "Kangaskhan1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Foresight",
+            "Brick Break",
+            "Body Slam"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kangaskhan": {
+        "Kangaskhan2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Fake Out",
+            "Shadow Ball",
+            "Earthquake",
+            "Crush Claw"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Kingler": {
+        "Kingler3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Stomp",
+            "Crabhammer",
+            "Mud Shot",
+            "Metal Claw"
+        ],
+        "nature": "Naive",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Kingler": {
+        "Kingler4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Surf",
+            "Flail",
+            "Swords Dance"
+        ],
+        "nature": "Naive",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Magmar": {
+        "Magmar1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fire Blast",
+            "Cross Chop",
+            "Psychic",
+            "Thunder Punch"
+        ],
+        "nature": "Hasty",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Magmar": {
+        "Magmar2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Toxic",
+            "Counter",
+            "Protect"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Manectric": {
+        "Manectric1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Crunch",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Manectric": {
+        "Manectric2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Crunch",
+            "Thunder Wave",
+            "Refresh"
+        ],
+        "nature": "Modest",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Mantine": {
+        "Mantine1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Rest",
+            "Mud Sport",
+            "Toxic"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mantine": {
+        "Mantine2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Hydro Pump",
+            "Ice Beam",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Meganium": {
+        "Meganium1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hidden Power",
+            "Protect",
+            "Leech Seed",
+            "Razor Leaf"
+        ],
+        "nature": "Calm",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Meganium": {
+        "Meganium2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Synthesis",
+            "Counter",
+            "Leech Seed",
+            "Razor Leaf"
+        ],
+        "nature": "Bold",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mr_Mime": {
+        "Mr_Mime1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Psychic",
+            "Rest",
+            "Recycle"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mr_Mime": {
+        "Mr_Mime2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Psychic",
+            "Thunderbolt",
+            "Ice Punch"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Muk": {
+        "Muk1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Sludge Bomb",
+            "Fire Blast",
+            "Giga Drain"
+        ],
+        "nature": "Sassy",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Muk": {
+        "Muk2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Sludge Bomb",
+            "Flamethrower",
+            "Protect"
+        ],
+        "nature": "Brave",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Nidoking": {
+        "Nidoking1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Ice Beam",
+            "Thunderbolt",
+            "Flamethrower"
+        ],
+        "nature": "Quiet",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Nidoking": {
+        "Nidoking2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Sludge Bomb",
+            "Megahorn",
+            "Counter"
+        ],
+        "nature": "Adamant",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Nidoqueen": {
+        "Nidoqueen1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Sludge Bomb",
+            "Flamethrower",
+            "Roar"
+        ],
+        "nature": "Brave",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Nidoqueen": {
+        "Nidoqueen2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Sludge Bomb",
+            "Rock Slide",
+            "Superpower"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Ninetales": {
+        "Ninetales1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Grudge",
+            "Will-o-Wisp",
+            "Heat Wave",
+            "Sunny Day"
+        ],
+        "nature": "Timid",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Ninetales": {
+        "Ninetales2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Protect",
+            "Flamethrower",
+            "Spite"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Persian": {
+        "Persian1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dig",
+            "Iron Tail",
+            "Double-Edge",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Persian": {
+        "Persian2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Nightmare",
+            "Slash",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Politoed": {
+        "Politoed1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Rain Dance",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Politoed": {
+        "Politoed2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Perish Song",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Poliwrath": {
+        "Poliwrath1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Hydro Pump",
+            "Submission",
+            "Ice Beam"
+        ],
+        "nature": "Quiet",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Poliwrath": {
+        "Poliwrath2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Bulk Up",
+            "Amnesia",
+            "Rest"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Quagsire": {
+        "Quagsire1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Yawn",
+            "Ancient Power",
+            "Earthquake",
+            "Focus Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Quagsire": {
+        "Quagsire2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Earthquake",
+            "Counter"
+        ],
+        "nature": "Quiet",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Qwilfish": {
+        "Qwilfish1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Surf",
+            "Sludge Bomb",
+            "Substitute"
+        ],
+        "nature": "Naive",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Qwilfish": {
+        "Qwilfish2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Bubble Beam",
+            "Sludge Bomb",
+            "Self-Destruct"
+        ],
+        "nature": "Brave",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Rapidash": {
+        "Rapidash1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Flame Wheel",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Rapidash": {
+        "Rapidash2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Flamethrower",
+            "Hidden Power",
+            "Baton Pass"
+        ],
+        "nature": "Calm",
+        "item": "Ganlon Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raticate": {
+        "Raticate3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Reversal",
+            "Shadow Ball",
+            "Frustration"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raticate": {
+        "Raticate4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Iron Tail",
+            "Double-Edge",
+            "Shadow Ball",
+            "Dig"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Relicanth": {
+        "Relicanth3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Double-Edge",
+            "Sleep Talk"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Relicanth": {
+        "Relicanth4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Hydro Pump",
+            "Rain Dance"
+        ],
+        "nature": "Naughty",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Sableye": {
+        "Sableye3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Shadow Ball",
+            "Knock Off",
+            "Seismic Toss"
+        ],
+        "nature": "Impish",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Sableye": {
+        "Sableye4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Shadow Ball",
+            "Focus Punch",
+            "Substitute"
+        ],
+        "nature": "Impish",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Sandslash": {
+        "Sandslash1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Earthquake",
+            "Rock Slide",
+            "Rapid Spin"
+        ],
+        "nature": "Adamant",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Sandslash": {
+        "Sandslash2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Swords Dance",
+            "Earthquake",
+            "Rock Slide",
+            "Rest"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Scyther": {
+        "Scyther1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Swords Dance",
+            "Wing Attack",
+            "Silver Wind",
+            "Morning Sun"
+        ],
+        "nature": "Jolly",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Scyther": {
+        "Scyther2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Reversal",
+            "Wing Attack",
+            "Endure"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Seviper": {
+        "Seviper3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Iron Tail",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Seviper": {
+        "Seviper4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Fire Blast",
+            "Earthquake",
+            "Glare"
+        ],
+        "nature": "Brave",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Shiftry": {
+        "Shiftry1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Shadow Ball",
+            "Double-Edge",
+            "Explosion"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Shiftry": {
+        "Shiftry2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Brick Break",
+            "Solar Beam",
+            "Sunny Day",
+            "Explosion"
+        ],
+        "nature": "Lonely",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Shuckle": {
+        "Shuckle3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Toxic",
+            "Wrap",
+            "Encore"
+        ],
+        "nature": "Careful",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shuckle": {
+        "Shuckle4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Toxic",
+            "Wrap",
+            "Sandstorm"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Stantler": {
+        "Stantler3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Earthquake",
+            "Double-Edge",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Stantler": {
+        "Stantler4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Earthquake",
+            "Frustration",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Swalot": {
+        "Swalot3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Explosion",
+            "Shadow Ball",
+            "Encore"
+        ],
+        "nature": "Jolly",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swalot": {
+        "Swalot4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Amnesia",
+            "Defense Curl",
+            "Rollout",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Torkoal": {
+        "Torkoal3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Heat Wave",
+            "Toxic",
+            "Protect",
+            "Explosion"
+        ],
+        "nature": "Relaxed",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Torkoal": {
+        "Torkoal4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Yawn",
+            "Overheat",
+            "Explosion"
+        ],
+        "nature": "Quiet",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Venomoth": {
+        "Venomoth1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Stun Spore",
+            "Signal Beam",
+            "Sludge Bomb"
+        ],
+        "nature": "Sassy",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Venomoth": {
+        "Venomoth2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Sleep Powder",
+            "Baton Pass",
+            "Silver Wind"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Victreebel": {
+        "Victreebel1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Sunny Day",
+            "Solar Beam",
+            "Sleep Powder",
+            "Sludge Bomb"
+        ],
+        "nature": "Lonely",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Victreebel": {
+        "Victreebel2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Stun Spore",
+            "Magical Leaf",
+            "Sleep Powder",
+            "Sludge Bomb"
+        ],
+        "nature": "Brave",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Vigoroth": {
+        "Vigoroth3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Shadow Ball",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Vigoroth": {
+        "Vigoroth4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Slack Off",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Impish",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Vileplume": {
+        "Vileplume1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Moonlight",
+            "Sludge Bomb",
+            "Petal Dance"
+        ],
+        "nature": "Quiet",
+        "item": "Persim Berry",
+        "isCustomSet": true
+        }
+    },
+    "Vileplume": {
+        "Vileplume2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Leech Seed",
+            "Aromatherapy",
+            "Razor Leaf"
+        ],
+        "nature": "Calm",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Wailord": {
+        "Wailord3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Water Spout",
+            "Rest",
+            "Icy Wind",
+            "Self-Destruct"
+        ],
+        "nature": "Quiet",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Wailord": {
+        "Wailord4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Water Spout",
+            "Ice Beam",
+            "Surf",
+            "Self-Destruct"
+        ],
+        "nature": "Quiet",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Whiscash": {
+        "Whiscash3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Protect",
+            "Earthquake"
+        ],
+        "nature": "Relaxed",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Whiscash": {
+        "Whiscash4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Amnesia",
+            "Rest",
+            "Earthquake"
+        ],
+        "nature": "Relaxed",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Wigglytuff": {
+        "Wigglytuff4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Frustration",
+            "Thunder Wave",
+            "Fire Blast",
+            "Counter"
+        ],
+        "nature": "Relaxed",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Wigglytuff": {
+        "Wigglytuff3 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Thunder Wave",
+            "Flamethrower",
+            "Wish"
+        ],
+        "nature": "Brave",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Xatu": {
+        "Xatu1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Psychic",
+            "Future Sight",
+            "Wish",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Xatu": {
+        "Xatu2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Drill Peck",
+            "Giga Drain"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Aggron": {
+        "Aggron2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Focus Punch",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Aggron": {
+        "Aggron1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Earthquake",
+            "Thunder Wave",
+            "Roar"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Altaria": {
+        "Altaria3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Dragon Claw",
+            "Flamethrower",
+            "Perish Song"
+        ],
+        "nature": "Bold",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Altaria": {
+        "Altaria4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rest",
+            "Dragon Claw",
+            "Fire Blast",
+            "Earthquake"
+        ],
+        "nature": "Hasty",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Arcanine": {
+        "Arcanine1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Protect",
+            "Extreme Speed",
+            "Odor Sleuth"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Arcanine": {
+        "Arcanine2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Heat Wave",
+            "Agility",
+            "Substitute",
+            "Crunch"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Azumarill": {
+        "Azumarill3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Hyper Beam",
+            "Mega Kick",
+            "Brick Break"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Azumarill": {
+        "Azumarill4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Focus Punch",
+            "Frustration",
+            "Hydro Pump"
+        ],
+        "nature": "Brave",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Blastoise": {
+        "Blastoise3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Mirror Coat",
+            "Counter"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Blastoise": {
+        "Blastoise4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Hidden Power",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Blaziken": {
+        "Blaziken1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Mirror Move",
+            "Brick Break",
+            "Flamethrower",
+            "Thunder Punch"
+        ],
+        "nature": "Hasty",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Blaziken": {
+        "Blaziken2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Overheat",
+            "Sky Uppercut",
+            "Mega Kick",
+            "Rock Slide"
+        ],
+        "nature": "Naive",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Camerupt": {
+        "Camerupt3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Fire Blast",
+            "Explosion",
+            "Rest"
+        ],
+        "nature": "Brave",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Camerupt": {
+        "Camerupt4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Fire Blast",
+            "Explosion",
+            "Substitute"
+        ],
+        "nature": "Hasty",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Chansey": {
+        "Chansey1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Toxic",
+            "Seismic Toss",
+            "Wish"
+        ],
+        "nature": "Bold",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Chansey": {
+        "Chansey2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Calm Mind",
+            "Thunder",
+            "Blizzard"
+        ],
+        "nature": "Modest",
+        "item": "Lucky Punch",
+        "isCustomSet": true
+        }
+    },
+    "Claydol": {
+        "Claydol1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Psychic",
+            "Rapid Spin",
+            "Refresh"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Claydol": {
+        "Claydol2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Reflect",
+            "Light Screen",
+            "Explosion"
+        ],
+        "nature": "Careful",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Clefable": {
+        "Clefable1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Belly Drum",
+            "Meteor Mash",
+            "Mega Kick"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Clefable": {
+        "Clefable2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Belly Drum",
+            "Metronome",
+            "Cosmic Power"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cloyster": {
+        "Cloyster2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Explosion",
+            "Endure",
+            "Ice Beam",
+            "Spikes"
+        ],
+        "nature": "Naive",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cloyster": {
+        "Cloyster1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Surf",
+            "Ice Beam",
+            "Spikes"
+        ],
+        "nature": "Relaxed",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cradily": {
+        "Cradily3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Barrier",
+            "Rest",
+            "Toxic",
+            "Amnesia"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Cradily": {
+        "Cradily4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Recover",
+            "Toxic",
+            "Rock Slide"
+        ],
+        "nature": "Careful",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Crobat": {
+        "Crobat1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Toxic",
+            "Fly",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Crobat": {
+        "Crobat2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Air Cutter",
+            "Sludge Bomb",
+            "Sleep Talk",
+            "Steel Wing"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Dodrio": {
+        "Dodrio1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Tri Attack",
+            "Drill Peck",
+            "Baton Pass"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dodrio": {
+        "Dodrio2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Frustration",
+            "Drill Peck",
+            "Taunt"
+        ],
+        "nature": "Adamant",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Donphan": {
+        "Donphan1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Magnitude",
+            "Ancient Power",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Donphan": {
+        "Donphan2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Roar",
+            "Rapid Spin"
+        ],
+        "nature": "Impish",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Dugtrio": {
+        "Dugtrio1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Magnitude",
+            "Charm",
+            "Rest",
+            "Sludge Bomb"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dugtrio": {
+        "Dugtrio2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Sludge Bomb",
+            "Screech"
+        ],
+        "nature": "Adamant",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dusclops": {
+        "Dusclops1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Pain Split",
+            "Ice Beam",
+            "Will-o-Wisp"
+        ],
+        "nature": "Relaxed",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dusclops": {
+        "Dusclops2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Destiny Bond",
+            "Icy Wind",
+            "Curse"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Electrode": {
+        "Electrode1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Substitute",
+            "Hidden Power"
+        ],
+        "nature": "Calm",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Electrode": {
+        "Electrode2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Toxic",
+            "Taunt"
+        ],
+        "nature": "Timid",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Exeggutor": {
+        "Exeggutor2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Explosion",
+            "Sludge Bomb",
+            "Stun Spore"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Exeggutor": {
+        "Exeggutor1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Sleep Powder",
+            "Dream Eater",
+            "Giga Drain"
+        ],
+        "nature": "Modest",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Feraligatr": {
+        "Feraligatr3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hydro Pump",
+            "Substitute",
+            "Crunch",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Feraligatr": {
+        "Feraligatr4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Substitute",
+            "Focus Punch",
+            "Ice Beam"
+        ],
+        "nature": "Quiet",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Golduck": {
+        "Golduck3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Hypnosis",
+            "Hydro Pump",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Golduck": {
+        "Golduck4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Hypnosis",
+            "Surf",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Granbull": {
+        "Granbull3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Rest",
+            "Frustration",
+            "Earthquake"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Granbull": {
+        "Granbull4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Shadow Ball",
+            "Frustration",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Grumpig": {
+        "Grumpig3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Future Sight",
+            "Fire Punch",
+            "Counter"
+        ],
+        "nature": "Modest",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Grumpig": {
+        "Grumpig4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Fire Punch",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hitmonlee": {
+        "Hitmonlee3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Focus Punch",
+            "Rock Slide",
+            "Reversal"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hitmonlee": {
+        "Hitmonlee4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "High Jump Kick",
+            "Earthquake",
+            "Rock Slide",
+            "Mach Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Hypno": {
+        "Hypno1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Belly Drum",
+            "Substitute",
+            "Brick Break",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hypno": {
+        "Hypno2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Counter",
+            "Fire Punch",
+            "Thunder Wave",
+            "Psychic"
+        ],
+        "nature": "Calm",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jolteon": {
+        "Jolteon1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Wish",
+            "Dig",
+            "Shadow Ball"
+        ],
+        "nature": "Hasty",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Jolteon": {
+        "Jolteon2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Thunderbolt",
+            "Rain Dance",
+            "Thunder",
+            "Hidden Power"
+        ],
+        "nature": "Modest",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Kangaskhan": {
+        "Kangaskhan3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Protect",
+            "Toxic",
+            "Dizzy Punch"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Kangaskhan": {
+        "Kangaskhan4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Shadow Ball",
+            "Reversal",
+            "Hyper Beam"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kingdra": {
+        "Kingdra1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Breath",
+            "Rain Dance",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Kingdra": {
+        "Kingdra2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Dragon Dance",
+            "Snore",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Lanturn": {
+        "Lanturn1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Dive",
+            "Amnesia",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Lanturn": {
+        "Lanturn2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Spark",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Linoone": {
+        "Linoone1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Extreme Speed",
+            "Hyper Beam",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Linoone": {
+        "Linoone2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Belly Drum",
+            "Extreme Speed",
+            "Hyper Beam",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ludicolo": {
+        "Ludicolo1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Fire Punch",
+            "Ice Beam",
+            "Solar Beam"
+        ],
+        "nature": "Timid",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Ludicolo": {
+        "Ludicolo2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Hydro Pump",
+            "Blizzard",
+            "Dynamic Punch"
+        ],
+        "nature": "Mild",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lunatone": {
+        "Lunatone1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Psychic",
+            "Ice Beam",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lunatone": {
+        "Lunatone2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Psychic",
+            "Explosion",
+            "Future Sight"
+        ],
+        "nature": "Hasty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Magneton": {
+        "Magneton1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Toxic",
+            "Reflect",
+            "Hidden Power"
+        ],
+        "nature": "Bold",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Magneton": {
+        "Magneton2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Thunder",
+            "Metal Sound",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Mantine": {
+        "Mantine3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Rest",
+            "Ice Beam",
+            "Haze"
+        ],
+        "nature": "Calm",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Mantine": {
+        "Mantine4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Protect",
+            "Hydro Pump",
+            "Ice Beam",
+            "Toxic"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Meganium": {
+        "Meganium3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Grass Whistle",
+            "Substitute",
+            "Leech Seed",
+            "Giga Drain"
+        ],
+        "nature": "Timid",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Meganium": {
+        "Meganium4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Safeguard",
+            "Protect",
+            "Leech Seed",
+            "Razor Leaf"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Miltank": {
+        "Miltank1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Bide",
+            "Milk Drink",
+            "Frustration",
+            "Focus Punch"
+        ],
+        "nature": "Jolly",
+        "item": "Apicot Berry",
+        "isCustomSet": true
+        }
+    },
+    "Miltank": {
+        "Miltank2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rollout",
+            "Milk Drink",
+            "Heal Bell",
+            "Curse"
+        ],
+        "nature": "Adamant",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Misdreavus": {
+        "Misdreavus1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Destiny Bond",
+            "Shadow Ball",
+            "Imprison",
+            "Taunt"
+        ],
+        "nature": "Jolly",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Misdreavus": {
+        "Misdreavus2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rain Dance",
+            "Thief",
+            "Thunder",
+            "Psychic"
+        ],
+        "nature": "Calm",
+        "isCustomSet": true
+        }
+    },
+    "Mr_Mime": {
+        "Mr_Mime3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Encore",
+            "Psychic",
+            "Thunder Wave",
+            "Magical Leaf"
+        ],
+        "nature": "Calm",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mr_Mime": {
+        "Mr_Mime4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Trick",
+            "Psychic",
+            "Thunderbolt",
+            "Magical Leaf"
+        ],
+        "nature": "Timid",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Muk": {
+        "Muk3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Focus Punch",
+            "Sludge Bomb",
+            "Fire Blast",
+            "Explosion"
+        ],
+        "nature": "Brave",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Muk": {
+        "Muk4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Sludge Bomb",
+            "Flamethrower",
+            "Rest"
+        ],
+        "nature": "Brave",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Nidoking": {
+        "Nidoking3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Sludge Bomb",
+            "Rock Slide",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Nidoking": {
+        "Nidoking4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Sludge Bomb",
+            "Rock Slide",
+            "Megahorn"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Ninetales": {
+        "Ninetales4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Roar",
+            "Will-o-Wisp",
+            "Heat Wave",
+            "Hidden Power"
+        ],
+        "nature": "Calm",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ninetales": {
+        "Ninetales3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Overheat"
+        ],
+        "nature": "Timid",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Omastar": {
+        "Omastar1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Mud Shot",
+            "Hyper Beam",
+            "Body Slam"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Omastar": {
+        "Omastar2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Bubble Beam",
+            "Aurora Beam",
+            "Haze"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Pinsir": {
+        "Pinsir1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Flail",
+            "Brick Break",
+            "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Pinsir": {
+        "Pinsir2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Revenge",
+            "Rock Slide",
+            "Earthquake",
+            "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Politoed": {
+        "Politoed3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thief",
+            "Hypnosis",
+            "Hydro Pump",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "isCustomSet": true
+        }
+    },
+    "Politoed": {
+        "Politoed4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hidden Power",
+            "Hypnosis",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Poliwrath": {
+        "Poliwrath3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Bulk Up",
+            "Frustration",
+            "Earthquake"
+        ],
+        "nature": "Careful",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Poliwrath": {
+        "Poliwrath4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Belly Drum",
+            "Frustration",
+            "Earthquake"
+        ],
+        "nature": "Jolly",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Quagsire": {
+        "Quagsire3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Earthquake",
+            "Protect"
+        ],
+        "nature": "Relaxed",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Quagsire": {
+        "Quagsire4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Amnesia",
+            "Curse",
+            "Rollout",
+            "Rest"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Qwilfish": {
+        "Qwilfish3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Hydro Pump",
+            "Sludge Bomb",
+            "Self-Destruct"
+        ],
+        "nature": "Naughty",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Qwilfish": {
+        "Qwilfish4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Surf",
+            "Spikes",
+            "Destiny Bond"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raichu": {
+        "Raichu2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Thunder",
+            "Counter",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raichu": {
+        "Raichu1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dig",
+            "Thunderbolt",
+            "Wish",
+            "Hidden Power"
+        ],
+        "nature": "Relaxed",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Rapidash": {
+        "Rapidash3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sunny Day",
+            "Flamethrower",
+            "Solar Beam",
+            "Overheat"
+        ],
+        "nature": "Modest",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Rapidash": {
+        "Rapidash4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Fire Blast",
+            "Solar Beam",
+            "Hypnosis"
+        ],
+        "nature": "Timid",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Rhydon": {
+        "Rhydon1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Rock Slide",
+            "Earthquake",
+            "Megahorn"
+        ],
+        "nature": "Impish",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Rhydon": {
+        "Rhydon2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Rock Slide",
+            "Earthquake",
+            "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Sceptile": {
+        "Sceptile1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Leech Seed",
+            "Leaf Blade",
+            "Toxic"
+        ],
+        "nature": "Timid",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Sceptile": {
+        "Sceptile2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Leaf Blade",
+            "Frenzy Plant",
+            "Endeavor"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shedinja": {
+        "Shedinja1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Dig",
+            "Shadow Ball",
+            "Silver Wind"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Shedinja": {
+        "Shedinja2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Protect",
+            "Toxic",
+            "Thief",
+            "Silver Wind"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shiftry": {
+        "Shiftry3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hidden Power",
+            "Solar Beam",
+            "Sunny Day",
+            "Explosion"
+        ],
+        "nature": "Mild",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Shiftry": {
+        "Shiftry4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Shadow Ball",
+            "Swords Dance",
+            "Explosion"
+        ],
+        "nature": "Jolly",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Slowbro": {
+        "Slowbro1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Psychic",
+            "Calm Mind",
+            "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Slowbro": {
+        "Slowbro2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Withdraw",
+            "Calm Mind",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Slowking": {
+        "Slowking1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Psychic",
+            "Ice Beam",
+            "Thunder Wave"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Slowking": {
+        "Slowking2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Psychic",
+            "Fire Blast",
+            "Counter"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Solrock": {
+        "Solrock1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Explosion",
+            "Baton Pass"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Solrock": {
+        "Solrock2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Psychic",
+            "Overheat",
+            "Explosion"
+        ],
+        "nature": "Relaxed",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Swellow": {
+        "Swellow1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Endeavor",
+            "Baton Pass",
+            "Frustration"
+        ],
+        "nature": "Jolly",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swellow": {
+        "Swellow2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Facade",
+            "Double-Edge",
+            "Wing Attack",
+            "Steel Wing"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Tentacruel": {
+        "Tentacruel1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thief",
+            "Surf",
+            "Ice Beam",
+            "Mirror Coat"
+        ],
+        "nature": "Modest",
+        "isCustomSet": true
+        }
+    },
+    "Tentacruel": {
+        "Tentacruel2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Surf",
+            "Swords Dance",
+            "Rest"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Typhlosion": {
+        "Typhlosion1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Protect",
+            "Toxic",
+            "Flame Wheel",
+            "Roar"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Typhlosion": {
+        "Typhlosion2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Howl",
+            "Fire Blast",
+            "Rock Slide"
+        ],
+        "nature": "Naive",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Umbreon": {
+        "Umbreon1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Growl",
+            "Sleep Talk",
+            "Rest",
+            "Charm"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Umbreon": {
+        "Umbreon2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hidden Power",
+            "Toxic",
+            "Moonlight",
+            "Snatch"
+        ],
+        "nature": "Modest",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Ursaring": {
+        "Ursaring1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Frustration",
+            "Fire Punch",
+            "Fake Tears",
+            "Crunch"
+        ],
+        "nature": "Quiet",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Ursaring": {
+        "Ursaring2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Metronome",
+            "Rest",
+            "Sleep Talk",
+            "Bulk Up"
+        ],
+        "nature": "Careful",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Venomoth": {
+        "Venomoth3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Sleep Powder",
+            "Baton Pass",
+            "Psychic"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Venomoth": {
+        "Venomoth4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thief",
+            "Sleep Powder",
+            "Giga Drain",
+            "Psychic"
+        ],
+        "nature": "Timid",
+        "isCustomSet": true
+        }
+    },
+    "Victreebel": {
+        "Victreebel3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Sunny Day",
+            "Solar Beam",
+            "Sleep Powder",
+            "Synthesis"
+        ],
+        "nature": "Modest",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Victreebel": {
+        "Victreebel4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Encore",
+            "Giga Drain",
+            "Sleep Powder",
+            "Leech Seed"
+        ],
+        "nature": "Calm",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Vileplume": {
+        "Vileplume3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Sunny Day",
+            "Sludge Bomb",
+            "Solar Beam"
+        ],
+        "nature": "Mild",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Vileplume": {
+        "Vileplume4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Sunny Day",
+            "Moonlight",
+            "Solar Beam"
+        ],
+        "nature": "Modest",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Xatu": {
+        "Xatu3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Rest",
+            "Reflect"
+        ],
+        "nature": "Bold",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Xatu": {
+        "Xatu4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Fly",
+            "Thunder Wave",
+            "Wish",
+            "Secret Power"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Zangoose": {
+        "Zangoose1 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Brick Break",
+            "Shadow Ball",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Zangoose": {
+        "Zangoose2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Frustration",
+            "Brick Break",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rest",
+            "Sleep Talk",
+            "Whirlwind",
+            "Roar"
+        ],
+        "nature": "Timid",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Claw",
+            "Fire Blast",
+            "Hidden Power",
+            "Scary Face"
+        ],
+        "nature": "Modest",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wing Attack",
+            "Rock Tomb",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Fly",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Aggron": {
+        "Aggron3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Iron Tail",
+            "Double-Edge"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Aggron": {
+        "Aggron4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Focus Punch",
+            "Rock Slide",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Aggron": {
+        "Aggron5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Rock Slide",
+            "Focus Punch",
+            "Endeavor"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Aggron": {
+        "Aggron6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Taunt",
+            "Toxic"
+        ],
+        "nature": "Adamant",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Light Screen",
+            "Reflect",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psybeam",
+            "Thunder Wave",
+            "Knock Off",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Recover",
+            "Fire Punch",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Future Sight",
+            "Fire Punch",
+            "Counter"
+        ],
+        "nature": "Timid",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Arcanine": {
+        "Arcanine3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Heat Wave",
+            "Overheat",
+            "Sunny Day",
+            "Crunch"
+        ],
+        "nature": "Timid",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Arcanine": {
+        "Arcanine4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Fire Blast",
+            "Protect",
+            "Extreme Speed",
+            "Crunch"
+        ],
+        "nature": "Brave",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Arcanine": {
+        "Arcanine5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Heat Wave",
+            "Overheat",
+            "Extreme Speed",
+            "Crunch"
+        ],
+        "nature": "Rash",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Arcanine": {
+        "Arcanine6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Flame Wheel",
+            "Rest",
+            "Toxic",
+            "Roar"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Armaldo": {
+        "Armaldo1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Brick Break",
+            "Earthquake",
+            "Rock Blast"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Armaldo": {
+        "Armaldo2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Harden",
+            "Knock Off",
+            "Rest",
+            "Seismic Toss"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Armaldo": {
+        "Armaldo3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Harden",
+            "Fury Cutter",
+            "Rest",
+            "Swords Dance"
+        ],
+        "nature": "Careful",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Armaldo": {
+        "Armaldo4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Endure",
+            "Earthquake",
+            "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ice Beam",
+            "Fly",
+            "Steel Wing",
+            "Double-Edge"
+        ],
+        "nature": "Hasty",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Blizzard",
+            "Mind Reader",
+            "Substitute",
+            "Extrasensory"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Ice Beam",
+            "Hidden Power",
+            "Water Pulse",
+            "Extrasensory"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ice Beam",
+            "Rain Dance",
+            "Water Pulse",
+            "Extrasensory"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Blaziken": {
+        "Blaziken3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Brick Break",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Blaziken": {
+        "Blaziken4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Swords Dance",
+            "Sky Uppercut",
+            "Earthquake",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Blaziken": {
+        "Blaziken5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Overheat",
+            "Brick Break",
+            "Blaze Kick",
+            "Thunder Punch"
+        ],
+        "nature": "Hasty",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Blaziken": {
+        "Blaziken6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Reversal",
+            "Fire Blast",
+            "Rock Slide"
+        ],
+        "nature": "Hasty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fake Tears",
+            "Hidden Power",
+            "Brick Break",
+            "Giga Drain"
+        ],
+        "nature": "Rash",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Spore",
+            "Mind Reader",
+            "Dynamic Punch",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Spore",
+            "Sunny Day",
+            "Sky Uppercut",
+            "Solar Beam"
+        ],
+        "nature": "Quiet",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Stun Spore",
+            "Counter",
+            "Brick Break",
+            "Focus Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Claydol": {
+        "Claydol3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Ancient Power",
+            "Shadow Ball",
+            "Explosion"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Claydol": {
+        "Claydol4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Shadow Ball",
+            "Explosion"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Claydol": {
+        "Claydol5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Psychic",
+            "Cosmic Power",
+            "Rest"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Claydol": {
+        "Claydol6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Psychic",
+            "Ice Beam",
+            "Explosion"
+        ],
+        "nature": "Quiet",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Clefable": {
+        "Clefable3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Calm Mind",
+            "Thunderbolt",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Clefable": {
+        "Clefable4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Toxic",
+            "Flamethrower",
+            "Ice Beam"
+        ],
+        "nature": "Calm",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Clefable": {
+        "Clefable5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Toxic",
+            "Seismic Toss",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Clefable": {
+        "Clefable6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Thunder Wave",
+            "Seismic Toss",
+            "Counter"
+        ],
+        "nature": "Bold",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Dodrio": {
+        "Dodrio3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Endeavor",
+            "Drill Peck",
+            "Taunt"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dodrio": {
+        "Dodrio4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Quick Attack",
+            "Double-Edge",
+            "Drill Peck",
+            "Steel Wing"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Dodrio": {
+        "Dodrio5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Flail",
+            "Drill Peck",
+            "Steel Wing"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dodrio": {
+        "Dodrio6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Flail",
+            "Drill Peck",
+            "Steel Wing"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dugtrio": {
+        "Dugtrio3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Frustration",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dugtrio": {
+        "Dugtrio4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Aerial Ace",
+            "Sunny Day",
+            "Charm"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Dugtrio": {
+        "Dugtrio5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Aerial Ace",
+            "Rock Slide",
+            "Sludge Bomb"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Dugtrio": {
+        "Dugtrio6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Uproar",
+            "Toxic",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Dusclops": {
+        "Dusclops3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Substitute",
+            "Focus Punch",
+            "Pain Split"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Dusclops": {
+        "Dusclops4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Pain Split",
+            "Substitute",
+            "Will-o-Wisp"
+        ],
+        "nature": "Impish",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dusclops": {
+        "Dusclops5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Will-o-Wisp",
+            "Rest",
+            "Imprison"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dusclops": {
+        "Dusclops6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Punch",
+            "Will-o-Wisp",
+            "Rest",
+            "Skill Swap"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Electrode": {
+        "Electrode3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunder",
+            "Explosion",
+            "Rain Dance",
+            "Light Screen"
+        ],
+        "nature": "Hasty",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Electrode": {
+        "Electrode4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Thunder Wave",
+            "Light Screen"
+        ],
+        "nature": "Mild",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Electrode": {
+        "Electrode5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Thunder Wave",
+            "Hidden Power"
+        ],
+        "nature": "Naive",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Electrode": {
+        "Electrode6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Mirror Coat",
+            "Hidden Power"
+        ],
+        "nature": "Lonely",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Entei": {
+        "Entei1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Calm Mind",
+            "Flamethrower",
+            "Reflect"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Entei": {
+        "Entei2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Calm Mind",
+            "Flamethrower",
+            "Toxic"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Entei": {
+        "Entei4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Overheat",
+            "Flamethrower",
+            "Solar Beam"
+        ],
+        "nature": "Timid",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Entei": {
+        "Entei3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Calm Mind",
+            "Fire Blast",
+            "Solar Beam"
+        ],
+        "nature": "Timid",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Dig",
+            "Iron Tail",
+            "Double-Edge"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Dig",
+            "Shadow Ball",
+            "Curse"
+        ],
+        "nature": "Naive",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psybeam",
+            "Dig",
+            "Wish",
+            "Body Slam"
+        ],
+        "nature": "Relaxed",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Baton Pass",
+            "Substitute",
+            "Light Screen"
+        ],
+        "nature": "Timid",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        }
+    },
+    "Exeggutor": {
+        "Exeggutor3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Leech Seed",
+            "Stun Spore",
+            "Psychic"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Exeggutor": {
+        "Exeggutor4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sunny Day",
+            "Explosion",
+            "Solar Beam",
+            "Psychic"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Exeggutor": {
+        "Exeggutor5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Sunny Day",
+            "Sleep Powder",
+            "Solar Beam",
+            "Psychic"
+        ],
+        "nature": "Modest",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Exeggutor": {
+        "Exeggutor6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Sleep Powder",
+            "Dream Eater",
+            "Leech Seed"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sandstorm",
+            "Toxic",
+            "Dig",
+            "Protect"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Spikes",
+            "Zap Cannon",
+            "Earthquake",
+            "Rapid Spin"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Explosion",
+            "Body Slam",
+            "Earthquake",
+            "Pin Missile"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Zap Cannon",
+            "Hidden Power",
+            "Giga Drain"
+        ],
+        "nature": "Quiet",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Fire Punch",
+            "Dream Eater",
+            "Destiny Bond"
+        ],
+        "nature": "Calm",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Defense Curl",
+            "Psychic",
+            "Calm Mind"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Disable",
+            "Fire Punch",
+            "Psychic",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunder Wave",
+            "Reflect",
+            "Light Screen",
+            "Memento"
+        ],
+        "nature": "Jolly",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Roar",
+            "Body Slam",
+            "Thunder Wave",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rain Dance",
+            "Thunder",
+            "Surf"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Crunch",
+            "Hydro Pump"
+        ],
+        "nature": "Rash",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Earthquake",
+            "Protect"
+        ],
+        "nature": "Adamant",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Belly Drum",
+            "Cross Chop",
+            "Rock Slide",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Bulk Up",
+            "Cross Chop",
+            "Rock Slide",
+            "Refresh"
+        ],
+        "nature": "Adamant",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Brick Break",
+            "Foresight",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Fake Out",
+            "Arm Thrust",
+            "Rock Tomb",
+            "Knock Off"
+        ],
+        "nature": "Adamant",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Crunch",
+            "Counter"
+        ],
+        "nature": "Modest",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Toxic",
+            "Fire Blast",
+            "Crunch",
+            "Substitute"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Reversal",
+            "Crunch",
+            "Howl"
+        ],
+        "nature": "Lonely",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Overheat",
+            "Flamethrower",
+            "Crunch",
+            "Thief"
+        ],
+        "nature": "Timid",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Hypno": {
+        "Hypno3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Protect",
+            "Thunder Wave",
+            "Psychic"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Hypno": {
+        "Hypno4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Fire Punch",
+            "Thunder Punch",
+            "Psychic"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Hypno": {
+        "Hypno5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Barrier",
+            "Rest",
+            "Psychic"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hypno": {
+        "Hypno6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Fire Punch",
+            "Ice Punch",
+            "Dream Eater"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Jolteon": {
+        "Jolteon3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Thunderbolt",
+            "Wish",
+            "Baton Pass",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Jolteon": {
+        "Jolteon4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Thunder Wave",
+            "Baton Pass",
+            "Hidden Power"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jolteon": {
+        "Jolteon5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Substitute",
+            "Baton Pass",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Apicot Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jolteon": {
+        "Jolteon6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Rest",
+            "Charm",
+            "Toxic"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jynx": {
+        "Jynx1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Lovely Kiss",
+            "Fake Tears",
+            "Ice Beam",
+            "Psychic"
+        ],
+        "nature": "Timid",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Jynx": {
+        "Jynx2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Lovely Kiss",
+            "Substitute",
+            "Ice Beam",
+            "Dream Eater"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Jynx": {
+        "Jynx3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Calm Mind",
+            "Ice Beam",
+            "Psychic"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jynx": {
+        "Jynx4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Calm Mind",
+            "Ice Beam",
+            "Psychic"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kingdra": {
+        "Kingdra3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Hydro Pump",
+            "Dragon Dance",
+            "Frustration",
+            "Ice Beam"
+        ],
+        "nature": "Hasty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Kingdra": {
+        "Kingdra4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Flail",
+            "Dragon Dance",
+            "Surf",
+            "Substitute"
+        ],
+        "nature": "Lonely",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Kingdra": {
+        "Kingdra5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Hydro Pump",
+            "Rain Dance",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Kingdra": {
+        "Kingdra6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Disable",
+            "Dragon Breath",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lanturn": {
+        "Lanturn6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Thunderbolt",
+            "Ice Beam",
+            "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lanturn": {
+        "Lanturn3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Surf",
+            "Thunder",
+            "Ice Beam",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Lanturn": {
+        "Lanturn4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hydro Pump",
+            "Thunderbolt",
+            "Ice Beam",
+            "Substitute"
+        ],
+        "nature": "Calm",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lanturn": {
+        "Lanturn5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Thunderbolt",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Sleep Talk",
+            "Curse",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Protect",
+            "Hail",
+            "Dive"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Sing",
+            "Dream Eater",
+            "Ice Beam",
+            "Nightmare"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Surf",
+            "Ice Beam",
+            "Perish Song"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Linoone": {
+        "Linoone3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Belly Drum",
+            "Flail",
+            "Substitute",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Linoone": {
+        "Linoone4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Iron Tail",
+            "Hyper Beam",
+            "Trick",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Linoone": {
+        "Linoone5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Extreme Speed",
+            "Dig",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Linoone": {
+        "Linoone6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Iron Tail",
+            "Headbutt",
+            "Dig",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Ludicolo": {
+        "Ludicolo3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Thunder Punch"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ludicolo": {
+        "Ludicolo4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Giga Drain"
+        ],
+        "nature": "Modest",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Ludicolo": {
+        "Ludicolo5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Leech Seed",
+            "Protect"
+        ],
+        "nature": "Calm",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Ludicolo": {
+        "Ludicolo6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Dive",
+            "Leech Seed",
+            "Substitute"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Machamp": {
+        "Machamp1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Cross Chop",
+            "Rock Slide",
+            "Earthquake",
+            "Low Kick"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Machamp": {
+        "Machamp2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Rock Slide",
+            "Rest",
+            "Bulk Up"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Machamp": {
+        "Machamp3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Cross Chop",
+            "Rock Slide",
+            "Encore",
+            "Bulk Up"
+        ],
+        "nature": "Jolly",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Machamp": {
+        "Machamp4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Cross Chop",
+            "Rock Slide",
+            "Earthquake",
+            "Scary Face"
+        ],
+        "nature": "Adamant",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Marowak": {
+        "Marowak1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Bonemerang",
+            "Rock Slide",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Thick Club",
+        "isCustomSet": true
+        }
+    },
+    "Marowak": {
+        "Marowak2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Swords Dance",
+            "Earthquake",
+            "Rock Slide",
+            "Icy Wind"
+        ],
+        "nature": "Brave",
+        "item": "Thick Club",
+        "isCustomSet": true
+        }
+    },
+    "Marowak": {
+        "Marowak3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sing",
+            "Bonemerang",
+            "Rock Slide",
+            "Counter"
+        ],
+        "nature": "Jolly",
+        "item": "Thick Club",
+        "isCustomSet": true
+        }
+    },
+    "Marowak": {
+        "Marowak4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Bonemerang",
+            "Rock Tomb",
+            "Perish Song"
+        ],
+        "nature": "Relaxed",
+        "item": "Thick Club",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Protect",
+            "Toxic",
+            "Shadow Ball"
+        ],
+        "nature": "Impish",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Bulk Up",
+            "Recover",
+            "Foresight"
+        ],
+        "nature": "Impish",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "High Jump Kick",
+            "Fake Out",
+            "Rock Slide",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dynamic Punch",
+            "Mind Reader",
+            "Rock Slide",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Miltank": {
+        "Miltank3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Milk Drink",
+            "Substitute",
+            "Focus Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Miltank": {
+        "Miltank4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Milk Drink",
+            "Mega Kick",
+            "Psych Up"
+        ],
+        "nature": "Jolly",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Miltank": {
+        "Miltank5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Milk Drink",
+            "Frustration",
+            "Curse"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Miltank": {
+        "Miltank6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Counter",
+            "Milk Drink",
+            "Double-Edge",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Misdreavus": {
+        "Misdreavus3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Destiny Bond",
+            "Sunny Day",
+            "Thunderbolt",
+            "Psychic"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Misdreavus": {
+        "Misdreavus4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Destiny Bond",
+            "Endure",
+            "Thunderbolt",
+            "Psychic"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Misdreavus": {
+        "Misdreavus5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Calm Mind",
+            "Thunderbolt",
+            "Psychic"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Misdreavus": {
+        "Misdreavus6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Pain Split",
+            "Thunder Wave",
+            "Taunt",
+            "Psychic"
+        ],
+        "nature": "Calm",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Omastar": {
+        "Omastar3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Spikes"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Omastar": {
+        "Omastar4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Substitute",
+            "Blizzard",
+            "Hydro Pump"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Omastar": {
+        "Omastar5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Hydro Pump"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Omastar": {
+        "Omastar6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Surf",
+            "Icy Wind",
+            "Spikes"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Porygon2": {
+        "Porygon21 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Conversion 2",
+            "Recover",
+            "Thunderbolt",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Porygon2": {
+        "Porygon22 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Recover",
+            "Thunderbolt",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Porygon2": {
+        "Porygon23 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Agility",
+            "Sharpen",
+            "Frustration",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Porygon2": {
+        "Porygon24 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recycle",
+            "Recover",
+            "Secret Power",
+            "Thunderbolt"
+        ],
+        "nature": "Sassy",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raichu": {
+        "Raichu3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Thunderbolt",
+            "Endure",
+            "Reversal"
+        ],
+        "nature": "Hasty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raichu": {
+        "Raichu4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Thunderbolt",
+            "Thunder Wave",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Raichu": {
+        "Raichu5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Volt Tackle",
+            "Thunderbolt",
+            "Wish",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Raichu": {
+        "Raichu6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Thunder",
+            "Substitute",
+            "Toxic"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raikou": {
+        "Raikou4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Crunch",
+            "Iron Tail",
+            "Thunder Wave"
+        ],
+        "nature": "Quiet",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raikou": {
+        "Raikou1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Crunch",
+            "Calm Mind",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raikou": {
+        "Raikou2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Crunch",
+            "Calm Mind",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Raikou": {
+        "Raikou3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Crunch",
+            "Toxic",
+            "Substitute"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Scizor": {
+        "Scizor1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Agility",
+            "Swords Dance",
+            "Steel Wing",
+            "Silver Wind"
+        ],
+        "nature": "Adamant",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Scizor": {
+        "Scizor2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Morning Sun",
+            "Swords Dance",
+            "Steel Wing",
+            "Silver Wind"
+        ],
+        "nature": "Impish",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Scizor": {
+        "Scizor3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Quick Attack",
+            "Hyper Beam",
+            "Steel Wing",
+            "Silver Wind"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Scizor": {
+        "Scizor4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Swords Dance",
+            "Steel Wing",
+            "Reversal"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shedinja": {
+        "Shedinja3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Protect",
+            "Swords Dance",
+            "Shadow Ball",
+            "Silver Wind"
+        ],
+        "nature": "Jolly",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Shedinja": {
+        "Shedinja4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Protect",
+            "Toxic",
+            "Shadow Ball",
+            "Silver Wind"
+        ],
+        "nature": "Jolly",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shedinja": {
+        "Shedinja5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Protect",
+            "Toxic",
+            "Shadow Ball",
+            "Baton Pass"
+        ],
+        "nature": "Jolly",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Shedinja": {
+        "Shedinja6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Protect",
+            "Grudge",
+            "Shadow Ball",
+            "Silver Wind"
+        ],
+        "nature": "Jolly",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Secret Power",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Steel Wing",
+            "Agility",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Drill Peck",
+            "Steel Wing",
+            "Double-Edge",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Drill Peck",
+            "Steel Wing",
+            "Curse",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Steelix": {
+        "Steelix3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Dragon Breath",
+            "Rock Tomb"
+        ],
+        "nature": "Relaxed",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Steelix": {
+        "Steelix4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Toxic",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Steelix": {
+        "Steelix1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Double-Edge",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Steelix": {
+        "Steelix2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Roar",
+            "Rock Slide"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Tentacruel": {
+        "Tentacruel6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Surf",
+            "Ice Beam",
+            "Rapid Spin"
+        ],
+        "nature": "Calm",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tentacruel": {
+        "Tentacruel3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Surf",
+            "Swords Dance",
+            "Substitute"
+        ],
+        "nature": "Hasty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tentacruel": {
+        "Tentacruel4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Hydro Pump",
+            "Ice Beam",
+            "Rain Dance"
+        ],
+        "nature": "Hasty",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Tentacruel": {
+        "Tentacruel5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Surf",
+            "Ice Beam",
+            "Giga Drain"
+        ],
+        "nature": "Quiet",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Typhlosion": {
+        "Typhlosion3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Thunder Punch",
+            "Flamethrower",
+            "Rock Slide"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Typhlosion": {
+        "Typhlosion4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Endure",
+            "Thunder Punch",
+            "Reversal",
+            "Blast Burn"
+        ],
+        "nature": "Hasty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Typhlosion": {
+        "Typhlosion5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Thunder Punch",
+            "Fire Blast",
+            "Focus Punch"
+        ],
+        "nature": "Hasty",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Typhlosion": {
+        "Typhlosion6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Sunny Day",
+            "Flamethrower",
+            "Blast Burn"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Umbreon": {
+        "Umbreon3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hidden Power",
+            "Toxic",
+            "Moonlight",
+            "Taunt"
+        ],
+        "nature": "Timid",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Umbreon": {
+        "Umbreon4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hidden Power",
+            "Toxic",
+            "Wish",
+            "Protect"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Umbreon": {
+        "Umbreon5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hidden Power",
+            "Toxic",
+            "Rest",
+            "Charm"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Umbreon": {
+        "Umbreon6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hidden Power",
+            "Substitute",
+            "Baton Pass",
+            "Psychic"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ursaring": {
+        "Ursaring4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Frustration",
+            "Focus Punch",
+            "Yawn",
+            "Crunch"
+        ],
+        "nature": "Brave",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Ursaring": {
+        "Ursaring3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Facade",
+            "Rest",
+            "Sleep Talk",
+            "Bulk Up"
+        ],
+        "nature": "Careful",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Ursaring": {
+        "Ursaring5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Swords Dance",
+            "Earthquake",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Ursaring": {
+        "Ursaring6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Mega Kick",
+            "Dynamic Punch",
+            "Earthquake",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Vaporeon": {
+        "Vaporeon1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Baton Pass",
+            "Hydro Pump",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Vaporeon": {
+        "Vaporeon2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Acid Armor",
+            "Dive",
+            "Toxic"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Vaporeon": {
+        "Vaporeon3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Rain Dance",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Vaporeon": {
+        "Vaporeon4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Hidden Power",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Venusaur": {
+        "Venusaur1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Leech Seed",
+            "Razor Leaf",
+            "Roar"
+        ],
+        "nature": "Calm",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Venusaur": {
+        "Venusaur2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Leech Seed",
+            "Razor Leaf",
+            "Sludge Bomb"
+        ],
+        "nature": "Brave",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Venusaur": {
+        "Venusaur3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Earthquake",
+            "Giga Drain",
+            "Sludge Bomb"
+        ],
+        "nature": "Hasty",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Venusaur": {
+        "Venusaur4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Growth",
+            "Giga Drain",
+            "Frenzy Plant"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Walrein": {
+        "Walrein1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Yawn",
+            "Ice Beam",
+            "Surf",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Walrein": {
+        "Walrein2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Hail",
+            "Surf",
+            "Protect"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Walrein": {
+        "Walrein3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Stockpile",
+            "Spit Up",
+            "Earthquake",
+            "Encore"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Walrein": {
+        "Walrein4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Defense Curl",
+            "Yawn",
+            "Ice Ball",
+            "Encore"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing1 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Fire Blast",
+            "Thunderbolt",
+            "Explosion"
+        ],
+        "nature": "Quiet",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Fire Blast",
+            "Sunny Day",
+            "Memento"
+        ],
+        "nature": "Naive",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psybeam",
+            "Flamethrower",
+            "Hidden Power",
+            "Explosion"
+        ],
+        "nature": "Quiet",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Psywave",
+            "Pain Split",
+            "Will-o-Wisp",
+            "Torment"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Wing Attack",
+            "Rock Slide",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Rock Slide",
+            "Earthquake",
+            "Sky Attack"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Wing Attack",
+            "Rock Slide",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Curse",
+            "Rock Slide",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Adamant",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wing Attack",
+            "Protect",
+            "Earthquake",
+            "Roar"
+        ],
+        "nature": "Adamant",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Wing Attack",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Fly",
+            "Torment",
+            "Protect"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Aerodactyl": {
+        "Aerodactyl9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Taunt",
+            "Rock Slide",
+            "Earthquake",
+            "Toxic"
+        ],
+        "nature": "Jolly",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Thunder Punch",
+            "Fire Punch",
+            "Calm Mind"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Hidden Power",
+            "Fire Punch",
+            "Ice Punch"
+        ],
+        "nature": "Timid",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Thunder Punch",
+            "Fire Punch",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Rest",
+            "Barrier",
+            "Calm Mind"
+        ],
+        "nature": "Timid",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Psychic",
+            "Disable",
+            "Encore",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Torment",
+            "Trick",
+            "Ice Punch"
+        ],
+        "nature": "Timid",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Thunder Punch",
+            "Ice Punch",
+            "Calm Mind"
+        ],
+        "nature": "Modest",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Alakazam": {
+        "Alakazam8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Hidden Power",
+            "Fire Punch",
+            "Calm Mind"
+        ],
+        "nature": "Modest",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Agility",
+            "Water Pulse",
+            "Extrasensory"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Agility",
+            "Substitute",
+            "Extrasensory"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hail",
+            "Fly",
+            "Substitute",
+            "Toxic"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Protect",
+            "Fly",
+            "Substitute",
+            "Toxic"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Rest",
+            "Haze",
+            "Toxic"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Fly",
+            "Rest",
+            "Steel Wing",
+            "Toxic"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Rest",
+            "Sleep Talk",
+            "Heal Bell"
+        ],
+        "nature": "Calm",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Articuno": {
+        "Articuno12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Rest",
+            "Mist",
+            "Reflect"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder",
+            "Sweet Scent",
+            "Sing",
+            "Blizzard"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Dream Eater",
+            "Sing",
+            "Flamethrower"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Sunny Day",
+            "Solar Beam",
+            "Fire Blast"
+        ],
+        "nature": "Modest",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Rain Dance",
+            "Water Pulse",
+            "Thunder"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Toxic",
+            "Wish",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Metronome",
+            "Defense Curl",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Calm Mind",
+            "Defense Curl",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Calm Mind",
+            "Psychic",
+            "Flamethrower"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Mach Punch",
+            "Sky Uppercut",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Bulk Up",
+            "Brick Break",
+            "Iron Tail"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Swords Dance",
+            "Brick Break",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Swords Dance",
+            "Sky Uppercut",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Spore",
+            "Swords Dance",
+            "Sky Uppercut",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Spore",
+            "Hidden Power",
+            "Sky Uppercut",
+            "Giga Drain"
+        ],
+        "nature": "Rash",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Spore",
+            "Mach Punch",
+            "Sky Uppercut",
+            "Focus Punch"
+        ],
+        "nature": "Jolly",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Breloom": {
+        "Breloom12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Spore",
+            "Substitute",
+            "Leech Seed",
+            "Focus Punch"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Substitute",
+            "Flamethrower",
+            "Blast Burn"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Flamethrower",
+            "Earthquake"
+        ],
+        "nature": "Naughty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Substitute",
+            "Flamethrower",
+            "Focus Punch"
+        ],
+        "nature": "Naive",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Toxic",
+            "Heat Wave",
+            "Brick Break"
+        ],
+        "nature": "Hasty",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Fly",
+            "Rock Slide",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Wing Attack",
+            "Rest",
+            "Earthquake"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Wing Attack",
+            "Flamethrower",
+            "Earthquake"
+        ],
+        "nature": "Lonely",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Charizard": {
+        "Charizard2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Counter",
+            "Fire Blast",
+            "Brick Break"
+        ],
+        "nature": "Naive",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Thunder",
+            "Ice Beam",
+            "Brick Break"
+        ],
+        "nature": "Rash",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Fly",
+            "Earthquake",
+            "Protect"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Haze",
+            "Dragon Breath",
+            "Light Screen",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Dragon Claw",
+            "Fire Blast",
+            "Focus Punch"
+        ],
+        "nature": "Naive",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Outrage",
+            "Fire Blast",
+            "Brick Break"
+        ],
+        "nature": "Rash",
+        "item": "Persim Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Fly",
+            "Earthquake",
+            "Thunder"
+        ],
+        "nature": "Naughty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Wing Attack",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Wing Attack",
+            "Earthquake",
+            "Steel Wing"
+        ],
+        "nature": "Jolly",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Baton Pass",
+            "Reflect",
+            "Light Screen"
+        ],
+        "nature": "Calm",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Rest",
+            "Hidden Power"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Wish",
+            "Hidden Power"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Morning Sun",
+            "Hidden Power"
+        ],
+        "nature": "Impish",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Morning Sun",
+            "Sunny Day"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Substitute",
+            "Bite"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Rest",
+            "Reflect"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Espeon": {
+        "Espeon8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Skill Swap",
+            "Hidden Power"
+        ],
+        "nature": "Timid",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dig",
+            "Rest",
+            "Sleep Talk",
+            "Fly"
+        ],
+        "nature": "Impish",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Solar Beam",
+            "Dragon Claw",
+            "Fire Blast"
+        ],
+        "nature": "Modest",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Crunch",
+            "Giga Drain",
+            "Dragon Claw",
+            "Flamethrower"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Substitute",
+            "Fire Blast"
+        ],
+        "nature": "Naive",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Body Slam",
+            "Fire Blast"
+        ],
+        "nature": "Impish",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dig",
+            "Substitute",
+            "Toxic",
+            "Flamethrower"
+        ],
+        "nature": "Impish",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Tomb",
+            "Dragon Breath",
+            "Flamethrower"
+        ],
+        "nature": "Relaxed",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Iron Tail",
+            "Screech"
+        ],
+        "nature": "Jolly",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Zap Cannon",
+            "Earthquake",
+            "Giga Drain"
+        ],
+        "nature": "Brave",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Rock Slide",
+            "Earthquake",
+            "Giga Drain"
+        ],
+        "nature": "Sassy",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Rock Slide",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Explosion",
+            "Flail",
+            "Earthquake",
+            "Endure"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Spikes",
+            "Rest",
+            "Earthquake",
+            "Light Screen"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Rock Slide",
+            "Earthquake",
+            "Counter"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Body Slam",
+            "Earthquake",
+            "Spikes"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Forretress": {
+        "Forretress12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Zap Cannon",
+            "Reflect",
+            "Light Screen"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Fire Punch",
+            "Psychic",
+            "Destiny Bond"
+        ],
+        "nature": "Bold",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Magical Leaf",
+            "Fire Punch",
+            "Psychic",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Magical Leaf",
+            "Destiny Bond",
+            "Psychic",
+            "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Fire Punch",
+            "Psychic",
+            "Thunderbolt"
+        ],
+        "nature": "Bold",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Destiny Bond",
+            "Psychic",
+            "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Wish",
+            "Psychic",
+            "Taunt"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Wish",
+            "Psychic",
+            "Calm Mind"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Gardevoir": {
+        "Gardevoir12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Dream Eater",
+            "Nightmare",
+            "Substitute"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Sludge Bomb",
+            "Brick Break",
+            "Lick"
+        ],
+        "nature": "Adamant",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Fire Punch",
+            "Will-o-Wisp",
+            "Giga Drain",
+            "Perish Song"
+        ],
+        "nature": "Bold",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ice Punch",
+            "Will-o-Wisp",
+            "Thief",
+            "Grudge"
+        ],
+        "nature": "Timid",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Ice Punch",
+            "Will-o-Wisp",
+            "Thunderbolt",
+            "Destiny Bond"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ice Punch",
+            "Endure",
+            "Thunderbolt",
+            "Destiny Bond"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Giga Drain",
+            "Explosion",
+            "Thunderbolt",
+            "Hypnosis"
+        ],
+        "nature": "Hasty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Ice Punch",
+            "Will-o-Wisp",
+            "Thunderbolt",
+            "Taunt"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Punch",
+            "Fire Punch",
+            "Thunderbolt",
+            "Hypnosis"
+        ],
+        "nature": "Modest",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Double-Edge",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Flail",
+            "Earthquake",
+            "Substitute"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Earthquake",
+            "Taunt"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Earthquake",
+            "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Earthquake",
+            "Hydro Pump"
+        ],
+        "nature": "Naughty",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Toxic",
+            "Double-Edge",
+            "Earthquake",
+            "Taunt"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Talk",
+            "Frustration",
+            "Roar",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Gyarados": {
+        "Gyarados10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Roar",
+            "Frustration",
+            "Earthquake",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Bulk Up",
+            "Reversal",
+            "Rock Slide",
+            "Endure"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Bulk Up",
+            "Cross Chop",
+            "Rock Slide",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Counter",
+            "Cross Chop",
+            "Rock Slide",
+            "Focus Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Fake Out",
+            "Cross Chop",
+            "Rock Slide",
+            "Focus Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fake Out",
+            "Cross Chop",
+            "Rock Slide",
+            "Earthquake"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Fake Out",
+            "Revenge",
+            "Rock Slide",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Focus Punch",
+            "Brick Break",
+            "Rock Slide",
+            "Substitute"
+        ],
+        "nature": "Adamant",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Hariyama": {
+        "Hariyama12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Whirlwind",
+            "Revenge",
+            "Knock Off",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Megahorn",
+            "Rest",
+            "Bulk Up",
+            "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Megahorn",
+            "Brick Break",
+            "Bulk Up",
+            "Rock Slide"
+        ],
+        "nature": "Careful",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Megahorn",
+            "Substitute",
+            "Focus Punch",
+            "Reversal"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Megahorn",
+            "Substitute",
+            "Swords Dance",
+            "Reversal"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Megahorn",
+            "Brick Break",
+            "Swords Dance",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Megahorn",
+            "Brick Break",
+            "Swords Dance",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Cheri Berry",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Megahorn",
+            "Earthquake",
+            "Swords Dance",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Megahorn",
+            "Brick Break",
+            "Counter",
+            "Rock Tomb"
+        ],
+        "nature": "Adamant",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Crunch",
+            "Protect"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Crunch",
+            "Fire Blast"
+        ],
+        "nature": "Timid",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Sleep Talk",
+            "Crunch",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Protect",
+            "Spite",
+            "Bite",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Flamethrower",
+            "Crunch",
+            "Solar Beam"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Crunch",
+            "Roar"
+        ],
+        "nature": "Calm",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Crunch",
+            "Taunt"
+        ],
+        "nature": "Timid",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Houndoom": {
+        "Houndoom8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Crunch",
+            "Snatch"
+        ],
+        "nature": "Timid",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Refresh",
+            "Surf",
+            "Dragon Dance",
+            "Frustration"
+        ],
+        "nature": "Hasty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Surf",
+            "Dragon Dance",
+            "Frustration"
+        ],
+        "nature": "Lonely",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Surf",
+            "Ice Beam",
+            "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Surf",
+            "Ice Beam",
+            "Thunder"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Surf",
+            "Ice Beam",
+            "Thunderbolt"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Sing",
+            "Dream Eater",
+            "Ice Beam",
+            "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Protect",
+            "Ice Beam",
+            "Thunderbolt"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Lapras": {
+        "Lapras10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Roar",
+            "Surf",
+            "Ice Beam",
+            "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Fake Out",
+            "Focus Punch",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Recover",
+            "Focus Punch",
+            "Shadow Ball"
+        ],
+        "nature": "Careful",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Baton Pass",
+            "Focus Punch",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Reversal",
+            "Focus Punch",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Reversal",
+            "Rock Slide",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Bulk Up",
+            "Recover",
+            "Shadow Ball"
+        ],
+        "nature": "Careful",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Brick Break",
+            "Fake Out",
+            "Rock Slide",
+            "Baton Pass"
+        ],
+        "nature": "Jolly",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Medicham": {
+        "Medicham5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Fake Out",
+            "Rock Slide",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Iron Defense",
+            "Rest",
+            "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Toxic",
+            "Earthquake",
+            "Protect"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Explosion",
+            "Thunder Punch",
+            "Psychic"
+        ],
+        "nature": "Quiet",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sleep Talk",
+            "Explosion",
+            "---",
+            "---"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Meteor Mash",
+            "Rock Slide",
+            "Earthquake",
+            "Agility"
+        ],
+        "nature": "Jolly",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Meteor Mash",
+            "Explosion",
+            "Earthquake",
+            "Endure"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Explosion",
+            "Substitute",
+            "Scary Face"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Explosion",
+            "Light Screen",
+            "Rock Tomb"
+        ],
+        "nature": "Impish",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Rest",
+            "Ice Beam",
+            "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Rest",
+            "Toxic",
+            "Mud Sport"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Recover",
+            "Toxic",
+            "Refresh"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Recover",
+            "Toxic",
+            "Psych Up"
+        ],
+        "nature": "Calm",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Surf",
+            "Recover",
+            "Hypnosis",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Recover",
+            "Mirror Coat",
+            "Dragon Breath"
+        ],
+        "nature": "Calm",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dive",
+            "Recover",
+            "Safeguard",
+            "Dragon Breath"
+        ],
+        "nature": "Bold",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Milotic": {
+        "Milotic8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hydro Pump",
+            "Hidden Power",
+            "Ice Beam",
+            "Dragon Breath"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Agility",
+            "Overheat",
+            "Hidden Power"
+        ],
+        "nature": "Modest",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Agility",
+            "Extrasensory",
+            "Hidden Power"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fire Blast",
+            "Will-o-Wisp",
+            "Substitute",
+            "Sky Attack"
+        ],
+        "nature": "Mild",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Heat Wave",
+            "Will-o-Wisp",
+            "Morning Sun",
+            "Sunny Day"
+        ],
+        "nature": "Bold",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Flamethrower",
+            "Will-o-Wisp",
+            "Roar",
+            "Protect"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Flamethrower",
+            "Double-Edge",
+            "Steel Wing",
+            "Wing Attack"
+        ],
+        "nature": "Hasty",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Flamethrower",
+            "Toxic",
+            "Roar",
+            "Fly"
+        ],
+        "nature": "Relaxed",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Moltres": {
+        "Moltres6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Protect",
+            "Will-o-Wisp",
+            "Morning Sun",
+            "Wing Attack"
+        ],
+        "nature": "Calm",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Safeguard",
+            "Explosion",
+            "Ice Beam"
+        ],
+        "nature": "Sassy",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Thunderbolt",
+            "Explosion",
+            "Ice Beam"
+        ],
+        "nature": "Quiet",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Counter",
+            "Thunderbolt",
+            "Explosion",
+            "Ice Beam"
+        ],
+        "nature": "Quiet",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Thunderbolt",
+            "Explosion",
+            "Ice Beam"
+        ],
+        "nature": "Hasty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rain Dance",
+            "Thunder",
+            "Explosion",
+            "Ice Beam"
+        ],
+        "nature": "Hasty",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Rest",
+            "Explosion",
+            "Ice Beam"
+        ],
+        "nature": "Brave",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Curse",
+            "Superpower",
+            "Explosion",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Regice": {
+        "Regice8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dynamic Punch",
+            "Zap Cannon",
+            "Lock-On",
+            "Blizzard"
+        ],
+        "nature": "Quiet",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Tomb",
+            "Safeguard",
+            "Explosion",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Dynamic Punch",
+            "Body Slam",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Superpower",
+            "Explosion",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Superpower",
+            "Explosion",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Curse",
+            "Explosion",
+            "Earthquake"
+        ],
+        "nature": "Jolly",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Curse",
+            "Rest",
+            "Earthquake"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Focus Punch",
+            "Substitute",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Regirock": {
+        "Regirock8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ancient Power",
+            "Mega Kick",
+            "Substitute",
+            "Earthquake"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Metal Claw",
+            "Explosion",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Lock-On",
+            "Dynamic Punch",
+            "Explosion",
+            "Zap Cannon"
+        ],
+        "nature": "Brave",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Amnesia",
+            "Rest",
+            "Rollout"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Metal Claw",
+            "Rest",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Curse",
+            "Metal Claw",
+            "Explosion",
+            "Superpower"
+        ],
+        "nature": "Adamant",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Counter",
+            "Seismic Toss",
+            "Explosion",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Metal Claw",
+            "Explosion",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Registeel": {
+        "Registeel8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Metal Claw",
+            "Focus Punch",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Dragon Dance",
+            "Refresh",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Aerial Ace",
+            "Brick Break",
+            "Dragon Claw",
+            "Flamethrower"
+        ],
+        "nature": "Naive",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Brick Break",
+            "Dragon Claw",
+            "Fire Blast"
+        ],
+        "nature": "Rash",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hydro Pump",
+            "Brick Break",
+            "Dragon Claw",
+            "Flamethrower"
+        ],
+        "nature": "Rash",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hydro Pump",
+            "Substitute",
+            "Dragon Claw",
+            "Fire Blast"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Wish",
+            "Protect",
+            "Dragon Claw",
+            "Flamethrower"
+        ],
+        "nature": "Timid",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Fly",
+            "Toxic",
+            "Earthquake"
+        ],
+        "nature": "Impish",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Protect",
+            "Toxic",
+            "Flamethrower"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Roar",
+            "Curse",
+            "Rest"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Talk",
+            "Steel Wing",
+            "Curse",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Talk",
+            "Fly",
+            "Curse",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Torment",
+            "Fly",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Fly",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Spikes",
+            "Roar",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Toxic",
+            "Protect"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Skarmory": {
+        "Skarmory12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Drill Peck",
+            "Steel Wing",
+            "Toxic",
+            "Taunt"
+        ],
+        "nature": "Jolly",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Slash",
+            "Snore",
+            "Uproar",
+            "Fury Swipes"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Earthquake",
+            "Rock Slide",
+            "Focus Punch"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Frustration",
+            "Brick Break",
+            "Shadow Ball",
+            "Fury Swipes"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Mega Kick",
+            "Snore",
+            "Shadow Ball",
+            "Dynamic Punch"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Crush Claw",
+            "Earthquake",
+            "Shadow Ball",
+            "Hyper Beam"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Mega Kick",
+            "Encore",
+            "Flamethrower",
+            "Counter"
+        ],
+        "nature": "Brave",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Earthquake",
+            "Rock Slide",
+            "Slack Off"
+        ],
+        "nature": "Careful",
+        "item": "Hard Stone",
+        "isCustomSet": true
+        }
+    },
+    "Slaking": {
+        "Slaking8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Bulk Up",
+            "Fury Cutter",
+            "Amnesia",
+            "Rest"
+        ],
+        "nature": "Jolly",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Yawn",
+            "Frustration",
+            "Focus Punch",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Fire Blast",
+            "Body Slam",
+            "Earthquake",
+            "Self-Destruct"
+        ],
+        "nature": "Brave",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Amnesia",
+            "Snore",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Frustration",
+            "Focus Punch",
+            "Earthquake",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Belly Drum",
+            "Rock Slide",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Covet",
+            "Frustration",
+            "Focus Punch",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Body Slam",
+            "Focus Punch",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Brick Break",
+            "Body Slam",
+            "Shadow Ball",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Camouflage",
+            "Cosmic Power",
+            "Rest",
+            "Secret Power"
+        ],
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dive",
+            "Cosmic Power",
+            "Toxic",
+            "Recover"
+        ],
+        "nature": "Bold",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Blizzard",
+            "Thunder",
+            "Hydro Pump"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Thunderbolt",
+            "Psychic"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Thunder Wave",
+            "Recover"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Surf",
+            "Rapid Spin",
+            "Psychic",
+            "Recover"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Psych Up",
+            "Ice Beam",
+            "Thunderbolt",
+            "Recover"
+        ],
+        "nature": "Calm",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Reflect",
+            "Light Screen",
+            "Recover"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psych Up",
+            "Surf",
+            "Ice Beam",
+            "Mirror Coat"
+        ],
+        "nature": "Timid",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Dive",
+            "Substitute",
+            "Protect"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Roar",
+            "Surf",
+            "Icy Wind",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Ice Beam",
+            "Roar"
+        ],
+        "nature": "Timid",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Reflect",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Hydro Pump",
+            "Ice Beam",
+            "Substitute"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Ice Beam",
+            "Endure"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Uproar",
+            "Surf",
+            "Toxic",
+            "Dynamic Punch"
+        ],
+        "nature": "Naive",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Hydro Pump",
+            "Ice Beam",
+            "Curse"
+        ],
+        "nature": "Quiet",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Earthquake",
+            "Hydro Pump",
+            "Ice Beam",
+            "Focus Punch"
+        ],
+        "nature": "Rash",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Surf",
+            "Ice Beam",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Refresh",
+            "Surf",
+            "Roar",
+            "Protect"
+        ],
+        "nature": "Relaxed",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Mud Shot",
+            "Surf",
+            "Stomp",
+            "Rock Tomb"
+        ],
+        "nature": "Brave",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Defense Curl",
+            "Rest",
+            "Ice Ball",
+            "Mirror Coat"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rollout",
+            "Rest",
+            "Roar",
+            "Curse"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thrash",
+            "Hyper Beam",
+            "Earthquake",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Fire Blast",
+            "Earthquake",
+            "Iron Tail"
+        ],
+        "nature": "Naive",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Substitute",
+            "Earthquake",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Frustration",
+            "Fire Blast",
+            "Earthquake",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thrash",
+            "Rock Tomb",
+            "Rock Smash",
+            "Iron Tail"
+        ],
+        "nature": "Impish",
+        "item": "Persim Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Frustration",
+            "Scary Face",
+            "Earthquake",
+            "Tail Whip"
+        ],
+        "nature": "Impish",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Body Slam",
+            "Refresh",
+            "Earthquake",
+            "Protect"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Tauros": {
+        "Tauros8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Body Slam",
+            "Rest",
+            "Sleep Talk",
+            "Iron Tail"
+        ],
+        "nature": "Impish",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Pain Split",
+            "Will-o-Wisp",
+            "Explosion"
+        ],
+        "nature": "Impish",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Protect",
+            "Pain Split",
+            "Toxic",
+            "Flamethrower"
+        ],
+        "nature": "Bold",
+        "item": "Charcoal",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Pain Split",
+            "Will-o-Wisp",
+            "Taunt"
+        ],
+        "nature": "Jolly",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Pain Split",
+            "Will-o-Wisp",
+            "Haze"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Shadow Ball",
+            "Memento",
+            "Explosion"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Fire Blast",
+            "Sunny Day",
+            "Explosion"
+        ],
+        "nature": "Rash",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Fire Blast",
+            "Thunderbolt",
+            "Explosion"
+        ],
+        "nature": "Quiet",
+        "item": "Poison Barb",
+        "isCustomSet": true
+        }
+    },
+    "Weezing": {
+        "Weezing12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Endure",
+            "Destiny Bond",
+            "Flamethrower"
+        ],
+        "nature": "Naive",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos1 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Light Screen",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Steel Wing",
+            "Sky Attack"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Rain Dance",
+            "Thunder"
+        ],
+        "nature": "Mild",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Substitute",
+            "Baton Pass"
+        ],
+        "nature": "Timid",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Steel Wing",
+            "Endure"
+        ],
+        "nature": "Hasty",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Extrasensory",
+            "Hidden Power",
+            "Metal Sound"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Relaxed",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Calm Mind",
+            "Thunderbolt",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Counter",
+            "Sing",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Thunder Wave",
+            "Seismic Toss",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Blissey": {
+        "Blissey12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Soft-Boiled",
+            "Toxic",
+            "Seismic Toss",
+            "Snatch"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi1 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Swords Dance",
+            "Shadow Ball",
+            "Double-Edge"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi2 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Giga Drain",
+            "Psychic",
+            "Leech Seed"
+        ],
+        "nature": "Modest",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi3 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Recover",
+            "Giga Drain",
+            "Perish Song",
+            "Leech Seed"
+        ],
+        "nature": "Careful",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi4 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Giga Drain",
+            "Psychic",
+            "Leech Seed"
+        ],
+        "nature": "Bold",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi5 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Recover",
+            "Baton Pass",
+            "Leech Seed"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi6 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Reflect",
+            "Recover",
+            "Psychic",
+            "Leech Seed"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi7 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Future Sight",
+            "Recover",
+            "Psychic",
+            "Leech Seed"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi8 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Leech Seed",
+            "Psychic",
+            "Recover"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Giga Drain",
+            "Psychic",
+            "Recover"
+        ],
+        "nature": "Timid",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Giga Drain",
+            "Psychic",
+            "Substitute"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Calm Mind",
+            "Giga Drain",
+            "Psychic",
+            "Shock Wave"
+        ],
+        "nature": "Modest",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Celebi": {
+        "Celebi12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Solar Beam",
+            "Psychic",
+            "Sunny Day"
+        ],
+        "nature": "Timid",
+        "item": "Miracle Seed",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Wing Attack",
+            "Earthquake",
+            "Heal Bell"
+        ],
+        "nature": "Careful",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Double-Edge",
+            "Wing Attack",
+            "Earthquake",
+            "Brick Break"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Dragon Claw",
+            "Flamethrower",
+            "Brick Break"
+        ],
+        "nature": "Quiet",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Dragonite": {
+        "Dragonite12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Thunder",
+            "Ice Beam",
+            "Focus Punch"
+        ],
+        "nature": "Naive",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Quick Attack",
+            "Gust"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Endure",
+            "Hyper Beam"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Protect",
+            "Toxic",
+            "Flamethrower"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Flygon": {
+        "Flygon12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Giga Drain",
+            "Dragon Claw",
+            "Flamethrower"
+        ],
+        "nature": "Rash",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ice Punch",
+            "Fire Punch",
+            "Giga Drain",
+            "Destiny Bond"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Explosion",
+            "Thunderbolt",
+            "Ice Punch",
+            "Hypnosis"
+        ],
+        "nature": "Timid",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Nightmare",
+            "Dream Eater",
+            "Giga Drain",
+            "Hypnosis"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Gengar": {
+        "Gengar12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Shadow Ball",
+            "Explosion",
+            "Focus Punch",
+            "Hypnosis"
+        ],
+        "nature": "Adamant",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Megahorn",
+            "Substitute",
+            "Swords Dance",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Megahorn",
+            "Endure",
+            "Swords Dance",
+            "Reversal"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Megahorn",
+            "Brick Break",
+            "Earthquake",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Silver Powder",
+        "isCustomSet": true
+        }
+    },
+    "Heracross": {
+        "Heracross12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Megahorn",
+            "Brick Break",
+            "Focus Punch",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi1 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Psychic",
+            "Snore",
+            "Rest"
+        ],
+        "nature": "Brave",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi2 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Reflect",
+            "Psychic",
+            "Wish",
+            "Calm Mind"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi3 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Ice Punch",
+            "Wish",
+            "Calm Mind"
+        ],
+        "nature": "Modest",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi4 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Ice Punch",
+            "Psychic",
+            "Calm Mind"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi5 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fire Punch",
+            "Substitute",
+            "Psychic",
+            "Calm Mind"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi6 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Endure",
+            "Ice Punch",
+            "Thunder",
+            "Calm Mind"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi7 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dynamic Punch",
+            "Thunder Wave",
+            "Psychic",
+            "Fire Punch"
+        ],
+        "nature": "Quiet",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi8 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dynamic Punch",
+            "Ice Punch",
+            "Thunder",
+            "Body Slam"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dynamic Punch",
+            "Doom Desire",
+            "Snore",
+            "Body Slam"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Fire Punch",
+            "Protect",
+            "Wish",
+            "Body Slam"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Fire Punch",
+            "Doom Desire",
+            "Wish",
+            "Reflect"
+        ],
+        "nature": "Relaxed",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Jirachi": {
+        "Jirachi12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder",
+            "Doom Desire",
+            "Wish",
+            "Skill Swap"
+        ],
+        "nature": "Sassy",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias1 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Psywave",
+            "Toxic",
+            "Recover",
+            "Refresh"
+        ],
+        "nature": "Calm",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias2 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Mist Ball",
+            "Charm",
+            "Recover",
+            "Dragon Breath"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias3 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Mist Ball",
+            "Protect",
+            "Wish",
+            "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias4 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dive",
+            "Calm Mind",
+            "Wish",
+            "Dragon Breath"
+        ],
+        "nature": "Bold",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias5 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Calm Mind",
+            "Recover",
+            "Reflect"
+        ],
+        "nature": "Calm",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias6 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Recover",
+            "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias7 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Recover",
+            "Roar"
+        ],
+        "nature": "Bold",
+        "item": "Mail",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias8 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Recover",
+            "Safeguard"
+        ],
+        "nature": "Timid",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Recover",
+            "Refresh"
+        ],
+        "nature": "Bold",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Rest",
+            "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Rain Dance",
+            "Thunder",
+            "Surf"
+        ],
+        "nature": "Timid",
+        "item": "Magnet",
+        "isCustomSet": true
+        }
+    },
+    "Latias": {
+        "Latias12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Solar Beam",
+            "Sunny Day",
+            "Light Screen",
+            "Icy Wind"
+        ],
+        "nature": "Calm",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios1 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Recover",
+            "Earthquake",
+            "Thunderbolt"
+        ],
+        "nature": "Hasty",
+        "item": "Soft Sand",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios2 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Claw",
+            "Recover",
+            "Luster Purge",
+            "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios3 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Ice Beam",
+            "Calm Mind",
+            "Substitute",
+            "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios4 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Surf",
+            "Endure"
+        ],
+        "nature": "Modest",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios5 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Surf",
+            "Recover"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios6 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Claw",
+            "Calm Mind",
+            "Surf",
+            "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios7 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Claw",
+            "Psychic",
+            "Surf",
+            "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Memento",
+            "Reflect",
+            "Light Screen",
+            "Dragon Breath"
+        ],
+        "nature": "Calm",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Memento",
+            "Hyper Beam",
+            "Earthquake",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Double-Edge",
+            "Earthquake",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Earthquake",
+            "Substitute"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Latios": {
+        "Latios8 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Memento",
+            "Rain Dance",
+            "Surf",
+            "Thunder"
+        ],
+        "nature": "Timid",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Explosion",
+            "Earthquake",
+            "Sludge Bomb"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Rock Slide",
+            "Earthquake",
+            "Agility"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Meteor Mash",
+            "Explosion",
+            "Earthquake",
+            "Agility"
+        ],
+        "nature": "Adamant",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        }
+    },
+    "Metagross": {
+        "Metagross12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Meteor Mash",
+            "Earthquake",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew1 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Explosion",
+            "Counter",
+            "Psychic"
+        ],
+        "nature": "Quiet",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew2 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Taunt",
+            "Toxic",
+            "Soft-Boiled",
+            "Flamethrower"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew3 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Transform",
+            "Soft-Boiled",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew4 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Calm Mind",
+            "Rain Dance",
+            "Thunder",
+            "Surf"
+        ],
+        "nature": "Jolly",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew5 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hypnosis",
+            "Dream Eater",
+            "Substitute",
+            "Focus Punch"
+        ],
+        "nature": "Sassy",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew6 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Dream Eater",
+            "Hypnosis",
+            "Overheat"
+        ],
+        "nature": "Modest",
+        "item": "White Herb",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew7 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Psychic",
+            "Overheat",
+            "Explosion"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew8 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Psychic",
+            "Flamethrower",
+            "Giga Drain"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sunny Day",
+            "Psychic",
+            "Fire Blast",
+            "Solar Beam"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Swords Dance",
+            "Frustration",
+            "Soft-Boiled",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Explosion",
+            "Earthquake",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Spell Tag",
+        "isCustomSet": true
+        }
+    },
+    "Mew": {
+        "Mew12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Explosion",
+            "Frustration",
+            "Brick Break",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Wish",
+            "Brick Break",
+            "Dragon Claw",
+            "Flamethrower"
+        ],
+        "nature": "Naive",
+        "item": "Black Belt",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Dragon Dance",
+            "Dragon Claw",
+            "Fire Blast"
+        ],
+        "nature": "Rash",
+        "item": "Dragon Fang",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Aerial Ace",
+            "Dragon Dance",
+            "Rock Slide",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Salamence": {
+        "Salamence12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Aerial Ace",
+            "Earthquake",
+            "Brick Break",
+            "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Frustration",
+            "Shadow Ball",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Body Slam",
+            "Shadow Ball",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Frustration",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Snorlax": {
+        "Snorlax11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Counter",
+            "Frustration",
+            "Focus Punch",
+            "Self-Destruct"
+        ],
+        "nature": "Adamant",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Reflect",
+            "Thunder Wave",
+            "Recover"
+        ],
+        "nature": "Bold",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Ice Beam",
+            "Thunderbolt",
+            "Hydro Pump"
+        ],
+        "nature": "Timid",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Thunderbolt",
+            "Hydro Pump"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Starmie": {
+        "Starmie12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Ice Beam",
+            "Thunder",
+            "Rain Dance"
+        ],
+        "nature": "Timid",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Calm Mind",
+            "Hydro Pump",
+            "Ice Beam",
+            "Rain Dance"
+        ],
+        "nature": "Timid",
+        "item": "Mystic Water",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Substitute",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Ice Beam",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Suicune": {
+        "Suicune12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rest",
+            "Ice Beam",
+            "Curse"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Surf",
+            "Ice Beam",
+            "Protect"
+        ],
+        "nature": "Relaxed",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Surf",
+            "Ice Beam",
+            "Endeavor"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        }
+    },
+    "Swampert": {
+        "Swampert11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Surf",
+            "Counter",
+            "Mirror Coat"
+        ],
+        "nature": "Relaxed",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar1 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rock Slide",
+            "Earthquake",
+            "Taunt"
+        ],
+        "nature": "Adamant",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar2 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rock Slide",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar3 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rock Slide",
+            "Earthquake",
+            "Endure"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar4 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Ancient Power",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar5 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rock Slide",
+            "Earthquake",
+            "Ice Beam"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar7 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Focus Punch",
+            "Rock Slide",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar8 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Focus Punch",
+            "Thunder",
+            "Crunch"
+        ],
+        "nature": "Quiet",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Taunt",
+            "Toxic"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Mega Kick",
+            "Snore"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Crunch",
+            "Fire Blast",
+            "Ice Beam"
+        ],
+        "nature": "Hasty",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Crunch",
+            "Flamethrower",
+            "Counter"
+        ],
+        "nature": "Modest",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        }
+    },
+    "Tyranitar": {
+        "Tyranitar6 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rock Slide",
+            "Earthquake",
+            "Mega Kick"
+        ],
+        "nature": "Impish",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos9 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos10 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Steel Wing",
+            "Agility"
+        ],
+        "nature": "Naughty",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Substitute",
+            "Metal Sound"
+        ],
+        "nature": "Naive",
+        "item": "Petaya Berry",
+        "isCustomSet": true
+        }
+    },
+    "Zapdos": {
+        "Zapdos12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Thunder Wave",
+            "Protect"
+        ],
+        "nature": "Relaxed",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        }
+    }
+}
