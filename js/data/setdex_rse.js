@@ -20764,6 +20764,27 @@ var SETDEX_ADV =
         "isCustomSet": true
         }
     },
+    "Volbeat": {
+        "Volbeat1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Signal Beam",
+            "Trick",
+            "Brick Break",
+            "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        },
     "Volbeat2 [A]": {
         "level": 100,
         "evs": {
@@ -20785,7 +20806,8 @@ var SETDEX_ADV =
         "isCustomSet": true
         }
     },
-    "Volbeat1 [A]": {
+    "Voltorb": {
+        "Voltorb1 [A]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -20796,13 +20818,13 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
-            "Signal Beam",
-            "Trick",
-            "Brick Break",
-            "Shadow Ball"
+            "Thunderbolt",
+            "Explosion",
+            "Thunder Wave",
+            "Light Screen"
         ],
-        "nature": "Jolly",
-        "item": "Choice Band",
+        "nature": "Naive",
+        "item": "Sitrus Berry",
         "isCustomSet": true
         },
     "Voltorb2 [A]": {
@@ -20826,26 +20848,6 @@ var SETDEX_ADV =
         "isCustomSet": true
         }
     },
-    "Voltorb1 [A]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Thunderbolt",
-            "Explosion",
-            "Thunder Wave",
-            "Light Screen"
-        ],
-        "nature": "Naive",
-        "item": "Sitrus Berry",
-        "isCustomSet": true
-        },
     "Wailord": {
         "Wailord1 [A]": {
         "level": 100,
