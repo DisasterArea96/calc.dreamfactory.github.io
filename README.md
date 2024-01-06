@@ -1,13 +1,13 @@
-Battle Tree Damage Calculator
+Dream Factory Calculator
 =======================
 
-This is forked from Honko's official Pokémon Showdown damage calculator (http://pokemonshowdown.com/damagecalc/) by turskain.
+This is a fork of KABoissonneault's damage calculator: https://github.com/KABoissonneault/turskain.github.io/. KABoissonneault's calculator is a fork of turskain's calculator (https://github.com/turskain/turskain.github.io/). And turskain's calculator is a fork of Honko's official Pokémon Showdown damage calculator (http://pokemonshowdown.com/damagecalc/). All credit to the respective rights holders.
 
-Some of the code for the changes made were adaptations from Trainer Tower's damage calculator (https://trainertower.com/damagecalc/) made by Jake White, and cant say's/LegoFigure11's damage calculator based off of it (https://cantsay.github.io). 
+This damage calculator is a companion to the Dream Factory ROMhack of Pokemon Emerald.
 
-Repo for this fork:
-https://github.com/turskain/turskain.github.io/
+The Dream Factory repository can be found here: https://github.com/DisasterArea96/pokeemerald_dreamfactory
 
+The latest version of the ROM can be downloaded from the Discord server. The Dream Factory Discord can be found here: https://discord.gg/9b7ReHS2bE
 
 Credits and license
 -------------------
