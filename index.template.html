@@ -18,11 +18,11 @@
         <span class="title-text">Battle Tree Damage Calculator</span>
         <span aria-labelledby="selectGenInstruction" role="radiogroup" title="Select the generation.">
             <span class="visually-hidden" id="selectGenInstruction">Select the generation.</span>
-            <input class="gen visually-hidden" type="radio" name="gen" value="3" id="gen3" /><label class="btn btn-small btn-left" for="gen3">ADV</label>
+            <input class="gen visually-hidden" type="radio" name="gen" value="3" id="gen3" checked="checked" /><label class="btn btn-small btn-left" for="gen3">ADV</label>
             <input class="gen visually-hidden" type="radio" name="gen" value="4" id="gen4" /><label class="btn btn-small btn-mid" for="gen4">DPP</label>
             <input class="gen visually-hidden" type="radio" name="gen" value="5" id="gen5" /><label class="btn btn-small btn-mid" for="gen5">B/W</label>
             <input class="gen visually-hidden" type="radio" name="gen" value="6" id="gen6" /><label class="btn btn-small btn-mid" for="gen6">ORAS</label>
-            <input class="gen visually-hidden" type="radio" name="gen" value="7" id="gen7" checked="checked" /><label class="btn btn-small btn-right" for="gen7">USUM</label>
+            <input class="gen visually-hidden" type="radio" name="gen" value="7" id="gen7" /><label class="btn btn-small btn-right" for="gen7">USUM</label>
         </span>
 	<span aria-labelledby="selectNotationInstruction" role="radiogroup" title="Select the output notation.">		
              <span class="visually-hidden" id="selectNotationInstruction">Select the output notation.</span>		
@@ -99,7 +99,7 @@
             <legend align="center">Pok&eacute;mon 1</legend>
             <input type="text" class="set-selector calc-trigger" />
             <span id="importedSetsOptions" style="width:auto; display:none">
-                <input type="checkbox" id="importedSets" /> Only show imported sets <br />
+                <input type="box" id="importedSets" /> Only show imported sets <br />
                 <button id="clearSets">Clear Custom Sets</button>
             </span>
             <div class="info-group">
@@ -464,9 +464,9 @@
                     <option value="Physical">Physical</option>
                     <option value="Special">Special</option>
                 </select>
-                <input aria-describedby="criticalHitInstruction" class="move-crit calc-trigger visually-hidden" type="checkbox" id="critL1" />
+                <input aria-describedby="criticalHitInstruction" class="move-crit calc-trigger visually-hidden" type="box" id="critL1" />
                 <label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
-                <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL1"/>
+                <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="box" id="zL1"/>
                 <label class="btn z-btn gen-specific g7" for="zL1" title="Make this attack a Z-move?">Z</label>
 		<input class="move-pp p1m1 calc-trigger" style="width: 30px" type="number" min="0" max="64" step="1" value="64" />
                 <select class="move-hits calc-trigger hide">
@@ -498,9 +498,9 @@
                     <option value="Physical">Physical</option>
                     <option value="Special">Special</option>
                 </select>
-                <input aria-describedby="criticalHitInstruction" class="move-crit calc-trigger visually-hidden" type="checkbox" id="critL2" />
+                <input aria-describedby="criticalHitInstruction" class="move-crit calc-trigger visually-hidden" type="box" id="critL2" />
                 <label class="btn crit-btn" for="critL2" title="Force this attack to be a critical hit?">Crit</label>
-                <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL2"/>
+                <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="box" id="zL2"/>
                 <label class="btn z-btn gen-specific g7" for="zL2" title="Make this attack a Z-move?">Z</label>
 		<input class="move-pp p1m2 calc-trigger" style="width: 30px" type="number" min="0" max="64" step="1" value="64" />
                 <select class="move-hits calc-trigger hide">
@@ -532,7 +532,7 @@
                     <option value="Physical">Physical</option>
                     <option value="Special">Special</option>
                 </select>
-                <input aria-describedby="criticalHitInstruction" class="move-crit calc-trigger visually-hidden" type="checkbox" id="critL3" />
+                <input aria-describedby="criticalHitInstruction" class="move-crit calc-trigger visually-hidden" type="box" id="critL3" />
                 <label class="btn crit-btn" for="critL3" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL3"/>
                 <label class="btn z-btn gen-specific g7" for="zL3" title="Make this attack a Z-move?">Z</label>
