@@ -21081,7 +21081,7 @@ var SETDEX_ADV =
             "df": 0,
             "sa": 170,
             "sd": 0,
-            "sp": 0
+            "sp": 170
         },
         "moves": [
             "Defense Curl",
