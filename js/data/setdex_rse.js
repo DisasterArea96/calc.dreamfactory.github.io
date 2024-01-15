@@ -89,26 +89,6 @@ var SETDEX_ADV =
             "hp": 255,
             "at": 0,
             "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Rest",
-            "Sleep Talk",
-            "Whirlwind",
-            "Roar"
-        ],
-        "nature": "Timid",
-        "item": "Mail",
-        "isCustomSet": true
-        },
-    "Aerodactyl2 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
             "sa": 255,
             "sd": 0,
             "sp": 0
@@ -123,7 +103,47 @@ var SETDEX_ADV =
         "item": "Dragon Fang",
         "isCustomSet": true
         },
+    "Aerodactyl2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Whirlwind",
+            "Roar",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Timid",
+        "item": "Mail",
+        "isCustomSet": true
+        },
     "Aerodactyl3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Wing Attack",
+            "Curse",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        },
+    "Aerodactyl4 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -143,44 +163,24 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Aerodactyl4 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Curse",
-            "Fly",
-            "Sleep Talk",
-            "Rest"
-        ],
-        "nature": "Careful",
-        "item": "Sharp Beak",
-        "isCustomSet": true
-        },
     "Aerodactyl5 [E]": {
         "level": 100,
         "evs": {
-            "hp": 0,
+            "hp": 255,
             "at": 255,
             "df": 0,
             "sa": 0,
             "sd": 0,
-            "sp": 255
+            "sp": 0
         },
         "moves": [
             "Wing Attack",
-            "Rock Slide",
+            "Roar",
             "Earthquake",
-            "Double-Edge"
+            "Protect"
         ],
-        "nature": "Jolly",
-        "item": "Shell Bell",
+        "nature": "Adamant",
+        "item": "Sharp Beak",
         "isCustomSet": true
         },
     "Aerodactyl6 [E]": {
@@ -220,10 +220,30 @@ var SETDEX_ADV =
             "Double-Edge"
         ],
         "nature": "Jolly",
-        "item": "Choice Band",
+        "item": "Shell Bell",
         "isCustomSet": true
         },
     "Aerodactyl8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Wing Attack",
+            "Rock Slide",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        },
+    "Aerodactyl9 [E]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -243,7 +263,7 @@ var SETDEX_ADV =
         "item": "White Herb",
         "isCustomSet": true
         },
-    "Aerodactyl9 [E]": {
+    "Aerodactyl10 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -261,26 +281,6 @@ var SETDEX_ADV =
         ],
         "nature": "Jolly",
         "item": "Iapapa Berry",
-        "isCustomSet": true
-        },
-    "Aerodactyl10 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Wing Attack",
-            "Protect",
-            "Earthquake",
-            "Roar"
-        ],
-        "nature": "Adamant",
-        "item": "Sharp Beak",
         "isCustomSet": true
         },
     "Aerodactyl11 [E]": {
@@ -336,10 +336,10 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Iron Tail",
+            "Roar",
             "Earthquake",
             "Thunder Wave",
-            "Roar"
+            "Iron Tail"
         ],
         "nature": "Careful",
         "item": "Mago Berry",
@@ -378,54 +378,14 @@ var SETDEX_ADV =
         "moves": [
             "Rock Slide",
             "Earthquake",
-            "Iron Tail",
-            "Double-Edge"
+            "Double-Edge",
+            "Iron Tail"
         ],
         "nature": "Adamant",
         "item": "Choice Band",
         "isCustomSet": true
         },
     "Aggron4 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 170,
-            "at": 170,
-            "df": 0,
-            "sa": 0,
-            "sd": 170,
-            "sp": 0
-        },
-        "moves": [
-            "Substitute",
-            "Focus Punch",
-            "Rock Slide",
-            "Thunder Wave"
-        ],
-        "nature": "Impish",
-        "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Aggron5 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Substitute",
-            "Rock Slide",
-            "Focus Punch",
-            "Endeavor"
-        ],
-        "nature": "Jolly",
-        "item": "Salac Berry",
-        "isCustomSet": true
-        },
-    "Aggron6 [D]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -443,6 +403,46 @@ var SETDEX_ADV =
         ],
         "nature": "Adamant",
         "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Aggron5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Substitute",
+            "Focus Punch",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Aggron6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Substitute",
+            "Focus Punch",
+            "Endeavor"
+        ],
+        "nature": "Jolly",
+        "item": "Salac Berry",
         "isCustomSet": true
         }
     },
@@ -500,9 +500,9 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Psychic",
-            "Light Screen",
-            "Reflect",
+            "Psybeam",
+            "Thunder Wave",
+            "Knock Off",
             "Encore"
         ],
         "nature": "Calm",
@@ -520,12 +520,12 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Psybeam",
-            "Thunder Wave",
-            "Knock Off",
+            "Psychic",
+            "Light Screen",
+            "Reflect",
             "Encore"
         ],
-        "nature": "Calm",
+        "nature": "Timid",
         "item": "Lum Berry",
         "isCustomSet": true
         },
@@ -581,35 +581,15 @@ var SETDEX_ADV =
         },
         "moves": [
             "Psychic",
-            "Thunder Punch",
-            "Fire Punch",
-            "Calm Mind"
-        ],
-        "nature": "Timid",
-        "item": "Lum Berry",
-        "isCustomSet": true
-        },
-    "Alakazam6 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Psychic",
             "Hidden Power",
             "Fire Punch",
             "Ice Punch"
         ],
-        "nature": "Timid",
+        "nature": "Modest",
         "item": "Shell Bell",
         "isCustomSet": true
         },
-    "Alakazam7 [E]": {
+    "Alakazam6 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -627,6 +607,26 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Petaya Berry",
+        "isCustomSet": true
+        },
+    "Alakazam7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Thunder Punch",
+            "Fire Punch",
+            "Calm Mind"
+        ],
+        "nature": "Timid",
+        "item": "Lum Berry",
         "isCustomSet": true
         },
     "Alakazam8 [E]": {
@@ -960,26 +960,6 @@ var SETDEX_ADV =
     "Arcanine4 [D]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Fire Blast",
-            "Protect",
-            "Extreme Speed",
-            "Crunch"
-        ],
-        "nature": "Brave",
-        "item": "Silk Scarf",
-        "isCustomSet": true
-        },
-    "Arcanine5 [D]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -995,6 +975,26 @@ var SETDEX_ADV =
         ],
         "nature": "Rash",
         "item": "White Herb",
+        "isCustomSet": true
+        },
+    "Arcanine5 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Fire Blast",
+            "Protect",
+            "Extreme Speed",
+            "Crunch"
+        ],
+        "nature": "Brave",
+        "item": "Silk Scarf",
         "isCustomSet": true
         },
     "Arcanine6 [D]": {
@@ -1065,26 +1065,6 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Rock Slide",
-            "Brick Break",
-            "Earthquake",
-            "Rock Blast"
-        ],
-        "nature": "Adamant",
-        "item": "Choice Band",
-        "isCustomSet": true
-        },
-    "Armaldo2 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
             "at": 0,
             "df": 0,
             "sa": 0,
@@ -1101,7 +1081,7 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Armaldo3 [D]": {
+    "Armaldo2 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -1121,7 +1101,7 @@ var SETDEX_ADV =
         "item": "Silver Powder",
         "isCustomSet": true
         },
-    "Armaldo4 [D]": {
+    "Armaldo3 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -1139,6 +1119,26 @@ var SETDEX_ADV =
         ],
         "nature": "Jolly",
         "item": "Salac Berry",
+        "isCustomSet": true
+        },
+    "Armaldo4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Brick Break",
+            "Earthquake",
+            "Rock Blast"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
         "isCustomSet": true
         }
     },
@@ -1308,26 +1308,6 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Ice Beam",
-            "Rest",
-            "Haze",
-            "Toxic"
-        ],
-        "nature": "Calm",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Articuno10 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
             "df": 0,
             "sa": 0,
             "sd": 255,
@@ -1340,6 +1320,26 @@ var SETDEX_ADV =
             "Toxic"
         ],
         "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Articuno10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Beam",
+            "Rest",
+            "Haze",
+            "Toxic"
+        ],
+        "nature": "Calm",
         "item": "Chesto Berry",
         "isCustomSet": true
         },
@@ -1380,7 +1380,7 @@ var SETDEX_ADV =
             "Reflect"
         ],
         "nature": "Calm",
-        "item": "Chesto Berry",
+        "item": "Never-Melt Ice",
         "isCustomSet": true
         }
     },
@@ -1760,26 +1760,6 @@ var SETDEX_ADV =
     "Blastoise3 [C]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Hydro Pump",
-            "Ice Beam",
-            "Mirror Coat",
-            "Counter"
-        ],
-        "nature": "Modest",
-        "item": "Shell Bell",
-        "isCustomSet": true
-        },
-    "Blastoise4 [C]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -1796,30 +1776,30 @@ var SETDEX_ADV =
         "nature": "Timid",
         "item": "Petaya Berry",
         "isCustomSet": true
-        }
-    },
-    "Blaziken": {
-        "Blaziken1 [C]": {
+        },
+    "Blastoise4 [C]": {
         "level": 100,
         "evs": {
-            "hp": 0,
+            "hp": 255,
             "at": 0,
             "df": 0,
             "sa": 255,
             "sd": 0,
-            "sp": 255
+            "sp": 0
         },
         "moves": [
-            "Mirror Move",
-            "Brick Break",
-            "Flamethrower",
-            "Thunder Punch"
+            "Hydro Pump",
+            "Ice Beam",
+            "Mirror Coat",
+            "Counter"
         ],
-        "nature": "Hasty",
-        "item": "Charcoal",
+        "nature": "Modest",
+        "item": "Shell Bell",
         "isCustomSet": true
-        },
-    "Blaziken2 [C]": {
+        }
+    },
+    "Blaziken": {
+        "Blaziken1 [C]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -1839,7 +1819,47 @@ var SETDEX_ADV =
         "item": "Choice Band",
         "isCustomSet": true
         },
+    "Blaziken2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Mirror Move",
+            "Brick Break",
+            "Flamethrower",
+            "Thunder Punch"
+        ],
+        "nature": "Hasty",
+        "item": "Charcoal",
+        "isCustomSet": true
+        },
     "Blaziken3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Overheat",
+            "Brick Break",
+            "Blaze Kick",
+            "Thunder Punch"
+        ],
+        "nature": "Hasty",
+        "item": "White Herb",
+        "isCustomSet": true
+        },
+    "Blaziken4 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -1859,7 +1879,7 @@ var SETDEX_ADV =
         "item": "Black Belt",
         "isCustomSet": true
         },
-    "Blaziken4 [D]": {
+    "Blaziken5 [D]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -1877,26 +1897,6 @@ var SETDEX_ADV =
         ],
         "nature": "Jolly",
         "item": "Black Belt",
-        "isCustomSet": true
-        },
-    "Blaziken5 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Overheat",
-            "Brick Break",
-            "Blaze Kick",
-            "Thunder Punch"
-        ],
-        "nature": "Hasty",
-        "item": "White Herb",
         "isCustomSet": true
         },
     "Blaziken6 [D]": {
@@ -2266,66 +2266,6 @@ var SETDEX_ADV =
     "Breloom6 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Rest",
-            "Bulk Up",
-            "Brick Break",
-            "Iron Tail"
-        ],
-        "nature": "Careful",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Breloom7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Frustration",
-            "Swords Dance",
-            "Brick Break",
-            "Iron Tail"
-        ],
-        "nature": "Jolly",
-        "item": "Silk Scarf",
-        "isCustomSet": true
-        },
-    "Breloom8 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Substitute",
-            "Swords Dance",
-            "Sky Uppercut",
-            "Iron Tail"
-        ],
-        "nature": "Adamant",
-        "item": "Salac Berry",
-        "isCustomSet": true
-        },
-    "Breloom9 [E]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 255,
             "df": 0,
@@ -2335,15 +2275,15 @@ var SETDEX_ADV =
         },
         "moves": [
             "Spore",
-            "Swords Dance",
+            "Mach Punch",
             "Sky Uppercut",
-            "Iron Tail"
+            "Focus Punch"
         ],
         "nature": "Jolly",
-        "item": "Metal Coat",
+        "item": "Black Belt",
         "isCustomSet": true
         },
-    "Breloom10 [E]": {
+    "Breloom7 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -2363,7 +2303,7 @@ var SETDEX_ADV =
         "item": "Miracle Seed",
         "isCustomSet": true
         },
-    "Breloom11 [E]": {
+    "Breloom8 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -2375,12 +2315,72 @@ var SETDEX_ADV =
         },
         "moves": [
             "Spore",
-            "Mach Punch",
+            "Swords Dance",
             "Sky Uppercut",
-            "Focus Punch"
+            "Iron Tail"
         ],
         "nature": "Jolly",
-        "item": "Black Belt",
+        "item": "Metal Coat",
+        "isCustomSet": true
+        },
+    "Breloom9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Swords Dance",
+            "Sky Uppercut",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        },
+    "Breloom10 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Frustration",
+            "Swords Dance",
+            "Brick Break",
+            "Iron Tail"
+        ],
+        "nature": "Jolly",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        },
+    "Breloom11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Bulk Up",
+            "Brick Break",
+            "Iron Tail"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Breloom12 [E]": {
@@ -2494,26 +2494,6 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Earthquake",
-            "Overheat",
-            "Explosion",
-            "Rock Tomb"
-        ],
-        "nature": "Brave",
-        "item": "Sitrus Berry",
-        "isCustomSet": true
-        },
-    "Camerupt2 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
             "df": 255,
             "sa": 0,
             "sd": 0,
@@ -2529,27 +2509,27 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Camerupt3 [C]": {
+    "Camerupt2 [B]": {
         "level": 100,
         "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
-            "sa": 0,
-            "sd": 255,
+            "sa": 255,
+            "sd": 0,
             "sp": 0
         },
         "moves": [
             "Earthquake",
             "Fire Blast",
             "Explosion",
-            "Rest"
+            "Rock Tomb"
         ],
         "nature": "Brave",
-        "item": "Chesto Berry",
+        "item": "Sitrus Berry",
         "isCustomSet": true
         },
-    "Camerupt4 [C]": {
+    "Camerupt3 [C]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -2567,6 +2547,26 @@ var SETDEX_ADV =
         ],
         "nature": "Hasty",
         "item": "Liechi Berry",
+        "isCustomSet": true
+        },
+    "Camerupt4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Overheat",
+            "Explosion",
+            "Rock Slide"
+        ],
+        "nature": "Brave",
+        "item": "Soft Sand",
         "isCustomSet": true
         }
     },
@@ -2929,35 +2929,15 @@ var SETDEX_ADV =
         },
         "moves": [
             "Dragon Claw",
-            "Counter",
-            "Fire Blast",
-            "Brick Break"
+            "Substitute",
+            "Flamethrower",
+            "Focus Punch"
         ],
         "nature": "Naive",
-        "item": "Mago Berry",
+        "item": "Petaya Berry",
         "isCustomSet": true
         },
     "Charizard3 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 170,
-            "df": 0,
-            "sa": 170,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Dragon Dance",
-            "Frustration",
-            "Flamethrower",
-            "Earthquake"
-        ],
-        "nature": "Naughty",
-        "item": "Silk Scarf",
-        "isCustomSet": true
-        },
-    "Charizard4 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -2969,15 +2949,15 @@ var SETDEX_ADV =
         },
         "moves": [
             "Dragon Claw",
-            "Substitute",
-            "Flamethrower",
-            "Focus Punch"
+            "Counter",
+            "Fire Blast",
+            "Brick Break"
         ],
         "nature": "Naive",
-        "item": "Petaya Berry",
+        "item": "Mago Berry",
         "isCustomSet": true
         },
-    "Charizard5 [E]": {
+    "Charizard4 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -2997,27 +2977,7 @@ var SETDEX_ADV =
         "item": "Dragon Fang",
         "isCustomSet": true
         },
-    "Charizard6 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 170,
-            "at": 170,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Dragon Dance",
-            "Fly",
-            "Rock Slide",
-            "Earthquake"
-        ],
-        "nature": "Adamant",
-        "item": "Lum Berry",
-        "isCustomSet": true
-        },
-    "Charizard7 [E]": {
+    "Charizard5 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -3037,7 +2997,7 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Charizard8 [E]": {
+    "Charizard6 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -3055,6 +3015,46 @@ var SETDEX_ADV =
         ],
         "nature": "Lonely",
         "item": "Sharp Beak",
+        "isCustomSet": true
+        },
+    "Charizard7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Frustration",
+            "Flamethrower",
+            "Earthquake"
+        ],
+        "nature": "Naughty",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        },
+    "Charizard8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Dragon Dance",
+            "Fly",
+            "Rock Slide",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Lum Berry",
         "isCustomSet": true
         }
     },
@@ -3270,26 +3270,6 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Earthquake",
-            "Psychic",
-            "Cosmic Power",
-            "Rest"
-        ],
-        "nature": "Sassy",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Claydol6 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
             "df": 0,
             "sa": 255,
             "sd": 0,
@@ -3303,6 +3283,26 @@ var SETDEX_ADV =
         ],
         "nature": "Quiet",
         "item": "Soft Sand",
+        "isCustomSet": true
+        },
+    "Claydol6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Psychic",
+            "Cosmic Power",
+            "Rest"
+        ],
+        "nature": "Sassy",
+        "item": "Chesto Berry",
         "isCustomSet": true
         }
     },
@@ -3321,7 +3321,7 @@ var SETDEX_ADV =
             "Soft-Boiled",
             "Belly Drum",
             "Meteor Mash",
-            "Mega Kick"
+            "Frustration"
         ],
         "nature": "Jolly",
         "item": "Leftovers",
@@ -3429,7 +3429,27 @@ var SETDEX_ADV =
         }
     },
     "Cloyster": {
-        "Cloyster1 [C]": {
+        "Cloyster1 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Refresh",
+            "Dive",
+            "Toxic",
+            "Hail"
+        ],
+        "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Cloyster2 [B]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -3437,6 +3457,26 @@ var SETDEX_ADV =
             "df": 0,
             "sa": 255,
             "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Icicle Spear",
+            "Surf",
+            "Ice Beam",
+            "Rapid Spin"
+        ],
+        "nature": "Modest",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        },
+    "Cloyster3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
             "sp": 0
         },
         "moves": [
@@ -3449,7 +3489,7 @@ var SETDEX_ADV =
         "item": "Wiki Berry",
         "isCustomSet": true
         },
-    "Cloyster2 [C]": {
+    "Cloyster4 [C]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -3559,6 +3599,26 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sunny Day",
+            "Recover",
+            "Solar Beam",
+            "Ancient Power"
+        ],
+        "nature": "Quiet",
+        "item": "Leppa Berry",
+        "isCustomSet": true
+        },
+    "Cradily2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
             "at": 255,
             "df": 0,
             "sa": 0,
@@ -3575,47 +3635,7 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Cradily2 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Recover",
-            "Sunny Day",
-            "Solar Beam",
-            "Ancient Power"
-        ],
-        "nature": "Quiet",
-        "item": "Leppa Berry",
-        "isCustomSet": true
-        },
     "Cradily3 [C]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Barrier",
-            "Rest",
-            "Toxic",
-            "Amnesia"
-        ],
-        "nature": "Careful",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Cradily4 [C]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -3633,6 +3653,26 @@ var SETDEX_ADV =
         ],
         "nature": "Careful",
         "item": "Hard Stone",
+        "isCustomSet": true
+        },
+    "Cradily4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Barrier",
+            "Rest",
+            "Toxic",
+            "Amnesia"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
         "isCustomSet": true
         }
     },
@@ -4002,7 +4042,7 @@ var SETDEX_ADV =
             "Endure",
             "Flail",
             "Drill Peck",
-            "Steel Wing"
+            "Endeavor"
         ],
         "nature": "Jolly",
         "item": "Salac Berry",
@@ -4093,6 +4133,48 @@ var SETDEX_ADV =
         "isCustomSet": true
         }
     },
+    "Dragonair": {
+        "Dragonair1 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Rest",
+            "Double-Edge",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        },
+    "Dragonair2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunder Wave",
+            "Rest",
+            "Dragon Rage",
+            "Haze"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        }
+    },
     "Dragonite": {
         "Dragonite1 [E]": {
         "level": 100,
@@ -4157,6 +4239,26 @@ var SETDEX_ADV =
     "Dragonite4 [E]": {
         "level": 100,
         "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Substitute",
+            "Twister",
+            "Thunder Wave",
+            "Focus Punch"
+        ],
+        "nature": "Quiet",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        },
+    "Dragonite5 [E]": {
+        "level": 100,
+        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -4174,7 +4276,7 @@ var SETDEX_ADV =
         "item": "Petaya Berry",
         "isCustomSet": true
         },
-    "Dragonite5 [E]": {
+    "Dragonite6 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -4194,7 +4296,7 @@ var SETDEX_ADV =
         "item": "Persim Berry",
         "isCustomSet": true
         },
-    "Dragonite6 [E]": {
+    "Dragonite7 [E]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -4212,26 +4314,6 @@ var SETDEX_ADV =
         ],
         "nature": "Naughty",
         "item": "Lum Berry",
-        "isCustomSet": true
-        },
-    "Dragonite7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Dragon Dance",
-            "Wing Attack",
-            "Earthquake",
-            "Rest"
-        ],
-        "nature": "Adamant",
-        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Dragonite8 [E]": {
@@ -4257,6 +4339,26 @@ var SETDEX_ADV =
     "Dragonite9 [F]": {
         "level": 100,
         "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
+            "Wing Attack",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Dragonite10 [F]": {
+        "level": 100,
+        "evs": {
             "hp": 170,
             "at": 170,
             "df": 0,
@@ -4274,7 +4376,7 @@ var SETDEX_ADV =
         "item": "Sharp Beak",
         "isCustomSet": true
         },
-    "Dragonite10 [F]": {
+    "Dragonite11 [F]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -4294,7 +4396,7 @@ var SETDEX_ADV =
         "item": "Choice Band",
         "isCustomSet": true
         },
-    "Dragonite11 [F]": {
+    "Dragonite12 [F]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -4312,26 +4414,6 @@ var SETDEX_ADV =
         ],
         "nature": "Quiet",
         "item": "Dragon Fang",
-        "isCustomSet": true
-        },
-    "Dragonite12 [F]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Substitute",
-            "Thunder",
-            "Ice Beam",
-            "Focus Punch"
-        ],
-        "nature": "Naive",
-        "item": "Petaya Berry",
         "isCustomSet": true
         }
     },
@@ -4391,8 +4473,8 @@ var SETDEX_ADV =
         "moves": [
             "Magnitude",
             "Charm",
-            "Rest",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Rest"
         ],
         "nature": "Careful",
         "item": "Chesto Berry",
@@ -4431,11 +4513,11 @@ var SETDEX_ADV =
         "moves": [
             "Earthquake",
             "Rock Slide",
-            "Frustration",
-            "Substitute"
+            "Sludge Bomb",
+            "Aerial Ace"
         ],
-        "nature": "Jolly",
-        "item": "Liechi Berry",
+        "nature": "Adamant",
+        "item": "Choice Band",
         "isCustomSet": true
         },
     "Dugtrio4 [D]": {
@@ -4450,12 +4532,12 @@ var SETDEX_ADV =
         },
         "moves": [
             "Earthquake",
-            "Aerial Ace",
-            "Sunny Day",
-            "Charm"
+            "Rock Slide",
+            "Frustration",
+            "Substitute"
         ],
         "nature": "Jolly",
-        "item": "Choice Band",
+        "item": "Liechi Berry",
         "isCustomSet": true
         },
     "Dugtrio5 [D]": {
@@ -4470,11 +4552,11 @@ var SETDEX_ADV =
         },
         "moves": [
             "Earthquake",
-            "Aerial Ace",
-            "Rock Slide",
-            "Sludge Bomb"
+            "Charm",
+            "Sunny Day",
+            "Aerial Ace"
         ],
-        "nature": "Adamant",
+        "nature": "Jolly",
         "item": "Choice Band",
         "isCustomSet": true
         },
@@ -4548,26 +4630,6 @@ var SETDEX_ADV =
             "hp": 255,
             "at": 0,
             "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Shadow Ball",
-            "Pain Split",
-            "Ice Beam",
-            "Will-o-Wisp"
-        ],
-        "nature": "Relaxed",
-        "item": "Sitrus Berry",
-        "isCustomSet": true
-        },
-    "Dusclops2 [C]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
             "sa": 0,
             "sd": 0,
             "sp": 255
@@ -4582,27 +4644,27 @@ var SETDEX_ADV =
         "item": "Salac Berry",
         "isCustomSet": true
         },
-    "Dusclops3 [D]": {
+    "Dusclops2 [C]": {
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
+            "at": 0,
             "df": 0,
-            "sa": 0,
+            "sa": 255,
             "sd": 0,
             "sp": 0
         },
         "moves": [
             "Shadow Ball",
-            "Substitute",
-            "Focus Punch",
-            "Pain Split"
+            "Pain Split",
+            "Ice Beam",
+            "Will-o-Wisp"
         ],
-        "nature": "Careful",
-        "item": "Leftovers",
+        "nature": "Relaxed",
+        "item": "Sitrus Berry",
         "isCustomSet": true
         },
-    "Dusclops4 [D]": {
+    "Dusclops3 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -4622,6 +4684,26 @@ var SETDEX_ADV =
         "item": "Sitrus Berry",
         "isCustomSet": true
         },
+    "Dusclops4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Shadow Ball",
+            "Pain Split",
+            "Substitute",
+            "Focus Punch"
+        ],
+        "nature": "Careful",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
     "Dusclops5 [D]": {
         "level": 100,
         "evs": {
@@ -4634,9 +4716,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Shadow Ball",
-            "Will-o-Wisp",
             "Rest",
-            "Imprison"
+            "Imprison",
+            "Will-o-Wisp"
         ],
         "nature": "Careful",
         "item": "Chesto Berry",
@@ -4654,9 +4736,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Shadow Punch",
-            "Will-o-Wisp",
             "Rest",
-            "Skill Swap"
+            "Skill Swap",
+            "Will-o-Wisp"
         ],
         "nature": "Impish",
         "item": "Leftovers",
@@ -4676,9 +4758,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Substitute",
-            "Will-o-Wisp",
             "Pain Split",
-            "Night Shade"
+            "Night Shade",
+            "Will-o-Wisp"
         ],
         "nature": "Bold",
         "item": "Sitrus Berry",
@@ -4696,9 +4778,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Curse",
-            "Will-o-Wisp",
             "Pain Split",
-            "Night Shade"
+            "Night Shade",
+            "Will-o-Wisp"
         ],
         "nature": "Calm",
         "item": "Sitrus Berry",
@@ -4780,7 +4862,7 @@ var SETDEX_ADV =
         },
         "moves": [
             "Thunderbolt",
-            "Cross Chop",
+            "Rolling Kick",
             "Psychic",
             "Ice Punch"
         ],
@@ -4791,26 +4873,6 @@ var SETDEX_ADV =
     },
     "Electrode": {
         "Electrode1 [C]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Thunderbolt",
-            "Explosion",
-            "Substitute",
-            "Hidden Power"
-        ],
-        "nature": "Calm",
-        "item": "Petaya Berry",
-        "isCustomSet": true
-        },
-    "Electrode2 [C]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -4830,27 +4892,7 @@ var SETDEX_ADV =
         "item": "Sitrus Berry",
         "isCustomSet": true
         },
-    "Electrode3 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Thunder",
-            "Explosion",
-            "Rain Dance",
-            "Light Screen"
-        ],
-        "nature": "Hasty",
-        "item": "Magnet",
-        "isCustomSet": true
-        },
-    "Electrode4 [D]": {
+    "Electrode2 [C]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -4863,14 +4905,34 @@ var SETDEX_ADV =
         "moves": [
             "Thunderbolt",
             "Explosion",
-            "Thunder Wave",
-            "Light Screen"
+            "Substitute",
+            "Hidden Power"
         ],
-        "nature": "Mild",
-        "item": "Sitrus Berry",
+        "nature": "Calm",
+        "item": "Petaya Berry",
         "isCustomSet": true
         },
-    "Electrode5 [D]": {
+    "Electrode3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Mirror Coat",
+            "Hidden Power"
+        ],
+        "nature": "Lonely",
+        "item": "Lum Berry",
+        "isCustomSet": true
+        },
+    "Electrode4 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -4890,24 +4952,44 @@ var SETDEX_ADV =
         "item": "Black Glasses",
         "isCustomSet": true
         },
-    "Electrode6 [D]": {
+    "Electrode5 [D]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 0,
             "at": 0,
             "df": 0,
-            "sa": 0,
+            "sa": 255,
             "sd": 0,
             "sp": 255
         },
         "moves": [
             "Thunderbolt",
             "Explosion",
-            "Mirror Coat",
-            "Hidden Power"
+            "Thunder Wave",
+            "Light Screen"
         ],
-        "nature": "Lonely",
-        "item": "Lum Berry",
+        "nature": "Mild",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        },
+    "Electrode6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Thunderbolt",
+            "Explosion",
+            "Rain Dance",
+            "Thunder"
+        ],
+        "nature": "Hasty",
+        "item": "Magnet",
         "isCustomSet": true
         }
     },
@@ -5087,7 +5169,7 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Psybeam",
+            "Tickle",
             "Dig",
             "Wish",
             "Body Slam"
@@ -5107,7 +5189,7 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Psychic",
+            "Psybeam",
             "Baton Pass",
             "Substitute",
             "Light Screen"
@@ -5212,7 +5294,7 @@ var SETDEX_ADV =
             "Morning Sun",
             "Hidden Power"
         ],
-        "nature": "Impish",
+        "nature": "Modest",
         "item": "Lum Berry",
         "isCustomSet": true
         },
@@ -5283,6 +5365,26 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Wish",
+            "Explosion",
+            "Stun Spore",
+            "Sludge Bomb"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        },
+    "Exeggutor2 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
             "df": 0,
             "sa": 255,
             "sd": 0,
@@ -5298,27 +5400,27 @@ var SETDEX_ADV =
         "item": "Miracle Seed",
         "isCustomSet": true
         },
-    "Exeggutor2 [C]": {
+    "Exeggutor3 [D]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 0,
             "at": 0,
             "df": 255,
             "sa": 0,
             "sd": 0,
-            "sp": 0
+            "sp": 255
         },
         "moves": [
-            "Wish",
-            "Explosion",
-            "Sludge Bomb",
-            "Stun Spore"
+            "Substitute",
+            "Sleep Powder",
+            "Dream Eater",
+            "Leech Seed"
         ],
-        "nature": "Careful",
-        "item": "Mago Berry",
+        "nature": "Calm",
+        "item": "Twisted Spoon",
         "isCustomSet": true
         },
-    "Exeggutor3 [D]": {
+    "Exeggutor4 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -5338,7 +5440,7 @@ var SETDEX_ADV =
         "item": "Leftovers",
         "isCustomSet": true
         },
-    "Exeggutor4 [D]": {
+    "Exeggutor5 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -5358,7 +5460,7 @@ var SETDEX_ADV =
         "item": "Lum Berry",
         "isCustomSet": true
         },
-    "Exeggutor5 [D]": {
+    "Exeggutor6 [D]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -5376,26 +5478,6 @@ var SETDEX_ADV =
         ],
         "nature": "Modest",
         "item": "Miracle Seed",
-        "isCustomSet": true
-        },
-    "Exeggutor6 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Substitute",
-            "Sleep Powder",
-            "Dream Eater",
-            "Leech Seed"
-        ],
-        "nature": "Calm",
-        "item": "Twisted Spoon",
         "isCustomSet": true
         }
     },
@@ -5527,6 +5609,26 @@ var SETDEX_ADV =
     "Fearow3 [B]": {
         "level": 100,
         "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Drill Peck",
+            "Frustration",
+            "Steel Wing",
+            "Agility"
+        ],
+        "nature": "Adamant",
+        "item": "Silk Scarf",
+        "isCustomSet": true
+        },
+    "Fearow4 [B]": {
+        "level": 100,
+        "evs": {
             "hp": 0,
             "at": 255,
             "df": 0,
@@ -5543,50 +5645,10 @@ var SETDEX_ADV =
         "nature": "Jolly",
         "item": "Choice Band",
         "isCustomSet": true
-        },
-    "Fearow4 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Drill Peck",
-            "Double-Edge",
-            "Steel Wing",
-            "Agility"
-        ],
-        "nature": "Adamant",
-        "item": "Silk Scarf",
-        "isCustomSet": true
         }
     },
     "Feraligatr": {
         "Feraligatr1 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Surf",
-            "Rain Dance",
-            "Brick Break",
-            "Ice Beam"
-        ],
-        "nature": "Quiet",
-        "item": "Mystic Water",
-        "isCustomSet": true
-        },
-    "Feraligatr2 [B]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -5598,15 +5660,55 @@ var SETDEX_ADV =
         },
         "moves": [
             "Surf",
-            "Rain Dance",
             "Substitute",
+            "Rain Dance",
             "Hydro Cannon"
         ],
         "nature": "Timid",
         "item": "Petaya Berry",
         "isCustomSet": true
         },
+    "Feraligatr2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Dragon Claw",
+            "Crunch",
+            "Ice Beam"
+        ],
+        "nature": "Bold",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        },
     "Feraligatr3 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Surf",
+            "Earthquake",
+            "Brick Break",
+            "Ice Beam"
+        ],
+        "nature": "Naive",
+        "item": "Black Belt",
+        "isCustomSet": true
+        },
+    "Feraligatr4 [C]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -5623,26 +5725,6 @@ var SETDEX_ADV =
             "Ice Beam"
         ],
         "nature": "Timid",
-        "item": "Petaya Berry",
-        "isCustomSet": true
-        },
-    "Feraligatr4 [C]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Surf",
-            "Substitute",
-            "Focus Punch",
-            "Ice Beam"
-        ],
-        "nature": "Quiet",
         "item": "Petaya Berry",
         "isCustomSet": true
         }
@@ -5673,10 +5755,10 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 0,
+            "df": 255,
             "sa": 0,
             "sd": 0,
-            "sp": 255
+            "sp": 0
         },
         "moves": [
             "Thunderbolt",
@@ -5684,7 +5766,7 @@ var SETDEX_ADV =
             "Fire Punch",
             "Cotton Spore"
         ],
-        "nature": "Timid",
+        "nature": "Modest",
         "item": "Magnet",
         "isCustomSet": true
         }
@@ -5775,46 +5857,6 @@ var SETDEX_ADV =
         "Flygon1 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Dig",
-            "Rest",
-            "Sleep Talk",
-            "Fly"
-        ],
-        "nature": "Impish",
-        "item": "Sharp Beak",
-        "isCustomSet": true
-        },
-    "Flygon2 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Dig",
-            "Substitute",
-            "Toxic",
-            "Flamethrower"
-        ],
-        "nature": "Impish",
-        "item": "Aguav Berry",
-        "isCustomSet": true
-        },
-    "Flygon3 [E]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -5832,7 +5874,7 @@ var SETDEX_ADV =
         "item": "Charcoal",
         "isCustomSet": true
         },
-    "Flygon4 [E]": {
+    "Flygon2 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -5849,10 +5891,30 @@ var SETDEX_ADV =
             "Flamethrower"
         ],
         "nature": "Modest",
-        "item": "Shell Bell",
+        "item": "Lum Berry",
         "isCustomSet": true
         },
-    "Flygon5 [E]": {
+    "Flygon3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Tomb",
+            "Dragon Breath",
+            "Flamethrower"
+        ],
+        "nature": "Sassy",
+        "item": "Aguav Berry",
+        "isCustomSet": true
+        },
+    "Flygon4 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -5864,11 +5926,31 @@ var SETDEX_ADV =
         },
         "moves": [
             "Earthquake",
-            "Rock Tomb",
-            "Dragon Breath",
-            "Flamethrower"
+            "Steel Wing",
+            "Toxic",
+            "Rest"
         ],
-        "nature": "Relaxed",
+        "nature": "Impish",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Flygon5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Toxic",
+            "Mimic"
+        ],
+        "nature": "Jolly",
         "item": "Aguav Berry",
         "isCustomSet": true
         },
@@ -6057,26 +6139,6 @@ var SETDEX_ADV =
     "Forretress3 [D]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Explosion",
-            "Body Slam",
-            "Earthquake",
-            "Pin Missile"
-        ],
-        "nature": "Jolly",
-        "item": "Choice Band",
-        "isCustomSet": true
-        },
-    "Forretress4 [D]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -6094,50 +6156,50 @@ var SETDEX_ADV =
         "item": "Sitrus Berry",
         "isCustomSet": true
         },
+    "Forretress4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Explosion",
+            "Rock Slide",
+            "Earthquake",
+            "Pin Missile"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
+        },
     "Forretress5 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 0,
+            "at": 255,
             "df": 0,
             "sa": 0,
-            "sd": 255,
+            "sd": 0,
             "sp": 0
         },
         "moves": [
             "Explosion",
-            "Zap Cannon",
+            "Rock Slide",
             "Earthquake",
-            "Giga Drain"
+            "Body Slam"
         ],
-        "nature": "Brave",
-        "item": "Soft Sand",
+        "nature": "Adamant",
+        "item": "Silk Scarf",
         "isCustomSet": true
         },
     "Forretress6 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Explosion",
-            "Rock Slide",
-            "Earthquake",
-            "Giga Drain"
-        ],
-        "nature": "Sassy",
-        "item": "Shell Bell",
-        "isCustomSet": true
-        },
-    "Forretress7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
             "at": 0,
             "df": 0,
             "sa": 0,
@@ -6146,35 +6208,15 @@ var SETDEX_ADV =
         },
         "moves": [
             "Explosion",
-            "Rock Slide",
+            "Giga Drain",
             "Earthquake",
-            "Counter"
+            "Rapid Spin"
         ],
-        "nature": "Careful",
-        "item": "Mago Berry",
+        "nature": "Sassy",
+        "item": "Wiki Berry",
         "isCustomSet": true
         },
-    "Forretress8 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Explosion",
-            "Rock Slide",
-            "Earthquake",
-            "Double-Edge"
-        ],
-        "nature": "Adamant",
-        "item": "Choice Band",
-        "isCustomSet": true
-        },
-    "Forretress9 [E]": {
+    "Forretress7 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -6194,6 +6236,46 @@ var SETDEX_ADV =
         "item": "Salac Berry",
         "isCustomSet": true
         },
+    "Forretress8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Counter",
+            "Earthquake",
+            "Pin Missile"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        },
+    "Forretress9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Explosion",
+            "Spikes",
+            "Earthquake",
+            "Toxic"
+        ],
+        "nature": "Careful",
+        "item": "Mago Berry",
+        "isCustomSet": true
+        },
     "Forretress10 [E]": {
         "level": 100,
         "evs": {
@@ -6206,35 +6288,15 @@ var SETDEX_ADV =
         },
         "moves": [
             "Explosion",
-            "Body Slam",
+            "Spikes",
             "Earthquake",
-            "Spikes"
+            "Rapid Spin"
         ],
         "nature": "Careful",
         "item": "Mago Berry",
         "isCustomSet": true
         },
     "Forretress11 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Spikes",
-            "Rest",
-            "Earthquake",
-            "Light Screen"
-        ],
-        "nature": "Careful",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Forretress12 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -6252,6 +6314,26 @@ var SETDEX_ADV =
         ],
         "nature": "Careful",
         "item": "Mago Berry",
+        "isCustomSet": true
+        },
+    "Forretress12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Spikes",
+            "Zap Cannon",
+            "Rest",
+            "Rapid Spin"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
         "isCustomSet": true
         }
     },
@@ -6441,26 +6523,6 @@ var SETDEX_ADV =
     "Gardevoir8 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Calm Mind",
-            "Fire Punch",
-            "Psychic",
-            "Thunderbolt"
-        ],
-        "nature": "Bold",
-        "item": "Twisted Spoon",
-        "isCustomSet": true
-        },
-    "Gardevoir9 [E]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -6476,6 +6538,26 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Salac Berry",
+        "isCustomSet": true
+        },
+    "Gardevoir9 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Fire Punch",
+            "Psychic",
+            "Thunderbolt"
+        ],
+        "nature": "Bold",
+        "item": "Twisted Spoon",
         "isCustomSet": true
         },
     "Gardevoir10 [E]": {
@@ -6514,7 +6596,7 @@ var SETDEX_ADV =
             "Psychic",
             "Calm Mind"
         ],
-        "nature": "Calm",
+        "nature": "Timid",
         "item": "Twisted Spoon",
         "isCustomSet": true
         },
@@ -6565,6 +6647,46 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Ice Punch",
+            "Fire Punch",
+            "Thunderbolt",
+            "Hypnosis"
+        ],
+        "nature": "Modest",
+        "item": "Wiki Berry",
+        "isCustomSet": true
+        },
+    "Gengar3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Psychic",
+            "Explosion",
+            "Giga Drain",
+            "Hypnosis"
+        ],
+        "nature": "Hasty",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        },
+    "Gengar4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
             "df": 255,
             "sa": 0,
             "sd": 0,
@@ -6580,7 +6702,7 @@ var SETDEX_ADV =
         "item": "Miracle Seed",
         "isCustomSet": true
         },
-    "Gengar3 [E]": {
+    "Gengar5 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -6599,7 +6721,27 @@ var SETDEX_ADV =
         "nature": "Timid",
         "isCustomSet": true
         },
-    "Gengar4 [E]": {
+    "Gengar6 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 170
+        },
+        "moves": [
+            "Ice Punch",
+            "Will-o-Wisp",
+            "Thunderbolt",
+            "Taunt"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Gengar7 [E]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -6619,27 +6761,7 @@ var SETDEX_ADV =
         "item": "Lum Berry",
         "isCustomSet": true
         },
-    "Gengar5 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Ice Punch",
-            "Fire Punch",
-            "Thunderbolt",
-            "Hypnosis"
-        ],
-        "nature": "Modest",
-        "item": "Wiki Berry",
-        "isCustomSet": true
-        },
-    "Gengar6 [E]": {
+    "Gengar8 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -6657,46 +6779,6 @@ var SETDEX_ADV =
         ],
         "nature": "Modest",
         "item": "Salac Berry",
-        "isCustomSet": true
-        },
-    "Gengar7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Giga Drain",
-            "Explosion",
-            "Thunderbolt",
-            "Hypnosis"
-        ],
-        "nature": "Hasty",
-        "item": "Silk Scarf",
-        "isCustomSet": true
-        },
-    "Gengar8 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 170,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 170,
-            "sp": 170
-        },
-        "moves": [
-            "Ice Punch",
-            "Will-o-Wisp",
-            "Thunderbolt",
-            "Taunt"
-        ],
-        "nature": "Timid",
-        "item": "Leftovers",
         "isCustomSet": true
         },
     "Gengar9 [F]": {
@@ -6722,26 +6804,6 @@ var SETDEX_ADV =
     "Gengar10 [F]": {
         "level": 100,
         "evs": {
-            "hp": 170,
-            "at": 0,
-            "df": 0,
-            "sa": 170,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Explosion",
-            "Thunderbolt",
-            "Ice Punch",
-            "Hypnosis"
-        ],
-        "nature": "Timid",
-        "item": "Never-Melt Ice",
-        "isCustomSet": true
-        },
-    "Gengar11 [F]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -6757,6 +6819,26 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Twisted Spoon",
+        "isCustomSet": true
+        },
+    "Gengar11 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Ice Punch",
+            "Explosion",
+            "Thunderbolt",
+            "Hypnosis"
+        ],
+        "nature": "Timid",
+        "item": "Never-Melt Ice",
         "isCustomSet": true
         },
     "Gengar12 [F]": {
@@ -6825,26 +6907,6 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Double-Edge",
-            "Earthquake",
-            "Shadow Ball",
-            "Iron Tail"
-        ],
-        "nature": "Adamant",
-        "item": "Choice Band",
-        "isCustomSet": true
-        },
-    "Girafarig4 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
             "at": 0,
             "df": 255,
             "sa": 0,
@@ -6859,6 +6921,26 @@ var SETDEX_ADV =
         ],
         "nature": "Bold",
         "item": "Twisted Spoon",
+        "isCustomSet": true
+        },
+    "Girafarig4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Earthquake",
+            "Shadow Ball",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
         "isCustomSet": true
         }
     },
@@ -7032,26 +7114,6 @@ var SETDEX_ADV =
     "Golduck3 [C]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Calm Mind",
-            "Hypnosis",
-            "Hydro Pump",
-            "Ice Beam"
-        ],
-        "nature": "Modest",
-        "item": "Mystic Water",
-        "isCustomSet": true
-        },
-    "Golduck4 [C]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -7067,6 +7129,26 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Golduck4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Calm Mind",
+            "Hypnosis",
+            "Hydro Pump",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
         "isCustomSet": true
         }
     },
@@ -7372,9 +7454,9 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Roar",
-            "Body Slam",
             "Thunder Wave",
+            "Body Slam",
+            "Roar",
             "Rest"
         ],
         "nature": "Careful",
@@ -7382,6 +7464,46 @@ var SETDEX_ADV =
         "isCustomSet": true
         },
     "Gyarados2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Twister",
+            "Frustration",
+            "Earthquake",
+            "Thunder Wave"
+        ],
+        "nature": "Relaxed",
+        "item": "Figy Berry",
+        "isCustomSet": true
+        },
+    "Gyarados3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Toxic",
+            "Double-Edge",
+            "Earthquake",
+            "Taunt"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Gyarados4 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -7401,7 +7523,7 @@ var SETDEX_ADV =
         "item": "Mystic Water",
         "isCustomSet": true
         },
-    "Gyarados3 [D]": {
+    "Gyarados5 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -7421,7 +7543,7 @@ var SETDEX_ADV =
         "item": "Black Glasses",
         "isCustomSet": true
         },
-    "Gyarados4 [D]": {
+    "Gyarados6 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -7439,46 +7561,6 @@ var SETDEX_ADV =
         ],
         "nature": "Adamant",
         "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Gyarados5 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Dragon Dance",
-            "Double-Edge",
-            "Earthquake",
-            "Rest"
-        ],
-        "nature": "Careful",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Gyarados6 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Dragon Dance",
-            "Flail",
-            "Earthquake",
-            "Substitute"
-        ],
-        "nature": "Adamant",
-        "item": "Liechi Berry",
         "isCustomSet": true
         },
     "Gyarados7 [E]": {
@@ -7544,26 +7626,6 @@ var SETDEX_ADV =
     "Gyarados10 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Roar",
-            "Frustration",
-            "Earthquake",
-            "Thunder Wave"
-        ],
-        "nature": "Impish",
-        "item": "Figy Berry",
-        "isCustomSet": true
-        },
-    "Gyarados11 [E]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 255,
             "df": 0,
@@ -7572,13 +7634,33 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
-            "Toxic",
+            "Dragon Dance",
+            "Flail",
+            "Earthquake",
+            "Substitute"
+        ],
+        "nature": "Adamant",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        },
+    "Gyarados11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Dragon Dance",
             "Double-Edge",
             "Earthquake",
-            "Taunt"
+            "Rest"
         ],
-        "nature": "Jolly",
-        "item": "Leftovers",
+        "nature": "Careful",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Gyarados12 [E]": {
@@ -7598,7 +7680,7 @@ var SETDEX_ADV =
             "Rest"
         ],
         "nature": "Careful",
-        "item": "Shell Bell",
+        "item": "Silk Scarf",
         "isCustomSet": true
         }
     },
@@ -8174,6 +8256,26 @@ var SETDEX_ADV =
         "Hitmonlee1 [B]": {
         "level": 100,
         "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Brick Break",
+            "Earthquake",
+            "Rock Slide",
+            "Bulk Up"
+        ],
+        "nature": "Careful",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        },
+    "Hitmonlee2 [B]": {
+        "level": 100,
+        "evs": {
             "hp": 0,
             "at": 255,
             "df": 0,
@@ -8189,26 +8291,6 @@ var SETDEX_ADV =
         ],
         "nature": "Jolly",
         "item": "Salac Berry",
-        "isCustomSet": true
-        },
-    "Hitmonlee2 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Brick Break",
-            "Earthquake",
-            "Rock Slide",
-            "Bulk Up"
-        ],
-        "nature": "Careful",
-        "item": "Sitrus Berry",
         "isCustomSet": true
         },
     "Hitmonlee3 [C]": {
@@ -8500,26 +8582,6 @@ var SETDEX_ADV =
         "evs": {
             "hp": 0,
             "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Protect",
-            "Spite",
-            "Bite",
-            "Substitute"
-        ],
-        "nature": "Timid",
-        "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Houndoom12 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
             "df": 0,
             "sa": 255,
             "sd": 0,
@@ -8533,6 +8595,26 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Lum Berry",
+        "isCustomSet": true
+        },
+    "Houndoom12 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Protect",
+            "Spite",
+            "Bite",
+            "Substitute"
+        ],
+        "nature": "Timid",
+        "item": "Leftovers",
         "isCustomSet": true
         }
     },
@@ -9161,12 +9243,12 @@ var SETDEX_ADV =
         },
         "moves": [
             "Lovely Kiss",
-            "Fake Tears",
+            "Substitute",
             "Ice Beam",
-            "Psychic"
+            "Dream Eater"
         ],
-        "nature": "Timid",
-        "item": "Never-Melt Ice",
+        "nature": "Modest",
+        "item": "Shell Bell",
         "isCustomSet": true
         },
     "Jynx2 [D]": {
@@ -9181,12 +9263,12 @@ var SETDEX_ADV =
         },
         "moves": [
             "Lovely Kiss",
-            "Substitute",
+            "Fake Tears",
             "Ice Beam",
-            "Dream Eater"
+            "Psychic"
         ],
-        "nature": "Modest",
-        "item": "Shell Bell",
+        "nature": "Timid",
+        "item": "Never-Melt Ice",
         "isCustomSet": true
         },
     "Jynx3 [D]": {
@@ -9200,10 +9282,10 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Rest",
+            "Lovely Kiss",
             "Calm Mind",
             "Ice Beam",
-            "Psychic"
+            "Rest"
         ],
         "nature": "Bold",
         "item": "Chesto Berry",
@@ -9234,26 +9316,6 @@ var SETDEX_ADV =
         "Kabutops1 [A]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Brick Break",
-            "Rock Slide",
-            "Surf",
-            "Swords Dance"
-        ],
-        "nature": "Naive",
-        "item": "Lum Berry",
-        "isCustomSet": true
-        },
-    "Kabutops2 [A]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -9269,6 +9331,26 @@ var SETDEX_ADV =
         ],
         "nature": "Impish",
         "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Kabutops2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Rock Slide",
+            "Surf",
+            "Swords Dance"
+        ],
+        "nature": "Naive",
+        "item": "Lum Berry",
         "isCustomSet": true
         },
     "Kabutops3 [B]": {
@@ -9590,9 +9672,9 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Surf",
-            "Disable",
             "Dragon Breath",
+            "Disable",
+            "Surf",
             "Rest"
         ],
         "nature": "Bold",
@@ -9810,26 +9892,6 @@ var SETDEX_ADV =
         "evs": {
             "hp": 0,
             "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Surf",
-            "Thunderbolt",
-            "Toxic",
-            "Rest"
-        ],
-        "nature": "Calm",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Lanturn6 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
             "df": 170,
             "sa": 170,
             "sd": 170,
@@ -9843,6 +9905,26 @@ var SETDEX_ADV =
         ],
         "nature": "Bold",
         "item": "Aguav Berry",
+        "isCustomSet": true
+        },
+    "Lanturn6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Thunderbolt",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
         "isCustomSet": true
         }
     },
@@ -10018,13 +10100,13 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Rest",
+            "Psychic",
             "Surf",
             "Ice Beam",
             "Thunderbolt"
         ],
-        "nature": "Calm",
-        "item": "Chesto Berry",
+        "nature": "Modest",
+        "item": "Never-Melt Ice",
         "isCustomSet": true
         },
     "Lapras10 [E]": {
@@ -11404,26 +11486,6 @@ var SETDEX_ADV =
         "Marowak1 [D]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Swords Dance",
-            "Bonemerang",
-            "Rock Slide",
-            "Double-Edge"
-        ],
-        "nature": "Jolly",
-        "item": "Thick Club",
-        "isCustomSet": true
-        },
-    "Marowak2 [D]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 255,
             "df": 0,
@@ -11438,6 +11500,26 @@ var SETDEX_ADV =
             "Icy Wind"
         ],
         "nature": "Brave",
+        "item": "Thick Club",
+        "isCustomSet": true
+        },
+    "Marowak2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Swords Dance",
+            "Bonemerang",
+            "Rock Slide",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
         "item": "Thick Club",
         "isCustomSet": true
         },
@@ -11612,24 +11694,44 @@ var SETDEX_ADV =
         "Medicham1 [D]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
+            "hp": 0,
+            "at": 255,
+            "df": 0,
             "sa": 0,
             "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Substitute",
+            "Mind Reader",
+            "Rock Slide",
+            "Dynamic Punch"
+        ],
+        "nature": "Jolly",
+        "item": "Liechi Berry",
+        "isCustomSet": true
+        },
+    "Medicham2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
             "sp": 0
         },
         "moves": [
             "Brick Break",
-            "Bulk Up",
             "Recover",
+            "Bulk Up",
             "Foresight"
         ],
-        "nature": "Impish",
+        "nature": "Careful",
         "item": "Black Belt",
         "isCustomSet": true
         },
-    "Medicham2 [D]": {
+    "Medicham3 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -11649,7 +11751,7 @@ var SETDEX_ADV =
         "item": "Iapapa Berry",
         "isCustomSet": true
         },
-    "Medicham3 [D]": {
+    "Medicham4 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -11669,27 +11771,27 @@ var SETDEX_ADV =
         "item": "Silk Scarf",
         "isCustomSet": true
         },
-    "Medicham4 [D]": {
+    "Medicham5 [E]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
+            "hp": 255,
+            "at": 0,
+            "df": 255,
             "sa": 0,
             "sd": 0,
-            "sp": 255
+            "sp": 0
         },
         "moves": [
-            "Dynamic Punch",
-            "Mind Reader",
-            "Rock Slide",
-            "Substitute"
+            "Brick Break",
+            "Recover",
+            "Bulk Up",
+            "Shadow Ball"
         ],
-        "nature": "Jolly",
-        "item": "Liechi Berry",
+        "nature": "Impish",
+        "item": "Lum Berry",
         "isCustomSet": true
         },
-    "Medicham5 [E]": {
+    "Medicham6 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -11709,7 +11811,7 @@ var SETDEX_ADV =
         "item": "Iapapa Berry",
         "isCustomSet": true
         },
-    "Medicham6 [E]": {
+    "Medicham7 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -11729,7 +11831,7 @@ var SETDEX_ADV =
         "item": "Choice Band",
         "isCustomSet": true
         },
-    "Medicham7 [E]": {
+    "Medicham8 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -11749,7 +11851,7 @@ var SETDEX_ADV =
         "item": "Black Belt",
         "isCustomSet": true
         },
-    "Medicham8 [E]": {
+    "Medicham9 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -11769,7 +11871,7 @@ var SETDEX_ADV =
         "item": "Liechi Berry",
         "isCustomSet": true
         },
-    "Medicham9 [E]": {
+    "Medicham10 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -11789,7 +11891,7 @@ var SETDEX_ADV =
         "item": "Salac Berry",
         "isCustomSet": true
         },
-    "Medicham10 [E]": {
+    "Medicham11 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -11807,26 +11909,6 @@ var SETDEX_ADV =
         ],
         "nature": "Jolly",
         "item": "Salac Berry",
-        "isCustomSet": true
-        },
-    "Medicham11 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Brick Break",
-            "Bulk Up",
-            "Recover",
-            "Shadow Ball"
-        ],
-        "nature": "Careful",
-        "item": "Lum Berry",
         "isCustomSet": true
         },
     "Medicham12 [E]": {
@@ -11944,16 +12026,36 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Meteor Mash",
+            "Sleep Talk",
             "Iron Defense",
-            "Rest",
-            "Sleep Talk"
+            "Meteor Mash",
+            "Rest"
         ],
         "nature": "Careful",
         "item": "Metal Coat",
         "isCustomSet": true
         },
     "Metagross2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Toxic",
+            "Meteor Mash",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Metagross3 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -11964,16 +12066,36 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Meteor Mash",
-            "Toxic",
             "Earthquake",
+            "Toxic",
+            "Meteor Mash",
             "Protect"
         ],
         "nature": "Impish",
         "item": "Leftovers",
         "isCustomSet": true
         },
-    "Metagross3 [E]": {
+    "Metagross4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Meteor Mash",
+            "Endure"
+        ],
+        "nature": "Adamant",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        },
+    "Metagross5 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -11984,16 +12106,16 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Meteor Mash",
-            "Explosion",
             "Thunder Punch",
+            "Explosion",
+            "Meteor Mash",
             "Psychic"
         ],
         "nature": "Quiet",
         "item": "Twisted Spoon",
         "isCustomSet": true
         },
-    "Metagross4 [E]": {
+    "Metagross6 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -12013,46 +12135,6 @@ var SETDEX_ADV =
         "item": "Choice Band",
         "isCustomSet": true
         },
-    "Metagross5 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 170,
-            "at": 170,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Meteor Mash",
-            "Rock Slide",
-            "Earthquake",
-            "Agility"
-        ],
-        "nature": "Jolly",
-        "item": "Lum Berry",
-        "isCustomSet": true
-        },
-    "Metagross6 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Meteor Mash",
-            "Explosion",
-            "Earthquake",
-            "Endure"
-        ],
-        "nature": "Adamant",
-        "item": "Salac Berry",
-        "isCustomSet": true
-        },
     "Metagross7 [E]": {
         "level": 100,
         "evs": {
@@ -12064,9 +12146,9 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Meteor Mash",
-            "Explosion",
             "Substitute",
+            "Explosion",
+            "Meteor Mash",
             "Scary Face"
         ],
         "nature": "Adamant",
@@ -12084,9 +12166,9 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Meteor Mash",
-            "Explosion",
             "Light Screen",
+            "Explosion",
+            "Meteor Mash",
             "Rock Tomb"
         ],
         "nature": "Impish",
@@ -12096,20 +12178,20 @@ var SETDEX_ADV =
     "Metagross9 [F]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 0,
             "at": 255,
             "df": 0,
             "sa": 0,
             "sd": 0,
-            "sp": 0
+            "sp": 255
         },
         "moves": [
-            "Meteor Mash",
+            "Brick Break",
             "Explosion",
-            "Earthquake",
-            "Sludge Bomb"
+            "Meteor Mash",
+            "Rock Slide"
         ],
-        "nature": "Adamant",
+        "nature": "Jolly",
         "item": "Choice Band",
         "isCustomSet": true
         },
@@ -12124,13 +12206,13 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Meteor Mash",
-            "Rock Slide",
             "Earthquake",
-            "Agility"
+            "Explosion",
+            "Meteor Mash",
+            "Sludge Bomb"
         ],
         "nature": "Adamant",
-        "item": "Lum Berry",
+        "item": "Choice Band",
         "isCustomSet": true
         },
     "Metagross11 [F]": {
@@ -12144,9 +12226,9 @@ var SETDEX_ADV =
             "sp": 170
         },
         "moves": [
-            "Meteor Mash",
-            "Explosion",
             "Earthquake",
+            "Explosion",
+            "Meteor Mash",
             "Agility"
         ],
         "nature": "Adamant",
@@ -12156,21 +12238,21 @@ var SETDEX_ADV =
     "Metagross12 [F]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
+            "hp": 170,
+            "at": 170,
+            "df": 0,
             "sa": 0,
             "sd": 0,
-            "sp": 0
+            "sp": 170
         },
         "moves": [
-            "Meteor Mash",
             "Earthquake",
-            "Toxic",
-            "Rest"
+            "Rock Slide",
+            "Meteor Mash",
+            "Agility"
         ],
-        "nature": "Adamant",
-        "item": "Chesto Berry",
+        "nature": "Jolly",
+        "item": "Lum Berry",
         "isCustomSet": true
         }
     },
@@ -12230,8 +12312,8 @@ var SETDEX_ADV =
         "moves": [
             "Thunder Wave",
             "Explosion",
-            "Counter",
-            "Psychic"
+            "Psychic",
+            "Counter"
         ],
         "nature": "Quiet",
         "item": "Lum Berry",
@@ -12249,9 +12331,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Taunt",
-            "Toxic",
+            "Flamethrower",
             "Soft-Boiled",
-            "Flamethrower"
+            "Toxic"
         ],
         "nature": "Bold",
         "item": "Leftovers",
@@ -12268,10 +12350,10 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
+            "Substitute",
             "Hypnosis",
-            "Transform",
             "Soft-Boiled",
-            "Substitute"
+            "Transform"
         ],
         "nature": "Timid",
         "item": "Leftovers",
@@ -12288,10 +12370,10 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
+            "Substitute",
             "Hypnosis",
             "Dream Eater",
-            "Focus Punch",
-            "Substitute"
+            "Focus Punch"
         ],
         "nature": "Sassy",
         "item": "Shell Bell",
@@ -12309,9 +12391,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Calm Mind",
+            "Hypnosis",
             "Dream Eater",
-            "Overheat",
-            "Hypnosis"
+            "Overheat"
         ],
         "nature": "Modest",
         "item": "White Herb",
@@ -12349,9 +12431,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Calm Mind",
+            "Explosion",
             "Psychic",
-            "Overheat",
-            "Explosion"
+            "Overheat"
         ],
         "nature": "Hasty",
         "item": "Lum Berry",
@@ -12369,8 +12451,8 @@ var SETDEX_ADV =
         },
         "moves": [
             "Calm Mind",
-            "Psychic",
             "Flamethrower",
+            "Psychic",
             "Giga Drain"
         ],
         "nature": "Timid",
@@ -12389,9 +12471,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Sunny Day",
+            "Solar Beam",
             "Psychic",
-            "Fire Blast",
-            "Solar Beam"
+            "Fire Blast"
         ],
         "nature": "Timid",
         "item": "Lum Berry",
@@ -12430,8 +12512,8 @@ var SETDEX_ADV =
         "moves": [
             "Swords Dance",
             "Explosion",
-            "Earthquake",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Earthquake"
         ],
         "nature": "Jolly",
         "item": "Spell Tag",
@@ -12448,10 +12530,10 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
-            "Explosion",
             "Frustration",
-            "Brick Break",
-            "Shadow Ball"
+            "Explosion",
+            "Shadow Ball",
+            "Brick Break"
         ],
         "nature": "Jolly",
         "item": "Choice Band",
@@ -12506,19 +12588,19 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 255,
+            "df": 0,
             "sa": 0,
-            "sd": 0,
+            "sd": 255,
             "sp": 0
         },
         "moves": [
             "Surf",
             "Rest",
-            "Ice Beam",
-            "Sleep Talk"
+            "Mud Sport",
+            "Toxic"
         ],
-        "nature": "Careful",
-        "item": "Mail",
+        "nature": "Calm",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Milotic2 [E]": {
@@ -12533,12 +12615,12 @@ var SETDEX_ADV =
         },
         "moves": [
             "Surf",
-            "Rest",
-            "Toxic",
-            "Mud Sport"
+            "Recover",
+            "Refresh",
+            "Toxic"
         ],
-        "nature": "Calm",
-        "item": "Chesto Berry",
+        "nature": "Bold",
+        "item": "Leftovers",
         "isCustomSet": true
         },
     "Milotic3 [E]": {
@@ -12554,34 +12636,14 @@ var SETDEX_ADV =
         "moves": [
             "Surf",
             "Recover",
-            "Toxic",
-            "Refresh"
+            "Ice Beam",
+            "Toxic"
         ],
-        "nature": "Bold",
-        "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Milotic4 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Surf",
-            "Recover",
-            "Toxic",
-            "Psych Up"
-        ],
-        "nature": "Calm",
+        "nature": "Careful",
         "item": "Mail",
         "isCustomSet": true
         },
-    "Milotic5 [E]": {
+    "Milotic4 [E]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -12594,11 +12656,31 @@ var SETDEX_ADV =
         "moves": [
             "Surf",
             "Recover",
-            "Hypnosis",
-            "Ice Beam"
+            "Ice Beam",
+            "Hypnosis"
         ],
         "nature": "Modest",
         "item": "Mystic Water",
+        "isCustomSet": true
+        },
+    "Milotic5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Surf",
+            "Recover",
+            "Twister",
+            "Dragon Breath"
+        ],
+        "nature": "Calm",
+        "item": "Dragon Fang",
         "isCustomSet": true
         },
     "Milotic6 [E]": {
@@ -12632,7 +12714,7 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Dive",
+            "Surf",
             "Recover",
             "Safeguard",
             "Dragon Breath"
@@ -12840,8 +12922,8 @@ var SETDEX_ADV =
         "moves": [
             "Destiny Bond",
             "Shadow Ball",
-            "Imprison",
-            "Taunt"
+            "Taunt",
+            "Imprison"
         ],
         "nature": "Jolly",
         "item": "Spell Tag",
@@ -12951,6 +13033,26 @@ var SETDEX_ADV =
         "Moltres1 [E]": {
         "level": 100,
         "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Flamethrower",
+            "Double-Edge",
+            "Steel Wing",
+            "Wing Attack"
+        ],
+        "nature": "Hasty",
+        "item": "Choice Band",
+        "isCustomSet": true
+        },
+    "Moltres2 [E]": {
+        "level": 100,
+        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -12968,7 +13070,7 @@ var SETDEX_ADV =
         "item": "White Herb",
         "isCustomSet": true
         },
-    "Moltres2 [E]": {
+    "Moltres3 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -12988,26 +13090,6 @@ var SETDEX_ADV =
         "item": "Twisted Spoon",
         "isCustomSet": true
         },
-    "Moltres3 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Fire Blast",
-            "Will-o-Wisp",
-            "Substitute",
-            "Sky Attack"
-        ],
-        "nature": "Mild",
-        "item": "Sharp Beak",
-        "isCustomSet": true
-        },
     "Moltres4 [E]": {
         "level": 100,
         "evs": {
@@ -13019,12 +13101,12 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Heat Wave",
-            "Will-o-Wisp",
-            "Morning Sun",
-            "Sunny Day"
+            "Flamethrower",
+            "Toxic",
+            "Roar",
+            "Fly"
         ],
-        "nature": "Bold",
+        "nature": "Relaxed",
         "item": "Charcoal",
         "isCustomSet": true
         },
@@ -13051,6 +13133,46 @@ var SETDEX_ADV =
     "Moltres6 [E]": {
         "level": 100,
         "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Fire Blast",
+            "Will-o-Wisp",
+            "Substitute",
+            "Sky Attack"
+        ],
+        "nature": "Mild",
+        "item": "Sharp Beak",
+        "isCustomSet": true
+        },
+    "Moltres7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Heat Wave",
+            "Will-o-Wisp",
+            "Morning Sun",
+            "Sunny Day"
+        ],
+        "nature": "Bold",
+        "item": "Charcoal",
+        "isCustomSet": true
+        },
+    "Moltres8 [E]": {
+        "level": 100,
+        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -13066,46 +13188,6 @@ var SETDEX_ADV =
         ],
         "nature": "Calm",
         "item": "Mago Berry",
-        "isCustomSet": true
-        },
-    "Moltres7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Flamethrower",
-            "Double-Edge",
-            "Steel Wing",
-            "Wing Attack"
-        ],
-        "nature": "Hasty",
-        "item": "Choice Band",
-        "isCustomSet": true
-        },
-    "Moltres8 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Flamethrower",
-            "Toxic",
-            "Roar",
-            "Fly"
-        ],
-        "nature": "Relaxed",
-        "item": "Charcoal",
         "isCustomSet": true
         }
     },
@@ -13153,26 +13235,6 @@ var SETDEX_ADV =
     "Mr_Mime3 [C]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 255,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Encore",
-            "Psychic",
-            "Thunder Wave",
-            "Magical Leaf"
-        ],
-        "nature": "Calm",
-        "item": "Sitrus Berry",
-        "isCustomSet": true
-        },
-    "Mr_Mime4 [C]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -13188,6 +13250,26 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Choice Band",
+        "isCustomSet": true
+        },
+    "Mr_Mime4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Encore",
+            "Psychic",
+            "Thunder Wave",
+            "Magical Leaf"
+        ],
+        "nature": "Calm",
+        "item": "Sitrus Berry",
         "isCustomSet": true
         }
     },
@@ -13235,26 +13317,6 @@ var SETDEX_ADV =
     "Muk3 [C]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Focus Punch",
-            "Sludge Bomb",
-            "Fire Blast",
-            "Explosion"
-        ],
-        "nature": "Brave",
-        "item": "Poison Barb",
-        "isCustomSet": true
-        },
-    "Muk4 [C]": {
-        "level": 100,
-        "evs": {
             "hp": 170,
             "at": 170,
             "df": 0,
@@ -13270,6 +13332,26 @@ var SETDEX_ADV =
         ],
         "nature": "Brave",
         "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Muk4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Focus Punch",
+            "Sludge Bomb",
+            "Fire Blast",
+            "Explosion"
+        ],
+        "nature": "Brave",
+        "item": "Poison Barb",
         "isCustomSet": true
         }
     },
@@ -13349,34 +13431,14 @@ var SETDEX_ADV =
         "moves": [
             "Earthquake",
             "Sludge Bomb",
-            "Megahorn",
-            "Counter"
+            "Counter",
+            "Megahorn"
         ],
         "nature": "Adamant",
         "item": "Sitrus Berry",
         "isCustomSet": true
         },
     "Nidoking3 [C]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Earthquake",
-            "Sludge Bomb",
-            "Rock Slide",
-            "Shadow Ball"
-        ],
-        "nature": "Adamant",
-        "item": "Poison Barb",
-        "isCustomSet": true
-        },
-    "Nidoking4 [C]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -13394,6 +13456,26 @@ var SETDEX_ADV =
         ],
         "nature": "Jolly",
         "item": "Choice Band",
+        "isCustomSet": true
+        },
+    "Nidoking4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Sludge Bomb",
+            "Rock Slide",
+            "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "item": "Poison Barb",
         "isCustomSet": true
         }
     },
@@ -13443,26 +13525,6 @@ var SETDEX_ADV =
         "Ninetales1 [B]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Grudge",
-            "Will-o-Wisp",
-            "Heat Wave",
-            "Sunny Day"
-        ],
-        "nature": "Timid",
-        "item": "Charcoal",
-        "isCustomSet": true
-        },
-    "Ninetales2 [B]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -13480,7 +13542,7 @@ var SETDEX_ADV =
         "item": "Leftovers",
         "isCustomSet": true
         },
-    "Ninetales3 [C]": {
+    "Ninetales2 [B]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -13491,16 +13553,16 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
-            "Hypnosis",
+            "Grudge",
             "Will-o-Wisp",
-            "Flamethrower",
-            "Overheat"
+            "Heat Wave",
+            "Sunny Day"
         ],
         "nature": "Timid",
-        "item": "White Herb",
+        "item": "Charcoal",
         "isCustomSet": true
         },
-    "Ninetales4 [C]": {
+    "Ninetales3 [C]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -13518,6 +13580,26 @@ var SETDEX_ADV =
         ],
         "nature": "Calm",
         "item": "Mago Berry",
+        "isCustomSet": true
+        },
+    "Ninetales4 [C]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Hypnosis",
+            "Will-o-Wisp",
+            "Flamethrower",
+            "Overheat"
+        ],
+        "nature": "Timid",
+        "item": "White Herb",
         "isCustomSet": true
         }
     },
@@ -13744,11 +13826,11 @@ var SETDEX_ADV =
         },
         "moves": [
             "Rock Slide",
-            "Mud Shot",
+            "Surf",
             "Hyper Beam",
-            "Body Slam"
+            "Mud Shot"
         ],
-        "nature": "Adamant",
+        "nature": "Naughty",
         "item": "Choice Band",
         "isCustomSet": true
         },
@@ -13764,7 +13846,7 @@ var SETDEX_ADV =
         },
         "moves": [
             "Rest",
-            "Bubble Beam",
+            "Surf",
             "Aurora Beam",
             "Haze"
         ],
@@ -13773,6 +13855,26 @@ var SETDEX_ADV =
         "isCustomSet": true
         },
     "Omastar3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rest",
+            "Surf",
+            "Icy Wind",
+            "Spikes"
+        ],
+        "nature": "Bold",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Omastar4 [D]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -13790,26 +13892,6 @@ var SETDEX_ADV =
         ],
         "nature": "Modest",
         "item": "Lum Berry",
-        "isCustomSet": true
-        },
-    "Omastar4 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Rain Dance",
-            "Substitute",
-            "Blizzard",
-            "Hydro Pump"
-        ],
-        "nature": "Timid",
-        "item": "Petaya Berry",
         "isCustomSet": true
         },
     "Omastar5 [D]": {
@@ -13835,21 +13917,21 @@ var SETDEX_ADV =
     "Omastar6 [D]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 0,
             "at": 0,
             "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
+            "sa": 255,
+            "sd": 0,
+            "sp": 255
         },
         "moves": [
-            "Rest",
-            "Surf",
-            "Icy Wind",
-            "Spikes"
+            "Rain Dance",
+            "Substitute",
+            "Blizzard",
+            "Hydro Pump"
         ],
-        "nature": "Bold",
-        "item": "Chesto Berry",
+        "nature": "Timid",
+        "item": "Petaya Berry",
         "isCustomSet": true
         }
     },
@@ -13933,7 +14015,7 @@ var SETDEX_ADV =
             "Double-Edge"
         ],
         "nature": "Brave",
-        "item": "Leftovers",
+        "item": "Miracle Seed",
         "isCustomSet": true
         }
     },
@@ -13955,7 +14037,7 @@ var SETDEX_ADV =
             "Toxic"
         ],
         "nature": "Bold",
-        "item": "Leftovers",
+        "item": "Mystic Water",
         "isCustomSet": true
         },
     "Pelipper2 [A]": {
@@ -14045,21 +14127,21 @@ var SETDEX_ADV =
     "Pidgeot2 [A]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
+            "hp": 255,
+            "at": 0,
             "df": 0,
             "sa": 0,
-            "sd": 0,
-            "sp": 255
+            "sd": 255,
+            "sp": 0
         },
         "moves": [
-            "Sky Attack",
-            "Hyper Beam",
-            "Substitute",
-            "Mirror Move"
+            "Fly",
+            "Toxic",
+            "Protect",
+            "Feather Dance"
         ],
-        "nature": "Jolly",
-        "item": "Liechi Berry",
+        "nature": "Impish",
+        "item": "Leftovers",
         "isCustomSet": true
         }
     },
@@ -14275,6 +14357,26 @@ var SETDEX_ADV =
     "Politoed3 [C]": {
         "level": 100,
         "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Psychic",
+            "Hypnosis",
+            "Surf",
+            "Ice Beam"
+        ],
+        "nature": "Modest",
+        "item": "Shell Bell",
+        "isCustomSet": true
+        },
+    "Politoed4 [C]": {
+        "level": 100,
+        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -14289,26 +14391,6 @@ var SETDEX_ADV =
             "Ice Beam"
         ],
         "nature": "Timid",
-        "isCustomSet": true
-        },
-    "Politoed4 [C]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Hidden Power",
-            "Hypnosis",
-            "Surf",
-            "Ice Beam"
-        ],
-        "nature": "Modest",
-        "item": "Shell Bell",
         "isCustomSet": true
         }
     },
@@ -14523,6 +14605,26 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Recycle",
+            "Recover",
+            "Thunderbolt",
+            "Secret Power"
+        ],
+        "nature": "Sassy",
+        "item": "Starf Berry",
+        "isCustomSet": true
+        },
+    "Porygon24 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
             "at": 255,
             "df": 0,
             "sa": 0,
@@ -14537,26 +14639,6 @@ var SETDEX_ADV =
         ],
         "nature": "Adamant",
         "item": "Silk Scarf",
-        "isCustomSet": true
-        },
-    "Porygon24 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Recycle",
-            "Recover",
-            "Secret Power",
-            "Thunderbolt"
-        ],
-        "nature": "Sassy",
-        "item": "Starf Berry",
         "isCustomSet": true
         }
     },
@@ -15179,6 +15261,26 @@ var SETDEX_ADV =
         "Regice1 [E]": {
         "level": 100,
         "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Curse",
+            "Superpower",
+            "Explosion",
+            "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "item": "White Herb",
+        "isCustomSet": true
+        },
+    "Regice2 [E]": {
+        "level": 100,
+        "evs": {
             "hp": 255,
             "at": 0,
             "df": 255,
@@ -15187,16 +15289,56 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Thunder Wave",
-            "Safeguard",
-            "Explosion",
+            "Curse",
+            "Earthquake",
+            "Rest",
             "Ice Beam"
         ],
         "nature": "Sassy",
-        "item": "Silk Scarf",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Regice2 [E]": {
+    "Regice3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Toxic",
+            "Thunderbolt",
+            "Rest",
+            "Ice Beam"
+        ],
+        "nature": "Calm",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        },
+    "Regice4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Thunderbolt",
+            "Explosion",
+            "Ice Beam"
+        ],
+        "nature": "Brave",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        },
+    "Regice5 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -15216,7 +15358,7 @@ var SETDEX_ADV =
         "item": "Never-Melt Ice",
         "isCustomSet": true
         },
-    "Regice3 [E]": {
+    "Regice6 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -15236,27 +15378,7 @@ var SETDEX_ADV =
         "item": "Shell Bell",
         "isCustomSet": true
         },
-    "Regice4 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Substitute",
-            "Thunderbolt",
-            "Explosion",
-            "Ice Beam"
-        ],
-        "nature": "Hasty",
-        "item": "Salac Berry",
-        "isCustomSet": true
-        },
-    "Regice5 [E]": {
+    "Regice7 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -15274,46 +15396,6 @@ var SETDEX_ADV =
         ],
         "nature": "Hasty",
         "item": "Magnet",
-        "isCustomSet": true
-        },
-    "Regice6 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Curse",
-            "Rest",
-            "Explosion",
-            "Ice Beam"
-        ],
-        "nature": "Brave",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Regice7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Curse",
-            "Superpower",
-            "Explosion",
-            "Rock Slide"
-        ],
-        "nature": "Adamant",
-        "item": "White Herb",
         "isCustomSet": true
         },
     "Regice8 [E]": {
@@ -15342,66 +15424,6 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Rock Slide",
-            "Superpower",
-            "Explosion",
-            "Earthquake"
-        ],
-        "nature": "Adamant",
-        "item": "Choice Band",
-        "isCustomSet": true
-        },
-    "Regirock2 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Rock Slide",
-            "Superpower",
-            "Explosion",
-            "Thunder Wave"
-        ],
-        "nature": "Adamant",
-        "item": "White Herb",
-        "isCustomSet": true
-        },
-    "Regirock3 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Rock Slide",
-            "Curse",
-            "Explosion",
-            "Earthquake"
-        ],
-        "nature": "Jolly",
-        "item": "White Herb",
-        "isCustomSet": true
-        },
-    "Regirock4 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
             "at": 0,
             "df": 0,
             "sa": 0,
@@ -15418,7 +15440,7 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Regirock5 [E]": {
+    "Regirock2 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -15438,27 +15460,7 @@ var SETDEX_ADV =
         "item": "Liechi Berry",
         "isCustomSet": true
         },
-    "Regirock6 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Rock Tomb",
-            "Safeguard",
-            "Explosion",
-            "Thunder Wave"
-        ],
-        "nature": "Impish",
-        "item": "Figy Berry",
-        "isCustomSet": true
-        },
-    "Regirock7 [E]": {
+    "Regirock3 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -15478,7 +15480,47 @@ var SETDEX_ADV =
         "item": "Figy Berry",
         "isCustomSet": true
         },
-    "Regirock8 [E]": {
+    "Regirock4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Superpower",
+            "Explosion",
+            "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "item": "White Herb",
+        "isCustomSet": true
+        },
+    "Regirock5 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Superpower",
+            "Explosion",
+            "Earthquake"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        },
+    "Regirock6 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -15489,13 +15531,53 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
-            "Ancient Power",
-            "Mega Kick",
-            "Substitute",
+            "Rock Slide",
+            "Curse",
+            "Explosion",
+            "Earthquake"
+        ],
+        "nature": "Jolly",
+        "item": "White Herb",
+        "isCustomSet": true
+        },
+    "Regirock7 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Rock Slide",
+            "Endure",
+            "Explosion",
             "Earthquake"
         ],
         "nature": "Jolly",
         "item": "Salac Berry",
+        "isCustomSet": true
+        },
+    "Regirock8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Tomb",
+            "Safeguard",
+            "Explosion",
+            "Thunder Wave"
+        ],
+        "nature": "Impish",
+        "item": "Figy Berry",
         "isCustomSet": true
         }
     },
@@ -15584,20 +15666,20 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 0,
+            "at": 255,
             "df": 0,
             "sa": 0,
-            "sd": 255,
+            "sd": 0,
             "sp": 0
         },
         "moves": [
-            "Counter",
-            "Seismic Toss",
+            "Brick Break",
+            "Metal Claw",
             "Explosion",
-            "Thunder Wave"
+            "Earthquake"
         ],
-        "nature": "Impish",
-        "item": "Leftovers",
+        "nature": "Adamant",
+        "item": "Choice Band",
         "isCustomSet": true
         },
     "Registeel6 [E]": {
@@ -15624,20 +15706,20 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
+            "at": 0,
             "df": 0,
             "sa": 0,
-            "sd": 0,
+            "sd": 255,
             "sp": 0
         },
         "moves": [
-            "Brick Break",
-            "Metal Claw",
+            "Counter",
+            "Seismic Toss",
             "Explosion",
-            "Earthquake"
+            "Thunder Wave"
         ],
-        "nature": "Adamant",
-        "item": "Choice Band",
+        "nature": "Impish",
+        "item": "Leftovers",
         "isCustomSet": true
         },
     "Registeel8 [E]": {
@@ -15666,26 +15748,6 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Rock Slide",
-            "Earthquake",
-            "Rest",
-            "Rain Dance"
-        ],
-        "nature": "Jolly",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Relicanth2 [A]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
             "at": 0,
             "df": 0,
             "sa": 0,
@@ -15700,6 +15762,26 @@ var SETDEX_ADV =
         ],
         "nature": "Impish",
         "item": "Lum Berry",
+        "isCustomSet": true
+        },
+    "Relicanth2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Rest",
+            "Rain Dance"
+        ],
+        "nature": "Jolly",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Relicanth3 [B]": {
@@ -15916,6 +15998,26 @@ var SETDEX_ADV =
             "hp": 255,
             "at": 0,
             "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Body Slam",
+            "Twister",
+            "Rest",
+            "Crunch"
+        ],
+        "nature": "Quiet",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Salamence2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
             "sa": 0,
             "sd": 0,
             "sp": 255
@@ -15930,7 +16032,7 @@ var SETDEX_ADV =
         "item": "Hard Stone",
         "isCustomSet": true
         },
-    "Salamence2 [E]": {
+    "Salamence3 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -15950,7 +16052,7 @@ var SETDEX_ADV =
         "item": "Sharp Beak",
         "isCustomSet": true
         },
-    "Salamence3 [E]": {
+    "Salamence4 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -15970,7 +16072,7 @@ var SETDEX_ADV =
         "item": "Black Belt",
         "isCustomSet": true
         },
-    "Salamence4 [E]": {
+    "Salamence5 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -15984,13 +16086,13 @@ var SETDEX_ADV =
             "Hydro Pump",
             "Brick Break",
             "Dragon Claw",
-            "Flamethrower"
+            "Crunch"
         ],
         "nature": "Rash",
         "item": "Dragon Fang",
         "isCustomSet": true
         },
-    "Salamence5 [E]": {
+    "Salamence6 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -16008,26 +16110,6 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Petaya Berry",
-        "isCustomSet": true
-        },
-    "Salamence6 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 170,
-            "at": 0,
-            "df": 0,
-            "sa": 170,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Wish",
-            "Protect",
-            "Dragon Claw",
-            "Flamethrower"
-        ],
-        "nature": "Timid",
-        "item": "Dragon Fang",
         "isCustomSet": true
         },
     "Salamence7 [E]": {
@@ -16142,9 +16224,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Aerial Ace",
-            "Earthquake",
             "Brick Break",
-            "Rock Slide"
+            "Rock Slide",
+            "Earthquake"
         ],
         "nature": "Jolly",
         "item": "Choice Band",
@@ -16394,7 +16476,7 @@ var SETDEX_ADV =
             "Agility",
             "Substitute",
             "Ice Beam",
-            "Hydro Pump"
+            "Surf"
         ],
         "nature": "Modest",
         "item": "Petaya Berry",
@@ -16662,12 +16744,12 @@ var SETDEX_ADV =
         },
         "moves": [
             "Protect",
-            "Swords Dance",
+            "Toxic",
             "Shadow Ball",
             "Silver Wind"
         ],
         "nature": "Jolly",
-        "item": "Silver Powder",
+        "item": "Lum Berry",
         "isCustomSet": true
         },
     "Shedinja4 [D]": {
@@ -16682,12 +16764,12 @@ var SETDEX_ADV =
         },
         "moves": [
             "Protect",
-            "Toxic",
+            "Swords Dance",
             "Shadow Ball",
             "Silver Wind"
         ],
         "nature": "Jolly",
-        "item": "Lum Berry",
+        "item": "Silver Powder",
         "isCustomSet": true
         },
     "Shedinja5 [D]": {
@@ -16702,9 +16784,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Protect",
-            "Toxic",
+            "Grudge",
             "Shadow Ball",
-            "Baton Pass"
+            "Silver Wind"
         ],
         "nature": "Jolly",
         "item": "Lum Berry",
@@ -16722,9 +16804,9 @@ var SETDEX_ADV =
         },
         "moves": [
             "Protect",
-            "Grudge",
+            "Toxic",
             "Shadow Ball",
-            "Silver Wind"
+            "Baton Pass"
         ],
         "nature": "Jolly",
         "item": "Lum Berry",
@@ -16763,8 +16845,8 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Dragon Dance",
-            "Double-Edge",
+            "Toxic",
+            "Dragon Rage",
             "Wish",
             "Protect"
         ],
@@ -17184,20 +17266,20 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
+            "at": 0,
             "df": 0,
-            "sa": 0,
+            "sa": 255,
             "sd": 0,
             "sp": 0
         },
         "moves": [
-            "Slash",
-            "Snore",
-            "Uproar",
-            "Fury Swipes"
+            "Ice Beam",
+            "Thunderbolt",
+            "Flamethrower",
+            "Frustration"
         ],
-        "nature": "Adamant",
-        "item": "Choice Band",
+        "nature": "Quiet",
+        "item": "Lum Berry",
         "isCustomSet": true
         },
     "Slaking2 [E]": {
@@ -17214,7 +17296,7 @@ var SETDEX_ADV =
             "Double-Edge",
             "Earthquake",
             "Rock Slide",
-            "Focus Punch"
+            "Uproar"
         ],
         "nature": "Adamant",
         "item": "Choice Band",
@@ -17231,7 +17313,7 @@ var SETDEX_ADV =
             "sp": 170
         },
         "moves": [
-            "Frustration",
+            "Slash",
             "Brick Break",
             "Shadow Ball",
             "Fury Swipes"
@@ -17286,26 +17368,6 @@ var SETDEX_ADV =
             "hp": 255,
             "at": 0,
             "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Mega Kick",
-            "Encore",
-            "Flamethrower",
-            "Counter"
-        ],
-        "nature": "Brave",
-        "item": "Shell Bell",
-        "isCustomSet": true
-        },
-    "Slaking7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
             "sa": 0,
             "sd": 255,
             "sp": 0
@@ -17320,7 +17382,7 @@ var SETDEX_ADV =
         "item": "Hard Stone",
         "isCustomSet": true
         },
-    "Slaking8 [E]": {
+    "Slaking7 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -17338,6 +17400,26 @@ var SETDEX_ADV =
         ],
         "nature": "Jolly",
         "item": "Silver Powder",
+        "isCustomSet": true
+        },
+    "Slaking8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Mega Kick",
+            "Encore",
+            "Flamethrower",
+            "Counter"
+        ],
+        "nature": "Brave",
+        "item": "Shell Bell",
         "isCustomSet": true
         }
     },
@@ -17741,16 +17823,36 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
+            "Earthquake",
+            "Belly Drum",
+            "Rock Slide",
+            "Rest"
+        ],
+        "nature": "Adamant",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Snorlax3 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 170,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
             "Frustration",
             "Focus Punch",
-            "Earthquake",
             "Self-Destruct"
         ],
         "nature": "Adamant",
         "item": "Choice Band",
         "isCustomSet": true
         },
-    "Snorlax3 [E]": {
+    "Snorlax4 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -17768,26 +17870,6 @@ var SETDEX_ADV =
         ],
         "nature": "Adamant",
         "item": "Aguav Berry",
-        "isCustomSet": true
-        },
-    "Snorlax4 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 170,
-            "df": 170,
-            "sa": 0,
-            "sd": 170,
-            "sp": 0
-        },
-        "moves": [
-            "Belly Drum",
-            "Rock Slide",
-            "Earthquake",
-            "Rest"
-        ],
-        "nature": "Adamant",
-        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Snorlax5 [E]": {
@@ -17820,13 +17902,13 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Fire Blast",
+            "Brick Break",
             "Body Slam",
-            "Earthquake",
+            "Focus Punch",
             "Self-Destruct"
         ],
-        "nature": "Brave",
-        "item": "Aguav Berry",
+        "nature": "Adamant",
+        "item": "Black Belt",
         "isCustomSet": true
         },
     "Snorlax7 [E]": {
@@ -17840,13 +17922,13 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Brick Break",
+            "Earthquake",
             "Body Slam",
-            "Focus Punch",
+            "Fire Blast",
             "Self-Destruct"
         ],
-        "nature": "Adamant",
-        "item": "Black Belt",
+        "nature": "Brave",
+        "item": "Aguav Berry",
         "isCustomSet": true
         },
     "Snorlax8 [E]": {
@@ -17881,7 +17963,7 @@ var SETDEX_ADV =
         },
         "moves": [
             "Curse",
-            "Frustration",
+            "Body Slam",
             "Shadow Ball",
             "Self-Destruct"
         ],
@@ -18120,12 +18202,12 @@ var SETDEX_ADV =
         "Starmie1 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
+            "hp": 0,
+            "at": 255,
+            "df": 0,
             "sa": 0,
             "sd": 0,
-            "sp": 0
+            "sp": 255
         },
         "moves": [
             "Camouflage",
@@ -18133,7 +18215,7 @@ var SETDEX_ADV =
             "Rest",
             "Secret Power"
         ],
-        "nature": "Impish",
+        "nature": "Adamant",
         "item": "Chesto Berry",
         "isCustomSet": true
         },
@@ -18392,6 +18474,26 @@ var SETDEX_ADV =
         "moves": [
             "Earthquake",
             "Explosion",
+            "Toxic",
+            "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "item": "Iapapa Berry",
+        "isCustomSet": true
+        },
+    "Steelix3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Earthquake",
+            "Explosion",
             "Roar",
             "Rock Slide"
         ],
@@ -18399,7 +18501,7 @@ var SETDEX_ADV =
         "item": "Leftovers",
         "isCustomSet": true
         },
-    "Steelix3 [D]": {
+    "Steelix4 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -18416,26 +18518,6 @@ var SETDEX_ADV =
             "Rock Tomb"
         ],
         "nature": "Relaxed",
-        "item": "Iapapa Berry",
-        "isCustomSet": true
-        },
-    "Steelix4 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 170,
-            "at": 170,
-            "df": 0,
-            "sa": 0,
-            "sd": 170,
-            "sp": 0
-        },
-        "moves": [
-            "Earthquake",
-            "Explosion",
-            "Toxic",
-            "Iron Tail"
-        ],
-        "nature": "Adamant",
         "item": "Iapapa Berry",
         "isCustomSet": true
         }
@@ -18508,9 +18590,9 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 255,
+            "df": 0,
             "sa": 0,
-            "sd": 0,
+            "sd": 255,
             "sp": 0
         },
         "moves": [
@@ -18519,7 +18601,7 @@ var SETDEX_ADV =
             "Icy Wind",
             "Rest"
         ],
-        "nature": "Bold",
+        "nature": "Calm",
         "item": "Chesto Berry",
         "isCustomSet": true
         },
@@ -18586,26 +18668,6 @@ var SETDEX_ADV =
     "Suicune6 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Calm Mind",
-            "Hydro Pump",
-            "Ice Beam",
-            "Substitute"
-        ],
-        "nature": "Modest",
-        "item": "Petaya Berry",
-        "isCustomSet": true
-        },
-    "Suicune7 [E]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -18623,7 +18685,7 @@ var SETDEX_ADV =
         "item": "Salac Berry",
         "isCustomSet": true
         },
-    "Suicune8 [E]": {
+    "Suicune7 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -18641,6 +18703,26 @@ var SETDEX_ADV =
         ],
         "nature": "Timid",
         "item": "Mago Berry",
+        "isCustomSet": true
+        },
+    "Suicune8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Hydro Pump",
+            "Ice Beam",
+            "Substitute"
+        ],
+        "nature": "Modest",
+        "item": "Petaya Berry",
         "isCustomSet": true
         },
     "Suicune9 [F]": {
@@ -18668,26 +18750,6 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Calm Mind",
-            "Surf",
-            "Substitute",
-            "Rain Dance"
-        ],
-        "nature": "Modest",
-        "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Suicune11 [F]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
             "df": 255,
             "sa": 0,
             "sd": 0,
@@ -18703,7 +18765,7 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Suicune12 [F]": {
+    "Suicune11 [F]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -18720,6 +18782,26 @@ var SETDEX_ADV =
             "Rest"
         ],
         "nature": "Bold",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Suicune12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Calm Mind",
+            "Surf",
+            "Substitute",
+            "Rain Dance"
+        ],
+        "nature": "Modest",
         "item": "Leftovers",
         "isCustomSet": true
         }
@@ -18852,41 +18934,41 @@ var SETDEX_ADV =
         "Swampert1 [E]": {
         "level": 100,
         "evs": {
-            "hp": 170,
-            "at": 0,
+            "hp": 255,
+            "at": 255,
             "df": 0,
-            "sa": 170,
+            "sa": 0,
             "sd": 0,
-            "sp": 170
+            "sp": 0
         },
         "moves": [
-            "Earthquake",
-            "Hydro Pump",
-            "Ice Beam",
-            "Focus Punch"
+            "Mud Shot",
+            "Foresight",
+            "Stomp",
+            "Rock Tomb"
         ],
-        "nature": "Rash",
-        "item": "Mystic Water",
+        "nature": "Adamant",
+        "item": "Silk Scarf",
         "isCustomSet": true
         },
     "Swampert2 [E]": {
         "level": 100,
         "evs": {
-            "hp": 0,
+            "hp": 255,
             "at": 0,
             "df": 0,
             "sa": 255,
             "sd": 0,
-            "sp": 255
+            "sp": 0
         },
         "moves": [
-            "Earthquake",
-            "Surf",
-            "Ice Beam",
-            "Rain Dance"
+            "Defense Curl",
+            "Rest",
+            "Ice Ball",
+            "Mirror Coat"
         ],
-        "nature": "Modest",
-        "item": "Mystic Water",
+        "nature": "Sassy",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Swampert3 [E]": {
@@ -18894,19 +18976,19 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 255,
+            "df": 0,
             "sa": 0,
-            "sd": 0,
+            "sd": 255,
             "sp": 0
         },
         "moves": [
-            "Refresh",
-            "Surf",
-            "Roar",
-            "Protect"
+            "Earthquake",
+            "Rest",
+            "Rollout",
+            "Curse"
         ],
-        "nature": "Relaxed",
-        "item": "Leftovers",
+        "nature": "Sassy",
+        "item": "Hard Stone",
         "isCustomSet": true
         },
     "Swampert4 [E]": {
@@ -18934,59 +19016,59 @@ var SETDEX_ADV =
         "evs": {
             "hp": 255,
             "at": 0,
-            "df": 0,
+            "df": 255,
             "sa": 0,
-            "sd": 255,
+            "sd": 0,
             "sp": 0
         },
         "moves": [
-            "Mud Shot",
+            "Refresh",
             "Surf",
-            "Stomp",
-            "Rock Tomb"
+            "Roar",
+            "Protect"
         ],
-        "nature": "Brave",
-        "item": "Shell Bell",
+        "nature": "Relaxed",
+        "item": "Leftovers",
         "isCustomSet": true
         },
     "Swampert6 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 0,
             "at": 0,
             "df": 0,
             "sa": 255,
             "sd": 0,
-            "sp": 0
+            "sp": 255
         },
         "moves": [
-            "Defense Curl",
-            "Rest",
-            "Ice Ball",
-            "Mirror Coat"
+            "Earthquake",
+            "Surf",
+            "Ice Beam",
+            "Rain Dance"
         ],
-        "nature": "Sassy",
-        "item": "Chesto Berry",
+        "nature": "Modest",
+        "item": "Mystic Water",
         "isCustomSet": true
         },
     "Swampert7 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 170,
             "at": 0,
             "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
         },
         "moves": [
-            "Rollout",
-            "Rest",
-            "Roar",
-            "Curse"
+            "Earthquake",
+            "Hydro Pump",
+            "Ice Beam",
+            "Focus Punch"
         ],
-        "nature": "Sassy",
-        "item": "Chesto Berry",
+        "nature": "Rash",
+        "item": "Shell Bell",
         "isCustomSet": true
         },
     "Swampert8 [E]": {
@@ -19001,7 +19083,7 @@ var SETDEX_ADV =
         },
         "moves": [
             "Earthquake",
-            "Hydro Pump",
+            "Surf",
             "Ice Beam",
             "Curse"
         ],
@@ -19198,21 +19280,21 @@ var SETDEX_ADV =
     "Tauros2 [E]": {
         "level": 100,
         "evs": {
-            "hp": 0,
+            "hp": 255,
             "at": 255,
             "df": 0,
             "sa": 0,
             "sd": 0,
-            "sp": 255
+            "sp": 0
         },
         "moves": [
             "Frustration",
-            "Fire Blast",
+            "Double-Edge",
             "Earthquake",
             "Iron Tail"
         ],
-        "nature": "Naive",
-        "item": "Lum Berry",
+        "nature": "Adamant",
+        "item": "Choice Band",
         "isCustomSet": true
         },
     "Tauros3 [E]": {
@@ -19258,21 +19340,21 @@ var SETDEX_ADV =
     "Tauros5 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 0,
             "at": 255,
             "df": 0,
             "sa": 0,
             "sd": 0,
-            "sp": 0
+            "sp": 255
         },
         "moves": [
-            "Thrash",
-            "Rock Tomb",
-            "Rock Smash",
+            "Frustration",
+            "Fire Blast",
+            "Earthquake",
             "Iron Tail"
         ],
-        "nature": "Impish",
-        "item": "Persim Berry",
+        "nature": "Naive",
+        "item": "Lum Berry",
         "isCustomSet": true
         },
     "Tauros6 [E]": {
@@ -19546,26 +19628,6 @@ var SETDEX_ADV =
             "hp": 255,
             "at": 0,
             "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Heat Wave",
-            "Toxic",
-            "Protect",
-            "Explosion"
-        ],
-        "nature": "Relaxed",
-        "item": "Sitrus Berry",
-        "isCustomSet": true
-        },
-    "Torkoal4 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
             "sa": 255,
             "sd": 0,
             "sp": 0
@@ -19578,6 +19640,26 @@ var SETDEX_ADV =
         ],
         "nature": "Quiet",
         "item": "White Herb",
+        "isCustomSet": true
+        },
+    "Torkoal4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Heat Wave",
+            "Toxic",
+            "Protect",
+            "Explosion"
+        ],
+        "nature": "Relaxed",
+        "item": "Sitrus Berry",
         "isCustomSet": true
         }
     },
@@ -19749,6 +19831,66 @@ var SETDEX_ADV =
         "Tyranitar1 [F]": {
         "level": 100,
         "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Curse",
+            "Ancient Power",
+            "Earthquake",
+            "Rest"
+        ],
+        "nature": "Careful",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Tyranitar2 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Mega Kick",
+            "Rock Slide",
+            "Earthquake",
+            "Snore"
+        ],
+        "nature": "Adamant",
+        "item": "Choice Band",
+        "isCustomSet": true
+        },
+    "Tyranitar3 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 170,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Toxic",
+            "Rock Slide",
+            "Earthquake",
+            "Taunt"
+        ],
+        "nature": "Jolly",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Tyranitar4 [F]": {
+        "level": 100,
+        "evs": {
             "hp": 170,
             "at": 170,
             "df": 0,
@@ -19766,7 +19908,7 @@ var SETDEX_ADV =
         "item": "Leftovers",
         "isCustomSet": true
         },
-    "Tyranitar2 [F]": {
+    "Tyranitar5 [F]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -19786,7 +19928,7 @@ var SETDEX_ADV =
         "item": "Liechi Berry",
         "isCustomSet": true
         },
-    "Tyranitar3 [F]": {
+    "Tyranitar6 [F]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -19806,27 +19948,7 @@ var SETDEX_ADV =
         "item": "Liechi Berry",
         "isCustomSet": true
         },
-    "Tyranitar4 [F]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Dragon Dance",
-            "Ancient Power",
-            "Earthquake",
-            "Rest"
-        ],
-        "nature": "Adamant",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Tyranitar5 [F]": {
+    "Tyranitar7 [F]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -19846,7 +19968,7 @@ var SETDEX_ADV =
         "item": "Lum Berry",
         "isCustomSet": true
         },
-    "Tyranitar6 [F]": {
+    "Tyranitar8 [F]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -19866,7 +19988,7 @@ var SETDEX_ADV =
         "item": "Iapapa Berry",
         "isCustomSet": true
         },
-    "Tyranitar7 [F]": {
+    "Tyranitar9 [F]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -19877,16 +19999,16 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Substitute",
             "Focus Punch",
             "Rock Slide",
-            "Earthquake"
+            "Earthquake",
+            "Substitute"
         ],
         "nature": "Adamant",
         "item": "Liechi Berry",
         "isCustomSet": true
         },
-    "Tyranitar8 [F]": {
+    "Tyranitar10 [F]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -19897,53 +20019,13 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Substitute",
             "Focus Punch",
             "Thunder",
-            "Crunch"
+            "Crunch",
+            "Substitute"
         ],
         "nature": "Quiet",
         "item": "Petaya Berry",
-        "isCustomSet": true
-        },
-    "Tyranitar9 [F]": {
-        "level": 100,
-        "evs": {
-            "hp": 170,
-            "at": 170,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Rock Slide",
-            "Earthquake",
-            "Taunt",
-            "Toxic"
-        ],
-        "nature": "Jolly",
-        "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Tyranitar10 [F]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Rock Slide",
-            "Earthquake",
-            "Mega Kick",
-            "Snore"
-        ],
-        "nature": "Jolly",
-        "item": "Choice Band",
         "isCustomSet": true
         },
     "Tyranitar11 [F]": {
@@ -19957,9 +20039,9 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
+            "Fire Blast",
             "Rock Slide",
             "Crunch",
-            "Fire Blast",
             "Ice Beam"
         ],
         "nature": "Hasty",
@@ -19977,9 +20059,9 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
+            "Flamethrower",
             "Thunder Wave",
             "Crunch",
-            "Flamethrower",
             "Counter"
         ],
         "nature": "Modest",
@@ -19991,46 +20073,6 @@ var SETDEX_ADV =
         "Umbreon1 [C]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Growl",
-            "Sleep Talk",
-            "Rest",
-            "Charm"
-        ],
-        "nature": "Careful",
-        "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Umbreon2 [C]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Hidden Power",
-            "Toxic",
-            "Moonlight",
-            "Snatch"
-        ],
-        "nature": "Modest",
-        "item": "Black Glasses",
-        "isCustomSet": true
-        },
-    "Umbreon3 [D]": {
-        "level": 100,
-        "evs": {
             "hp": 0,
             "at": 0,
             "df": 0,
@@ -20040,35 +20082,35 @@ var SETDEX_ADV =
         },
         "moves": [
             "Hidden Power",
-            "Toxic",
-            "Moonlight",
-            "Taunt"
+            "Substitute",
+            "Baton Pass",
+            "Psychic"
         ],
         "nature": "Timid",
-        "item": "Black Glasses",
+        "item": "Petaya Berry",
         "isCustomSet": true
         },
-    "Umbreon4 [D]": {
+    "Umbreon2 [C]": {
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 0,
+            "at": 255,
             "df": 0,
-            "sa": 255,
+            "sa": 0,
             "sd": 0,
             "sp": 0
         },
         "moves": [
             "Hidden Power",
-            "Toxic",
-            "Wish",
-            "Protect"
+            "Curse",
+            "Rest",
+            "Double-Edge"
         ],
-        "nature": "Calm",
-        "item": "Leftovers",
+        "nature": "Sassy",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Umbreon5 [D]": {
+    "Umbreon3 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -20088,7 +20130,27 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Umbreon6 [D]": {
+    "Umbreon4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hidden Power",
+            "Toxic",
+            "Moonlight",
+            "Snatch"
+        ],
+        "nature": "Modest",
+        "item": "Black Glasses",
+        "isCustomSet": true
+        },
+    "Umbreon5 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -20100,12 +20162,32 @@ var SETDEX_ADV =
         },
         "moves": [
             "Hidden Power",
-            "Substitute",
-            "Baton Pass",
-            "Psychic"
+            "Toxic",
+            "Moonlight",
+            "Taunt"
         ],
         "nature": "Timid",
-        "item": "Petaya Berry",
+        "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Umbreon6 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Hidden Power",
+            "Toxic",
+            "Wish",
+            "Protect"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
         "isCustomSet": true
         }
     },
@@ -20161,7 +20243,7 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Facade",
+            "Double-Edge",
             "Rest",
             "Sleep Talk",
             "Bulk Up"
@@ -20235,26 +20317,6 @@ var SETDEX_ADV =
         "Vaporeon1 [D]": {
         "level": 100,
         "evs": {
-            "hp": 170,
-            "at": 0,
-            "df": 0,
-            "sa": 170,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Substitute",
-            "Baton Pass",
-            "Hydro Pump",
-            "Ice Beam"
-        ],
-        "nature": "Timid",
-        "item": "Salac Berry",
-        "isCustomSet": true
-        },
-    "Vaporeon2 [D]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 0,
             "df": 255,
@@ -20272,7 +20334,7 @@ var SETDEX_ADV =
         "item": "Leftovers",
         "isCustomSet": true
         },
-    "Vaporeon3 [D]": {
+    "Vaporeon2 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -20292,7 +20354,7 @@ var SETDEX_ADV =
         "item": "Mystic Water",
         "isCustomSet": true
         },
-    "Vaporeon4 [D]": {
+    "Vaporeon3 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -20311,6 +20373,26 @@ var SETDEX_ADV =
         "nature": "Timid",
         "item": "Petaya Berry",
         "isCustomSet": true
+        },
+    "Vaporeon4 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Substitute",
+            "Baton Pass",
+            "Hydro Pump",
+            "Ice Beam"
+        ],
+        "nature": "Timid",
+        "item": "Salac Berry",
+        "isCustomSet": true
         }
     },
     "Venomoth": {
@@ -20318,8 +20400,8 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 0,
-            "df": 255,
+            "at": 255,
+            "df": 0,
             "sa": 0,
             "sd": 0,
             "sp": 0
@@ -20522,26 +20604,6 @@ var SETDEX_ADV =
         "Victreebel1 [B]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 170,
-            "df": 0,
-            "sa": 170,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Sunny Day",
-            "Solar Beam",
-            "Sleep Powder",
-            "Sludge Bomb"
-        ],
-        "nature": "Lonely",
-        "item": "Poison Barb",
-        "isCustomSet": true
-        },
-    "Victreebel2 [B]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 255,
             "df": 0,
@@ -20557,6 +20619,26 @@ var SETDEX_ADV =
         ],
         "nature": "Brave",
         "item": "Miracle Seed",
+        "isCustomSet": true
+        },
+    "Victreebel2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 170,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Sunny Day",
+            "Solar Beam",
+            "Sleep Powder",
+            "Sludge Bomb"
+        ],
+        "nature": "Lonely",
+        "item": "Poison Barb",
         "isCustomSet": true
         },
     "Victreebel3 [C]": {
@@ -20605,19 +20687,19 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 255,
-            "at": 255,
+            "at": 0,
             "df": 0,
             "sa": 0,
-            "sd": 0,
+            "sd": 255,
             "sp": 0
         },
         "moves": [
-            "Encore",
-            "Slack Off",
-            "Earthquake",
-            "Crush Claw"
+            "Bulk Up",
+            "Shadow Ball",
+            "Taunt",
+            "Frustration"
         ],
-        "nature": "Adamant",
+        "nature": "Careful",
         "item": "Silk Scarf",
         "isCustomSet": true
         },
@@ -20632,36 +20714,16 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Bulk Up",
-            "Shadow Ball",
-            "Taunt",
-            "Frustration"
+            "Encore",
+            "Slack Off",
+            "Earthquake",
+            "Crush Claw"
         ],
-        "nature": "Adamant",
+        "nature": "Impish",
         "item": "Silk Scarf",
         "isCustomSet": true
         },
     "Vigoroth3 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Brick Break",
-            "Shadow Ball",
-            "Earthquake",
-            "Double-Edge"
-        ],
-        "nature": "Jolly",
-        "item": "Choice Band",
-        "isCustomSet": true
-        },
-    "Vigoroth4 [B]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -20680,30 +20742,30 @@ var SETDEX_ADV =
         "nature": "Impish",
         "item": "Soft Sand",
         "isCustomSet": true
+        },
+    "Vigoroth4 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Brick Break",
+            "Shadow Ball",
+            "Earthquake",
+            "Double-Edge"
+        ],
+        "nature": "Jolly",
+        "item": "Choice Band",
+        "isCustomSet": true
         }
     },
     "Vileplume": {
         "Vileplume1 [B]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Sleep Powder",
-            "Moonlight",
-            "Sludge Bomb",
-            "Petal Dance"
-        ],
-        "nature": "Quiet",
-        "item": "Persim Berry",
-        "isCustomSet": true
-        },
-    "Vileplume2 [B]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -20721,6 +20783,26 @@ var SETDEX_ADV =
         ],
         "nature": "Calm",
         "item": "Miracle Seed",
+        "isCustomSet": true
+        },
+    "Vileplume2 [B]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Sleep Powder",
+            "Moonlight",
+            "Sludge Bomb",
+            "Petal Dance"
+        ],
+        "nature": "Quiet",
+        "item": "Persim Berry",
         "isCustomSet": true
         },
     "Vileplume3 [C]": {
@@ -20853,26 +20935,6 @@ var SETDEX_ADV =
         "level": 100,
         "evs": {
             "hp": 0,
-            "at": 0,
-            "df": 170,
-            "sa": 170,
-            "sd": 170,
-            "sp": 0
-        },
-        "moves": [
-            "Water Spout",
-            "Rest",
-            "Surf",
-            "Sleep Talk"
-        ],
-        "nature": "Modest",
-        "item": "Mystic Water",
-        "isCustomSet": true
-        },
-    "Wailord2 [A]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
             "at": 170,
             "df": 170,
             "sa": 0,
@@ -20887,6 +20949,26 @@ var SETDEX_ADV =
         ],
         "nature": "Adamant",
         "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Wailord2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 170,
+            "sa": 170,
+            "sd": 170,
+            "sp": 0
+        },
+        "moves": [
+            "Water Spout",
+            "Rest",
+            "Surf",
+            "Sleep Talk"
+        ],
+        "nature": "Modest",
+        "item": "Mystic Water",
         "isCustomSet": true
         },
     "Wailord3 [B]": {
@@ -20934,26 +21016,6 @@ var SETDEX_ADV =
         "Walrein1 [D]": {
         "level": 100,
         "evs": {
-            "hp": 170,
-            "at": 0,
-            "df": 170,
-            "sa": 0,
-            "sd": 0,
-            "sp": 170
-        },
-        "moves": [
-            "Yawn",
-            "Ice Beam",
-            "Surf",
-            "Encore"
-        ],
-        "nature": "Calm",
-        "item": "Never-Melt Ice",
-        "isCustomSet": true
-        },
-    "Walrein2 [D]": {
-        "level": 100,
-        "evs": {
             "hp": 255,
             "at": 0,
             "df": 0,
@@ -20964,22 +21026,42 @@ var SETDEX_ADV =
         "moves": [
             "Substitute",
             "Hail",
-            "Surf",
+            "Dive",
             "Protect"
         ],
         "nature": "Bold",
         "item": "Leftovers",
         "isCustomSet": true
         },
+    "Walrein2 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 170,
+            "sa": 0,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Ice Beam",
+            "Charm",
+            "Surf",
+            "Encore"
+        ],
+        "nature": "Calm",
+        "item": "Never-Melt Ice",
+        "isCustomSet": true
+        },
     "Walrein3 [D]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 0,
             "at": 255,
             "df": 0,
             "sa": 0,
             "sd": 0,
-            "sp": 0
+            "sp": 255
         },
         "moves": [
             "Stockpile",
@@ -20987,17 +21069,17 @@ var SETDEX_ADV =
             "Earthquake",
             "Encore"
         ],
-        "nature": "Impish",
+        "nature": "Jolly",
         "item": "Leftovers",
         "isCustomSet": true
         },
     "Walrein4 [D]": {
         "level": 100,
         "evs": {
-            "hp": 255,
+            "hp": 170,
             "at": 0,
             "df": 0,
-            "sa": 255,
+            "sa": 170,
             "sd": 0,
             "sp": 0
         },
@@ -21007,33 +21089,13 @@ var SETDEX_ADV =
             "Ice Ball",
             "Encore"
         ],
-        "nature": "Modest",
+        "nature": "Timid",
         "item": "Leftovers",
         "isCustomSet": true
         }
     },
     "Weezing": {
         "Weezing1 [D]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Sludge Bomb",
-            "Fire Blast",
-            "Thunderbolt",
-            "Explosion"
-        ],
-        "nature": "Quiet",
-        "item": "Sitrus Berry",
-        "isCustomSet": true
-        },
-    "Weezing2 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -21044,16 +21106,16 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
-            "Sludge Bomb",
-            "Fire Blast",
             "Sunny Day",
+            "Fire Blast",
+            "Thunderbolt",
             "Memento"
         ],
-        "nature": "Naive",
+        "nature": "Timid",
         "item": "Charcoal",
         "isCustomSet": true
         },
-    "Weezing3 [D]": {
+    "Weezing2 [D]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -21064,12 +21126,32 @@ var SETDEX_ADV =
             "sp": 0
         },
         "moves": [
-            "Psybeam",
+            "Sludge Bomb",
             "Flamethrower",
-            "Hidden Power",
+            "Thunderbolt",
             "Explosion"
         ],
-        "nature": "Quiet",
+        "nature": "Brave",
+        "item": "Sitrus Berry",
+        "isCustomSet": true
+        },
+    "Weezing3 [D]": {
+        "level": 100,
+        "evs": {
+            "hp": 170,
+            "at": 0,
+            "df": 0,
+            "sa": 170,
+            "sd": 0,
+            "sp": 170
+        },
+        "moves": [
+            "Psybeam",
+            "Flamethrower",
+            "Destiny Bond",
+            "Hidden Power"
+        ],
+        "nature": "Modest",
         "item": "Twisted Spoon",
         "isCustomSet": true
         },
@@ -21120,26 +21202,6 @@ var SETDEX_ADV =
             "at": 0,
             "df": 0,
             "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Sludge Bomb",
-            "Pain Split",
-            "Will-o-Wisp",
-            "Explosion"
-        ],
-        "nature": "Impish",
-        "item": "Iapapa Berry",
-        "isCustomSet": true
-        },
-    "Weezing7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
             "sd": 0,
             "sp": 255
         },
@@ -21153,7 +21215,7 @@ var SETDEX_ADV =
         "item": "Poison Barb",
         "isCustomSet": true
         },
-    "Weezing8 [E]": {
+    "Weezing7 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -21171,6 +21233,26 @@ var SETDEX_ADV =
         ],
         "nature": "Bold",
         "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Weezing8 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Fire Blast",
+            "Will-o-Wisp",
+            "Explosion"
+        ],
+        "nature": "Relaxed",
+        "item": "Iapapa Berry",
         "isCustomSet": true
         },
     "Weezing9 [E]": {
@@ -21204,9 +21286,9 @@ var SETDEX_ADV =
             "sp": 255
         },
         "moves": [
-            "Endure",
-            "Fire Blast",
             "Sunny Day",
+            "Flamethrower",
+            "Endure",
             "Explosion"
         ],
         "nature": "Rash",
@@ -21214,6 +21296,26 @@ var SETDEX_ADV =
         "isCustomSet": true
         },
     "Weezing11 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 255,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 255
+        },
+        "moves": [
+            "Sludge Bomb",
+            "Flamethrower",
+            "Endure",
+            "Destiny Bond"
+        ],
+        "nature": "Naive",
+        "item": "Salac Berry",
+        "isCustomSet": true
+        },
+    "Weezing12 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -21227,30 +21329,10 @@ var SETDEX_ADV =
             "Sludge Bomb",
             "Fire Blast",
             "Thunderbolt",
-            "Explosion"
+            "Destiny Bond"
         ],
         "nature": "Quiet",
         "item": "Poison Barb",
-        "isCustomSet": true
-        },
-    "Weezing12 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 255,
-            "df": 0,
-            "sa": 0,
-            "sd": 0,
-            "sp": 255
-        },
-        "moves": [
-            "Sludge Bomb",
-            "Endure",
-            "Destiny Bond",
-            "Flamethrower"
-        ],
-        "nature": "Naive",
-        "item": "Salac Berry",
         "isCustomSet": true
         }
     },
@@ -21258,12 +21340,12 @@ var SETDEX_ADV =
         "Whiscash1 [A]": {
         "level": 100,
         "evs": {
-            "hp": 170,
+            "hp": 255,
             "at": 0,
             "df": 0,
             "sa": 0,
-            "sd": 170,
-            "sp": 170
+            "sd": 0,
+            "sp": 255
         },
         "moves": [
             "Dive",
@@ -21343,26 +21425,6 @@ var SETDEX_ADV =
             "hp": 0,
             "at": 0,
             "df": 255,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Double-Edge",
-            "Sing",
-            "Flamethrower",
-            "Counter"
-        ],
-        "nature": "Relaxed",
-        "item": "Figy Berry",
-        "isCustomSet": true
-        },
-    "Wigglytuff2 [A]": {
-        "level": 100,
-        "evs": {
-            "hp": 0,
-            "at": 0,
-            "df": 255,
             "sa": 255,
             "sd": 0,
             "sp": 0
@@ -21375,6 +21437,26 @@ var SETDEX_ADV =
         ],
         "nature": "Quiet",
         "item": "Leftovers",
+        "isCustomSet": true
+        },
+    "Wigglytuff2 [A]": {
+        "level": 100,
+        "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Double-Edge",
+            "Sing",
+            "Flamethrower",
+            "Counter"
+        ],
+        "nature": "Relaxed",
+        "item": "Figy Berry",
         "isCustomSet": true
         },
     "Wigglytuff3 [B]": {
@@ -21590,6 +21672,26 @@ var SETDEX_ADV =
             "hp": 255,
             "at": 0,
             "df": 0,
+            "sa": 255,
+            "sd": 0,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Extrasensory",
+            "Hidden Power",
+            "Metal Sound"
+        ],
+        "nature": "Modest",
+        "item": "Twisted Spoon",
+        "isCustomSet": true
+        },
+    "Zapdos2 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
             "sa": 0,
             "sd": 255,
             "sp": 0
@@ -21604,27 +21706,47 @@ var SETDEX_ADV =
         "item": "Leftovers",
         "isCustomSet": true
         },
-    "Zapdos2 [E]": {
+    "Zapdos3 [E]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
+            "hp": 255,
+            "at": 0,
             "df": 0,
             "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Toxic",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Chesto Berry",
+        "isCustomSet": true
+        },
+    "Zapdos4 [E]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 255,
+            "sa": 0,
             "sd": 0,
-            "sp": 255
+            "sp": 0
         },
         "moves": [
             "Thunderbolt",
             "Drill Peck",
-            "Steel Wing",
-            "Sky Attack"
+            "Toxic",
+            "Rest"
         ],
-        "nature": "Jolly",
-        "item": "Choice Band",
+        "nature": "Relaxed",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Zapdos3 [E]": {
+    "Zapdos5 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -21644,7 +21766,7 @@ var SETDEX_ADV =
         "item": "Magnet",
         "isCustomSet": true
         },
-    "Zapdos4 [E]": {
+    "Zapdos6 [E]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -21664,7 +21786,7 @@ var SETDEX_ADV =
         "item": "Starf Berry",
         "isCustomSet": true
         },
-    "Zapdos5 [E]": {
+    "Zapdos7 [E]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -21684,87 +21806,27 @@ var SETDEX_ADV =
         "item": "Salac Berry",
         "isCustomSet": true
         },
-    "Zapdos6 [E]": {
+    "Zapdos8 [E]": {
         "level": 100,
         "evs": {
-            "hp": 255,
-            "at": 0,
+            "hp": 0,
+            "at": 255,
             "df": 0,
-            "sa": 255,
-            "sd": 0,
-            "sp": 0
-        },
-        "moves": [
-            "Thunderbolt",
-            "Extrasensory",
-            "Hidden Power",
-            "Metal Sound"
-        ],
-        "nature": "Modest",
-        "item": "Twisted Spoon",
-        "isCustomSet": true
-        },
-    "Zapdos7 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 255,
             "sa": 0,
             "sd": 0,
-            "sp": 0
+            "sp": 255
         },
         "moves": [
             "Thunderbolt",
             "Drill Peck",
-            "Toxic",
-            "Rest"
+            "Steel Wing",
+            "Sky Attack"
         ],
-        "nature": "Relaxed",
-        "item": "Chesto Berry",
-        "isCustomSet": true
-        },
-    "Zapdos8 [E]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Thunderbolt",
-            "Roar",
-            "Toxic",
-            "Rest"
-        ],
-        "nature": "Calm",
-        "item": "Chesto Berry",
+        "nature": "Jolly",
+        "item": "Choice Band",
         "isCustomSet": true
         },
     "Zapdos9 [F]": {
-        "level": 100,
-        "evs": {
-            "hp": 255,
-            "at": 0,
-            "df": 0,
-            "sa": 0,
-            "sd": 255,
-            "sp": 0
-        },
-        "moves": [
-            "Thunderbolt",
-            "Roar",
-            "Sleep Talk",
-            "Rest"
-        ],
-        "nature": "Calm",
-        "item": "Leftovers",
-        "isCustomSet": true
-        },
-    "Zapdos10 [F]": {
         "level": 100,
         "evs": {
             "hp": 0,
@@ -21784,7 +21846,7 @@ var SETDEX_ADV =
         "item": "Sharp Beak",
         "isCustomSet": true
         },
-    "Zapdos11 [F]": {
+    "Zapdos10 [F]": {
         "level": 100,
         "evs": {
             "hp": 170,
@@ -21804,7 +21866,7 @@ var SETDEX_ADV =
         "item": "Petaya Berry",
         "isCustomSet": true
         },
-    "Zapdos12 [F]": {
+    "Zapdos11 [F]": {
         "level": 100,
         "evs": {
             "hp": 255,
@@ -21822,6 +21884,26 @@ var SETDEX_ADV =
         ],
         "nature": "Relaxed",
         "item": "Lum Berry",
+        "isCustomSet": true
+        },
+    "Zapdos12 [F]": {
+        "level": 100,
+        "evs": {
+            "hp": 255,
+            "at": 0,
+            "df": 0,
+            "sa": 0,
+            "sd": 255,
+            "sp": 0
+        },
+        "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Sleep Talk",
+            "Rest"
+        ],
+        "nature": "Calm",
+        "item": "Leftovers",
         "isCustomSet": true
         }
     }
