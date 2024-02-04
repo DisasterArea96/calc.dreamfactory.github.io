@@ -8996,21 +8996,21 @@ var SETDEX_ADV =
         "Hypno1 [C]": {
         "level": 100,
         "evs": {
-            "hp": 0,
-            "at": 255,
+            "hp": 255,
+            "at": 0,
             "df": 0,
             "sa": 0,
-            "sd": 0,
-            "sp": 255
+            "sd": 255,
+            "sp": 0
         },
         "moves": [
-            "Belly Drum",
-            "Substitute",
-            "Brick Break",
-            "Shadow Ball"
+            "Calm Mind",
+            "Barrier",
+            "Rest",
+            "Assist"
         ],
-        "nature": "Jolly",
-        "item": "Salac Berry",
+        "nature": "Sassy",
+        "item": "Chesto Berry",
         "isCustomSet": true
         },
     "Hypno2 [C]": {
@@ -9025,7 +9025,7 @@ var SETDEX_ADV =
         },
         "moves": [
             "Counter",
-            "Assist",
+            "Hypnosis",
             "Thunder Wave",
             "Psychic"
         ],
@@ -9093,24 +9093,24 @@ var SETDEX_ADV =
         "item": "Chesto Berry",
         "isCustomSet": true
         },
-    "Hypno6 [D]": {
+        "Hypno6 [D]": {
         "level": 100,
         "evs": {
             "hp": 0,
-            "at": 0,
+            "at": 255,
             "df": 0,
-            "sa": 255,
+            "sa": 0,
             "sd": 0,
             "sp": 255
         },
         "moves": [
-            "Hypnosis",
-            "Fire Punch",
-            "Ice Punch",
-            "Dream Eater"
+            "Belly Drum",
+            "Substitute",
+            "Brick Break",
+            "Shadow Ball"
         ],
-        "nature": "Timid",
-        "item": "Twisted Spoon",
+        "nature": "Jolly",
+        "item": "Salac Berry",
         "isCustomSet": true
         }
     },
