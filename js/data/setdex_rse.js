@@ -7498,7 +7498,7 @@ var SETDEX_ADV =
         "moves": [
             "Crunch",
             "Flamethrower",
-            "Smelling Salts",
+            "Smelling Salt",
             "Thunder Wave"
         ],
         "nature": "Quiet",
