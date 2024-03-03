@@ -1221,7 +1221,7 @@ var SETDEX_ADV =
           "Earthquake",
           "Swords Dance"
         ],
-        "nature": ",
+        "nature": "Adamant",
         "item": "Silk Scarf",
         "isCustomSet": true
       },
